@@ -7,6 +7,7 @@
 ## Übersicht
 
 - LichtSensor
+- TemperaturSensor
 
 
 
