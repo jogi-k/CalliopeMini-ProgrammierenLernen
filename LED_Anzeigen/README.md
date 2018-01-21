@@ -70,8 +70,10 @@ basic.forever(() => {
     basic.pause(1000)
 })
 
+```
 </details>
 
 ## Download Hex-Code
 
 ![Hex-code](mini-LedAnzeigenMitPause.hex)
+
