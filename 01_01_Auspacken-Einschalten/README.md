@@ -2,7 +2,7 @@
 
 ## Auspacken des Calliope
 
-![Auspacken des Calliope](https://de.wikipedia.org/wiki/Calliope_mini#/media/File:Calliope_mini_StarterSet_komplett_Front_JoernAlraun.jpg) 
+![Auspacken des Calliope](https://commons.wikimedia.org/wiki/File:Calliope_mini_StarterSet_komplett_Front_JoernAlraun.jpg#/media/File:Calliope_mini_StarterSet_komplett_Front_JoernAlraun.jpg) 
 
 
 ## Calliope selbst
