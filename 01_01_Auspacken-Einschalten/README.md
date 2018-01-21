@@ -2,21 +2,29 @@
 
 ## Auspacken des Calliope
 
-![Auspacken des Calliope](https://commons.wikimedia.org/wiki/File:Calliope_mini_StarterSet_komplett_Front_JoernAlraun.jpg#/media/File:Calliope_mini_StarterSet_komplett_Front_JoernAlraun.jpg) 
+Das Paket enthaelt
+
+* Den Calliope Mini selbst
+* Ein Micro-USB-Kabel
+* Ein Batterie-Fach
+* 2 Batterien
+* 2 Krokodil-Klemmen
+* 2 LEDs
+* Eine Anleitung
 
 
-## Calliope selbst
+## Der Calliope Mini selbst
 
 ![Foto Calliope](Calliope_Ausgepackt.png)
 
 * Der Calliope, ausgepackt
 
 
-## Calliope : Was ist dran
+## Calliope Mini : Was ist dran
 
 ![Foto Calliopei mit Erklaerungen](Calliope_Ausgepackt_MitBeschriftung.png)
 
-* Der Calliope, ausgepackt
+* Der Calliope Mini, ausgepackt
 
 
 ## Batteriefach 
