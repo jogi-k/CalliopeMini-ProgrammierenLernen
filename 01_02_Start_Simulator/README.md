@@ -11,7 +11,7 @@ Aufruf von <http://pxt.calliope.cc>
 Links Simulator-Bereich  
 Simuliert den Calliope
 
-![Arbeits-Bereich](SimulatorEdit_0.png)
+![Arbeits-Bereich](pics/SimulatorEdit_0.png)
 
 Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
@@ -19,47 +19,47 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
 ## Bearbeiten von Programmen
 
-![Grundlagen oeffnet ein Menu](SimulatorEdit_1.png)
+![Grundlagen oeffnet ein Menu](pics/SimulatorEdit_1.png)
 
 * Ein Klick auf Grundlagen
-* Oeffnet ein Menu mit grundlegenden Befehlen
+* Öffnet ein Menu mit grundlegenden Befehlen
 * Hier klickt man z.B. mit der Maus auf "zeige LEDs" und schiebt das ICON in den Arbeitsbereich, 
 * Dazu mit der linken Maustaste auf das ICON gehen, die Maustaste NICHT loslassen und dann das ICON nach rechts in den Arbeitsbereich schieben 
  
 # Arbeiten im Arbeitsbereich
 
-![Zeige leds im Arbeitsbereich](SimulatorEdit_2.png)
+![Zeige leds im Arbeitsbereich](pics/SimulatorEdit_2.png)
 
 * Im Arbeitsbereich landet das Icon "zeige LEDs"
 
 # Einhaengen der Symbole in die Arbeits-Schleife
 
-![Einklicken in die Schleife](SimulatorEdit_3.png)
+![Einklicken in die Schleife](pics/SimulatorEdit_3.png)
 
 * Dieses kann man nun in die vorhandene Schleife "dauerhaft" einklicken
-* Auch dazu das ICON mit der linken Maustaste anklicken und die Maustaste gedrueckt halten 
-* Mit gedrueckter Maustaste in die Schleife schieben
+* Auch dazu das ICON mit der linken Maustaste anklicken und die Maustaste gedrÜckt halten 
+* Mit gedrÜckter Maustaste in die Schleife schieben
 
 # Bearbeiten des Programm-Stuecks
 
-![Leds aendern](SimulatorEdit_4.png)
+![Leds aendern](pics/SimulatorEdit_4.png)
 
 * Nun kann man einzelne Leds im Arbeitsbereich an und ausschalten
 * Einfach mit der linken Maustaste die LED anklicken zum Ein und
 * nocheinmal Anklicken um die LED wieder auszuschalten 
 
-# Uebersetzen in Computer-Sprache  
+# Übersetzen in Computer-Sprache  
 
-![Simulator arbeitet](SimulatorEdit_5.png)
+![Simulator arbeitet](pics/SimulatorEdit_5.png)
 
 
-* Im Hintergrund wird das Programm neu "uebersetzt" und in den Simulator geladen
+* Im Hintergrund wird das Programm neu "übersetzt" und in den Simulator geladen
 * Der Simulator ist grau, kann nicht genutzt werden
 
-# Das Programm laeuft im Simulator
+# Das Programm läuft im Simulator
 
-![Programm im Simulator](SimulatorEdit_6.png)
+![Programm im Simulator](pics/SimulatorEdit_6.png)
 
 
-* Das Programm ist in Calliope-Computer-Sprache uebersetzt und in den Simulator geladen
+* Das Programm ist in Calliope-Computer-Sprache übersetzt und in den Simulator geladen
 
