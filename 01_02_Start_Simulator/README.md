@@ -19,7 +19,7 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
 ## Bearbeiten von Programmen
 
-![Grundlagen oeffnet ein Menu](pics/SimulatorEdit_1.png)
+![Grundlagen öffnet ein Menu](pics/SimulatorEdit_1.png)
 
 * Ein Klick auf Grundlagen
 * Öffnet ein Menu mit grundlegenden Befehlen
@@ -32,17 +32,17 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
 * Im Arbeitsbereich landet das Icon "zeige LEDs"
 
-# Einhaengen der Symbole in die Arbeits-Schleife
+# Einhängen der Symbole in die Arbeits-Schleife
 
 ![Einklicken in die Schleife](pics/SimulatorEdit_3.png)
 
 * Dieses kann man nun in die vorhandene Schleife "dauerhaft" einklicken
-* Auch dazu das ICON mit der linken Maustaste anklicken und die Maustaste gedrÜckt halten 
-* Mit gedrÜckter Maustaste in die Schleife schieben
+* Auch dazu das ICON mit der linken Maustaste anklicken und die Maustaste gedrückt halten 
+* Mit gedrückter Maustaste in die Schleife schieben
 
-# Bearbeiten des Programm-Stuecks
+# Bearbeiten des Programm-Stücks
 
-![Leds aendern](pics/SimulatorEdit_4.png)
+![Leds ändern](pics/SimulatorEdit_4.png)
 
 * Nun kann man einzelne Leds im Arbeitsbereich an und ausschalten
 * Einfach mit der linken Maustaste die LED anklicken zum Ein und
