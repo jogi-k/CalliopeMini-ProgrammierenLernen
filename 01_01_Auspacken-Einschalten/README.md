@@ -15,14 +15,14 @@ Das Paket enthaelt
 
 ## Der Calliope Mini selbst
 
-![Foto Calliope](Calliope_Ausgepackt.png)
+![Foto Calliope](pics/Calliope_Ausgepackt.png)
 
 * Der Calliope, ausgepackt
 
 
 ## Calliope Mini : Was ist dran
 
-![Foto Calliopei mit Erklaerungen](Calliope_Ausgepackt_MitBeschriftung.png)
+![Foto Calliopei mit Erklaerungen](pics/Calliope_Ausgepackt_MitBeschriftung.png)
 
 * Der Calliope Mini, ausgepackt
 
@@ -31,25 +31,25 @@ Das Paket enthaelt
 
 * Batterie einlegen 
 
-![Batteriefach](BatterieFach.png)
+![Batteriefach](pics/BatterieFach.png)
 
 * und Batteriefach zumachen
 * Schalter ausschalten 
 
 
-![Batteriefach mit Schalter](BatterieFachSchalter.png)
+![Batteriefach mit Schalter](pics/BatterieFachSchalter.png)
 
 
 ## Batterie anschliessen
 
-![Kabel anschliessen](KabelAnschliessen.png)
+![Kabel anschliessen](pics/KabelAnschliessen.png)
 
 * Das Kabel der Batterie anschliessen
 
 ## Anschluss - Nut
 
 
-![Anschluss Nut ](AnschlussNut.png)
+![Anschluss Nut ](pics/AnschlussNut.png)
 
 * Auf die Anschluss-Nut achten.
 
@@ -57,7 +57,7 @@ Das Paket enthaelt
 ## Kabel-Nase in Anschluss - Nut
 
 
-![Kabel Nase in Anschluss Nut ](AnschlussNutMitKabelNase.png)
+![Kabel Nase in Anschluss Nut ](pics/AnschlussNutMitKabelNase.png)
 
 * Auf die Anschluss-Nut achten, die Nase des Kabels muss nach oben zeigen.
 
