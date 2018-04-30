@@ -2,11 +2,11 @@
 
 ## Auswahl aus Menu
 
-![LED anzeigen Menu](LedAnzeigenMenu.png)
+![LED anzeigen Menu](pics/LedAnzeigenMenu.png)
 
 ## PXT-Code
 
-![LED anzeigen](LedAnzeigen.png)
+![LED anzeigen](pics/LedAnzeigen.png)
 
 ## JavaScript-Code
 
@@ -28,11 +28,11 @@ basic.forever(() => {
 
 ## Download Hex-Code
 
-![Hex-code](mini-LedAnzeigen.hex)
+![Hex-code](code/mini-LedAnzeigen.hex)
 
 ## Erweiterung mit Warten
 
-![Pause einfuegen Menu](PausenMenu.png)
+![Pause einfuegen Menu](pics/PausenMenu.png)
 
 Einheit: 
 
@@ -43,7 +43,7 @@ Einheit:
 
 ## PXT-Code
 
-![LED anzeigen mit Pause](LedAnzeigenMitPause.png)
+![LED anzeigen mit Pause](pics/LedAnzeigenMitPause.png)
 
 ## JavaScript-Code
 
@@ -75,5 +75,5 @@ basic.forever(() => {
 
 ## Download Hex-Code
 
-![Hex-code](mini-LedAnzeigenMitPause.hex)
+![Hex-code](code/mini-LedAnzeigenMitPause.hex)
 
