@@ -7,7 +7,7 @@ Darum, wenn man einen Text anzeigen will : => Zeichenketten !
 
 ## Auswahl aus Menu
 
-![Menu-Auswahl](ZeichenkettenMenu.png)
+![Menu-Auswahl](pics/ZeichenkettenMenu.png)
 
 ## PXT-Code
 
@@ -16,7 +16,7 @@ Diese Programm gibt genau diese Zeichenfolge auf dem Bildschirm aus.
 Unser "Bildschirm" ist die LED-Anzeige.
 Wenn der Text nicht auf den Bildschirm (die LED-Anzeige) passt, dann wird ein Lauftext erstellt.  
 
-![Menu-Auswahl](ZeichenkettenAnzeigen.png)
+![Menu-Auswahl](pics/ZeichenkettenAnzeigen.png)
 
 ## JavaScript-Code
 
@@ -32,5 +32,5 @@ basic.forever(() => {
 
 ## Download Hex-Code
 
-![Hex-code](mini-ZeichenketteAnzeigen.hex)
+![Hex-code](code/mini-ZeichenketteAnzeigen.hex)
 
