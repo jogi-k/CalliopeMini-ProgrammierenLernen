@@ -2,19 +2,19 @@
 
 ## Erklärung
 
-Wenn man das Problem unseres Taschenrechner vermeiden will, dann muss man mehr Flexibilität haben.  
+Wenn man den Taschenrechner etwas universeller haben will, dann muss man mehr Flexibilität haben.  
 D.h man muss mit verschiedenen, unterschiedlichen Werten arbeiten können.  
-Anstatt den Programm-Code anzuändern und die Berechnung jedesmal neu zu übersetzen, brauchen wir sogenannte Platzhalter.  
+Anstatt den Programm-Code immer abzuändern und die Berechnung jedesmal neu zu übersetzen, brauchen wir sogenannte Platzhalter.
+Platzhalter nennt man beim Programmieren auch Variablen, weil die Platzhalter unterschiedliche Werte, variable Werte aufnehmen kann.  
 Das kann man sich z.B. beim einfachen Zählen mit zwei Händen vorstellen:  
 
 - Jede Hand ist ein Platzhalter.  
 - Jede Hand kann in diesem Fall Werte bis 5 "aufnehmen" (Wertebereich des Platzhalters von 0-5)
 - Die beiden Hände können unterschiedliche Werte "aufnehmen"
 - Nachdem beiden Händen Werte "zugewiesen" wurden, kann man mit den Platzhaltern rechnen.
-- Linke_Hand + Rechte_Hand = xxxx
-- Besser noch, in der Programmierung heisste es :
-- Anzeige = Linke_Hand + Rechte_Hand  oder
-- Neuer Platzhalter = Linke Hand + Rechte Hand
+- Linke_Hand + Rechte_Hand = Gesuchte Summe
+- In der Programmierung wird das ganze dann umgedreht :
+- Gesuchte Summe = Linke_Hand + Rechte_Hand  
 
 ## Die Hände
 
@@ -25,16 +25,19 @@ Das kann man sich z.B. beim einfachen Zählen mit zwei Händen vorstellen:
 ## Zuweisung
 
 Damit Platzhalter Werte aufnehme können, werden ihnen Werte zugewiesen.  
-Das geschieht in der Prgrammierung mit dem Gleichheitszeichen.
+Das geschieht in der Programmierung mit dem Gleichheitszeichen.
 Dieses Gleichheitszeichen ist nicht zu verwechseln mit dem Gleichheitszeichen in der Mathematik.  
 Das Gleichheits-Zeichen beim Programmieren bedeutet, dass dem Platzhalter auf der linken Seite der Wert auf der rechten Seite des Gleichheits-Zeichens zu gewiesen wird.
 
+Beispiel 1: 
 
 Linke Hand = 3  
 
 ![Linke Hand](pics/LinkeHand_3.png)
 
 heisst : Ab jetzt hat der Platzhalter Linke Hand den Wert 3.
+
+Beispiel 2:
 
 Rechte Hand = 5 
 
@@ -46,14 +49,14 @@ heisst : Ab jetzt hat der Platzhalter Rechte Hand den Wert 5.
 
 Anstatt 3 + 5 heisst unsere Rechnung nun:
 
-Linke Hand + Rechte Hand = ???
+Linke Hand + Rechte Hand = Gesuchte Summe
 
 Um daraus einen Programmiervorschrift zu machen, dreht man die beiden Teile um das Gleichheits-Zeichen herum, also:
 
-Neuer Platzhalter = Linke Hand + Rechte Hande 
+Gesuchte Summe = Linke Hand + Rechte Hand 
 
 Diese eine Berechnungs-Anweisung / Formel ist unser "Programm" und ist für völlg verschiedene Werte von Rechte Hand und Linke Hand durchführbar.
-Man kann die Zuweisungen irgendwann machen und erst viel später (wenn man als Mensch schon lange die Werte vergessen hat) die beide Platzhalter addieren.
+Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel später (wenn man als Mensch schon lange die Werte vergessen hat) die beide Platzhalter addieren.
 
 
 ## Auswahl aus Menu
@@ -77,7 +80,7 @@ Verwendung der Variablen Ausgaben und Berechnungen anstatt fester Werte.
 
 ![Menu-Verwenden-2](pics/PlatzhalterBenutzenMenu_2.png)
 
-Dazu zieht man die Variable/den Platzhalter genau an die Stelle an der feste Werte benutzt wurden.
+Dazu zieht man die Variable/den Platzhalter genau an die Stelle an der vorher feste Werte benutzt wurden.
 
 
 
