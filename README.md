@@ -6,12 +6,17 @@ __Basteln, Elektronik und Programmieren Lernen mit Calliope-Mini__
 
 ## Lektionen / Nachmittage
 
-### Lektion / Nachmittag  1
+### [Lektion / Nachmittag  1](01_Tag1)
 
-- 01_01_Auspacken-Einschalten
-- 01_02_Start_Simulator
-- 01_03_LED_Anzeigen
-- tbc 
+* [01: Auspacken, Einschalten](01_Tag1/01_01_Auspacken-Einschalten)
+* [02: Start Simulator](01_Tag1/01_02_Start_Simulator)
+* [03: LED Anzeigen](01_Tag1/01_03_LED_Anzeigen)
+* [04: Programm auf Calliope laden](01_Tag1/01_04_Programm_Auf_Calliope_Laden)
+* [05: Texte anzeigen](01_Tag1/01_05_Texte_Anzeigen)
+* [06: Zahlen anzeigen](01_Tag1/01_06_Zahlen_Anzeigen)
+* [07: Platzhalter/Variablen](01_Tag1/01_07_Platzhalter)
+* [08: Tasten-Eingabe](01_Tag1/01_08_TastenEingabe)
+* [09: Taschenrechner](01_Tag1/01_09_Taschenrechner)
 
 ### Lektion / Nachmittag  2
 
@@ -37,4 +42,5 @@ __Basteln, Elektronik und Programmieren Lernen mit Calliope-Mini__
 - TemperaturSensor	
 - ZahlenAnzeigen	
 - ZeichenkettenAnzeigen	
+
 
