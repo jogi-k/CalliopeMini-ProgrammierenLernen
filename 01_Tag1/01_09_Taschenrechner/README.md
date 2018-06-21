@@ -120,5 +120,10 @@ basic.showString("start")
 ![Hex-code](code/mini-EingabeFinal.hex)
 
 
+## Lizenz/Copyright-Info
+Für alle Bilder auf dieser Seite gilt:
+
+*  Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
 
 

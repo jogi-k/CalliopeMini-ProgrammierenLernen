@@ -77,3 +77,9 @@ basic.forever(() => {
 
 ![Hex-code](code/mini-LedAnzeigenMitPause.hex)
 
+
+## Lizenz/Copyright-Info
+Für alle Bilder auf dieser Seite gilt:
+
+*  Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0

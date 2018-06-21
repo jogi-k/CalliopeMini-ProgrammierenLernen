@@ -34,3 +34,8 @@ basic.forever(() => {
 
 ![Hex-code](code/mini-ZeichenketteAnzeigen.hex)
 
+## Lizenz/Copyright-Info
+Für alle Bilder auf dieser Seite gilt:
+
+*  Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
