@@ -28,10 +28,10 @@ Schliesslich lernen wir, was PlatzhalterVariablen sind, wie man auf Tastendrück
 
 ### Weitere Schritte
 
-* Schau mal, ob Du irgendwo : "Wenn geschüttelt" findest?
-* Wie wäre es, den Taschenrechner wieder auf 0 zu setzen, wenn der Calliope geschüttelt wird?
-* Kannst Du verschiedene Texte ausgeben, je nachdem welche Taste gedrückt wird?
-* So sind zumindest 4 verschiedene Texte möglich:
+* Zum Taschenrechner: Schau mal, ob Du irgendwo : "Wenn geschüttelt" findest?
+* Zum Taschenrechner: Wie wäre es, den Taschenrechner wieder auf 0 zu setzen, wenn der Calliope geschüttelt wird?
+* Zur Ausgabe allgemein: Kannst Du verschiedene Texte ausgeben, je nachdem welche Taste gedrückt wird?
+* Zur Ausgabe allgemein: So sind zumindest 4 verschiedene Texte möglich:
     * Beim Einschalten
     * A-Taste
     * B-Taste
