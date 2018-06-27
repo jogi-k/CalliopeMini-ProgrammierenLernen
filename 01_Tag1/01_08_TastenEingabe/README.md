@@ -131,6 +131,15 @@ basic.forever(() => {
 ![Hex-code](mini-EingabeFinal.hex)
 
 
+## Navigation
+
+
+* ![Zurück](../01_07_Platzhalter/README.md)
+* ![Hoch zur Übersicht](../README.md)  
+* ![Weiter ](../01_09_Taschenrechner/README.md)
+
+
+
 
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite gilt:

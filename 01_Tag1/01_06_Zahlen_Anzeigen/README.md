@@ -97,6 +97,14 @@ Aber immerhin.
 Weiter geht es dann mit einem "echten" kleinen Rechner.
 
 
+## Navigation
+
+
+* ![Zurück](../01_05_Texte_Anzeigen/README.md)  
+* ![Hoch zur Übersicht](../README.md)  
+* ![Weiter ](../01_07_Platzhalter/README.md)
+
+
 
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite gilt:

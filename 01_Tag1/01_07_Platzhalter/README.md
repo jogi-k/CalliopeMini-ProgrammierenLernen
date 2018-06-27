@@ -122,6 +122,13 @@ basic.forever(() => {
 
 ![Hex-code](mini-PlatzhalterFinal.hex)
 
+## Navigation
+
+
+* ![Zurück](../01_06_Zahlen_Anzeigen/README.md)  
+* ![Hoch zur Übersicht](../README.md)  
+* ![Weiter ](../01_08_TastenEingabe/README.md)
+
 
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite gilt:

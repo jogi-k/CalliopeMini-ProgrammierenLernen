@@ -92,6 +92,10 @@ Wenn das Programm fertig geflasht ist,
 ![Das Programm läuft](pics/10_ProgrammLaeuft.jpg)
 
 
+* ![Zurück](../01_03_LED_Anzeigen/README.md)  
+* ![Hoch zur Übersicht](../README.md)  
+* ![Weiter ](../01_05_Texte_Anzeigen/README.md)
+
 
 
 ## Lizenz/Copyright-Info

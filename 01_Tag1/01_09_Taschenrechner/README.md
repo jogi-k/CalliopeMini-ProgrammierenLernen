@@ -119,6 +119,14 @@ basic.showString("start")
 
 ![Hex-code](code/mini-EingabeFinal.hex)
 
+## Navigation
+
+
+* ![Zurück](../01_08_TastenEingabe/README.md)  
+* ![Hoch zur Übersicht](../README.md)  
+
+
+
 
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite gilt:

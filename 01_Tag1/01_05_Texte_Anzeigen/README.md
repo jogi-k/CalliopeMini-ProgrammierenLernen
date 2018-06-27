@@ -34,6 +34,16 @@ basic.forever(() => {
 
 ![Hex-code](code/mini-ZeichenketteAnzeigen.hex)
 
+
+## Navigation
+
+
+* ![Zurück](../01_04_Programm_Auf_Calliope_Laden/README.md)  
+* ![Hoch zur Übersicht](../README.md)  
+* ![Weiter ](../01_06_Zahlen_Anzeigen/README.md)
+
+
+
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite gilt:
 
