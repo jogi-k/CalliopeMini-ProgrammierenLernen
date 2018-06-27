@@ -9,7 +9,7 @@ Das Paket enthaelt
 * Ein Batterie-Fach
 * 2 Batterien
 * ~~2 Krokodil-Klemmen~~
-* ~~ 2 LEDs~~ (war früher mit dabei...)
+* ~~2 LEDs~~ (war früher mit dabei...)
 * Eine Anleitung
 
 
@@ -86,7 +86,7 @@ Das Paket enthaelt
 Wenn Ihr im Verlauf des Programmier-Kurses das ursprüngliche Programm mit Euerem eigenen überschrieben habt (was ich hoffe), dann gibt es hier das ursprüngliche eingebaute Programm zum Download: ![Original-Start-Programm](code/calliope-demo-combined.hex)
 
 Wer Interesse daran hat, kann sich das auch selbst generieren, dazu sind aber andere Programmierwerkzeuge notwendig, wie die die wir im Kurs verwenden:
-![Original-Programm-Source](/https://github.com/calliope-mini/calliope-demo.git)
+![Original-Programm-Source](https://github.com/calliope-mini/calliope-demo.git)
 
 
 ## Navigation
