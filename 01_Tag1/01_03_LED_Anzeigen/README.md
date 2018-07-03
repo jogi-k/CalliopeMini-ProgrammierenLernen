@@ -80,9 +80,9 @@ basic.forever(() => {
 ## Navigation
 
 
-* ![Zurück](../01_02_Start_Simulator/README.md)  
-* ![Hoch zur Übersicht](../README.md)  
-* ![Weiter ](../01_04_Programm_Auf_Calliope_Laden/README.md)
+* [Zurück](../01_02_Start_Simulator/README.md)  
+* [Hoch zur Übersicht](../README.md)  
+* [Weiter ](../01_04_Programm_Auf_Calliope_Laden/README.md)
 
 
 ## Lizenz/Copyright-Info
