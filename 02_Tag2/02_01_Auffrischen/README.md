@@ -109,7 +109,30 @@ DIe Art der Rechnung kann im Nachhinein auch immernoch durch Klick in das Dreiec
 ![09_Arbeitsbereich.png](./pics/09_Arbeitsbereich.png)
 
 
+## Speichern und Übertragen auf Calliope
+
+* Das erstellte Programm läuft automatisch im Simulator.
+* Soll es im echten Calliope laufen muss es zuerst heruntergeladen werden
+* So wie Filme/Bilder/Texte etc die im Browser aus dem Internet herunter geladen werden, landet auch die __HEX__-Datei im Verzeichnis __Downloads__
+* Beim Anstecken des Calliope wird dieser vom Computer wie ein USB-Stick behandelt, er taucht wie ein USB-Stick im Datei-Explorer auf
+* Um das erstellte Programm auf den Calliope zu bringen um dort ausgeführt zu werden, muss die HEX-Datei vom Download-Verzeichnis auf den "USB-Stick" namen __MINI__ kopiert werden. 
+
+![10_Speichern.png](./pics/10_Speichern.png)
+
+![11_DownloadsFolder.png](./pics/11_DownloadsFolder.png)
+
+![11_Mini_USB-Stick.png](./pics/11_Mini_USB-Stick.png)
+
+
+## Navigation
+
+* [Hoch zur Übersicht](../README.md)  
+* [Weiter ](../02_02_Elektronik_Spannungsquelle/README.md)
 
 
 
+## Lizenz/Copyright-Info
+Für alle Bilder auf dieser Seite gilt:
 
+*  Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
