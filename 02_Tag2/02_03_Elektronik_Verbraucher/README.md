@@ -50,4 +50,20 @@ So wie bei den Spannungs-Quellen, den Wasserfällen, die es in sehr verschiedene
   ![kleines Wasserrad ](pics/Wasserrad_Klein.jpg)
 
 
+## Navigation
+
+* [Zurück ](../02_02_Elektronik_Spannungsquelle/README.md)
+* [Hoch zur Übersicht](../README.md)  
+* [Weiter ](../02_04_Elektronik_Stromkreis/README.md)
+
+
+https://lizenzhinweisgenerator.de/
+
+https://de.wikipedia.org/wiki/Wasserrad#/media/File:Laxey_wheel_1.JPG
+
+https://de.wikipedia.org/wiki/Wasserrad#/media/File:Wasserrad_unterschlaechtig.jpg
+
+Gustav Broennimann, Wasserrad unterschlaechtig, als gemeinfrei gekennzeichnet, Details auf Wikimedia Commons
+
+No machine-readable author provided. Smurrayinchester assumed (based on copyright claims)., Laxey wheel 1, als gemeinfrei gekennzeichnet, Details auf Wikimedia Commons
 

@@ -66,7 +66,7 @@ Der <font color="BLUE"> __Minus-Pol__ </font> wird entweder mit <font color="BLU
  
  Was passiert, wenn man grössere Spannungen versucht zu fühlen?
  
- Bild von Globi, Hase am Kabel.
+ ![Bild aus Globi bei der Feuerwehr ](pics/Globi_Hase.jpg)
  
  An der Steckdose sind hierzulande 220 V, das ist fast das 150-fache von unserer 1.5 V Batterie!
  Vergleich: 
@@ -127,4 +127,12 @@ Das ist ein kleiner, "handlicher" Wasserfall.
 Eine ganz gute Einführung in Strom und Spannung gibts in der Sendung mit der Maus
 
 https://www.youtube.com/watch?v=Je22SgH8TCk
+
+
+## Navigation
+
+* [Zurück ](../02_01_Auffrischen/README.md)
+* [Hoch zur Übersicht](../README.md)  
+* [Weiter ](../02_03_Elektronik_Verbraucher/README.md)
+
 
