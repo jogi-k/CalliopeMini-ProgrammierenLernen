@@ -83,5 +83,5 @@ Ist die Spannungsquelle zu gross, wird ziemlich sicher irgendetwas zerstört wer
 
 * [Zurück ](../02_03_Elektronik_Verbraucher/README.md)
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../02_05_BatterieTester/README.md)
+* [Weiter ](..//README.md)
 
