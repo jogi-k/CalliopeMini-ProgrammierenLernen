@@ -50,7 +50,10 @@ enthält die Wenn-Dann Programmierung, es enthält die Vergleiche die wir machen
 ## Wenn Dann in der Dauerschleife
 
 Das Wenn-Dann ziehen wir in den Arbeitsbereich in die Dauer-Schleife
+
+
 ![05_WennWahr.png](./pics/05_WennWahr.png)
+
 
 ## Symbole in der Wenn-Dann
 
