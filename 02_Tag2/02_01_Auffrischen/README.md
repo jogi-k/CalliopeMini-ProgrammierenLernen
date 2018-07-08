@@ -92,7 +92,7 @@ DIe Art der Rechnung kann im Nachhinein auch immernoch durch Klick in das Dreiec
 * Veränderbar = __variabel__
 * => Platzhalter = __Variable__
 
-![08_Einführung_Variablen.png](./pics/08_Einführung_Variablen.png)
+![08_Einführung_Variablen.png](./pics/08_Einfuehrung_Variablen.png)
 
 
 ## Die Entwicklungs-Umgebung  

@@ -10,12 +10,11 @@ __ACHTUNG__ : Die Steckdose ist der falsche Weg, um mit Elektronik und Spannung 
 ![](pics/Steckdose-Schweiz_Nein.jpeg) 
 
 
-Also nehmen wir etwas, das Ihr auch alle kennt, das aber etwas ungefährlicher ist und Ihr vermutlich von Taschenlampen etc kennt: Batterien
+Also nehmen wir etwas, das Ihr auch alle kennt, das aber etwas ungefährlicher ist und Ihr vermutlich von Taschenlampen etc kennt: __Batterien__
 
 Batterien gibt es in unterschiedlichen Ausführungen.
 
-![Batterien ](pics/Batterien_Versch.png)
-![Batterien ](pics/Batterie_4.5.png)  ![Batterien ](pics/Batterie_knopfzellen.jpg)
+![Batterien ](pics/Batterien_Gemischt.jpg)
 
 
 Diese Batterien unterscheiden sich jedoch nicht nur in der Grösse und den Bauformen, sie unterscheiden sich auch in den __Spannungen__ , die diese Batterien liefern.
@@ -24,9 +23,9 @@ Das ist die sogenannte __Einheit__.
 Vergleiche zum Beispiel : Entfernungen werden in Meter (__m__) oder Kilometer (__km__) angegben, Gewicht wird in Gramm (__g__) oder Kilogramm (__kg__) gemessen bzw. angegeben.
 So sagt man die Einheit der Entfernung ist Meter, die Einheit des Gewichts ist Gramm und die Einheit der Spannung ist Volt. 
 
-Die Spannungen von normalen, handelsüblichen Batterien, wie Ihr sie hier seht, reichen von 1.5 Volt bis zu 9 V.
+Die Spannungen von normalen, handelsüblichen Batterien, wie Ihr sie hier seht, reichen von 1.5 Volt bis zu 9 V, eine davon hat sogar 12 V!
 
-Die Batterie mit 9V liefert damit immerhin schon das 6 fache der kleinsten Batterie!
+Die Batterie mit 9V liefert damit immerhin schon das 6 fache der kleinsten Batterie, die Batterie mit 12 V sogar das 8-fache!!
 
 ## Zwei Pole/Anschlüsse
 
@@ -66,14 +65,31 @@ Der <font color="BLUE"> __Minus-Pol__ </font> wird entweder mit <font color="BLU
  
  Was passiert, wenn man grössere Spannungen versucht zu fühlen?
  
- ![Bild aus Globi bei der Feuerwehr ](pics/Globi_Hase.jpg)
+ Zumindest jedes Kind hier in der Schweiz kennt Globi.  
+ Da gibt es ein tolles Bild bei __Globi bei der Feuerwehr__.  
+ Leider hat mir der Globi-Verlag nicht erlaubt, das hier abzubilden, drum habe ich es halt selbst gemalt, wie Ihr seht, bin ich kein besonders guter Zeichner...
+  
+ ![Bild aus Globi bei der Feuerwehr ](pics/Globi_hase_1.png)
+Ein kleiner Hase nagt an der Strom-Zuleitung ( 220 V ) für einen Eisenbahn-Trafo
+
+ ![Bild aus Globi bei der Feuerwehr ](pics/Globi_hase_2.png)
+Beim Durchbeissen gibt es einen Blitz (und ein Feuer, das dann Globi als Feuerwehrmann löschen muss)
+
+ ![Bild aus Globi bei der Feuerwehr ](pics/Globi_hase_3.png)
+Nachdem das Feuer gelöscht wird, ist der Hase __tot__ !
+
+## Vergleich mit einem Gewicht auf dem Kopf tragen 
+ An der Steckdose sind hierzulande __220 Volt__, das ist fast das __150-fache__ von unserer __1.5 V__ Batterie!
+
+Vergleich: 
+ - Ihr versucht eine Packung Mehl auf dem Kopf zu tragen => __1 kg__
+ ![](pics/Mehl_1kg.jpg)  
  
- An der Steckdose sind hierzulande 220 V, das ist fast das 150-fache von unserer 1.5 V Batterie!
- Vergleich: 
- - Ihr versucht eine Packung Mehl auf dem Kopf zu tragen => 1 kg
- - Es setzt sich dieser Mann auf Euren Kopf => 150 kg
  
- ![](pics/Mehl_1kg.jpg)   ![](pics/Sumo-Ringer.png) 
+ 
+ - Es setzt sich dieser Mann auf Euren Kopf => __150 kg__
+  ![](pics/Sumo-Ringer1.png) 
+  (https://pixabay.com/de/sumoringer-athlet-ringer-sport-3196755 ,  CC0 Creative Commons)
  
  Was passiert, seht Ihr oben bei Globi. Steckdosen sind lebensgefährlich!  
  Darum: __FINGER WEG von der STECKDOSE!__
@@ -91,15 +107,19 @@ Wenn man diesen Vergleich bildlich verwenden will, dann kann man das evt mit Was
 
 ### Sehr Grosse Spannung
 
- ![](pics/Hochspannungsleitung.gif) 
-  Sehr grosse Spannung!
+ ![](pics/power-lines-804880_1000.jpg) 
+  __Sehr grosse Spannung!__  
+   ( https://pixabay.com/de/stromleitungen-energie-stromleitung-804880 , CC0 Creative Commons)
+  
  
- ![](pics/wasserfall_gross.jpg) 
- Sehr hoher Wasserfall 
+ ![](pics/niagara-falls-218591_1000.jpg) 
+ __Sehr hoher Wasserfall__  
+ (https://pixabay.com/de/niagaraf%C3%A4lle-wasserfall-wasserkraft-218591 , CC0 Creative Commons)
  
  
- Eine typische Freiland Hochspannungs-Leitung hat 110 kV = 110 000 = 110 Tausend Volt.  
- Das ist 500 mal so viel wie in der normalen Steckdose! 
+ Eine typische Freiland Hochspannungs-Leitung hat 110 kV = __110 000__ = __110 Tausend Volt.__  
+ 
+ Das ist 500 mal so viel wie in der normalen Steckdose, die schon __tödlich__ ist ! 
  
  
  
@@ -108,8 +128,10 @@ Wenn man diesen Vergleich bildlich verwenden will, dann kann man das evt mit Was
  ![](pics/Steckdose-Schweiz.jpeg) 
  Grosse Spannung, Steckdose. Zu gefährlich um damit zu experimentieren!
  
- ![](pics/Wasserfall_Mittel.jpeg) 
+ ![](pics/cascade-1868687_1000.jpg) 
 Ein hoher Wasserfall, da möchte man nicht mit dem Boot runterfallen.
+(https://pixabay.com/de/kaskade-island-landschaft-berg-1868687 CC0 Creative Commons)
+
 
 
 ### Niederspannung
@@ -118,9 +140,9 @@ Ein hoher Wasserfall, da möchte man nicht mit dem Boot runterfallen.
 Das sind Spannungen mit denen wir arbeiten, Niederspannung.  
 Das geht für uns von 1,5 V bis maximal 9V oder evt 12V.
 
-![Batterien ](pics/Wasserfall_Klein.jpeg)
+![Batterien ](pics/faucet-1684902_1000.jpg)
 Das ist ein kleiner, "handlicher" Wasserfall. 
-
+(https://pixabay.com/de/wasserhahn-brunnen-wasserspender-1684902 CC0 , Creative Commons) 
 
 ## Ganz gute Einführung in Strom und Spannung 
 
@@ -128,6 +150,7 @@ Eine ganz gute Einführung in Strom und Spannung gibts in der Sendung mit der Ma
 
 https://www.youtube.com/watch?v=Je22SgH8TCk
 
+Mehr Links auf der  [Übersicht](../README.md) 
 
 ## Navigation
 
@@ -136,3 +159,8 @@ https://www.youtube.com/watch?v=Je22SgH8TCk
 * [Weiter ](../02_03_Elektronik_Verbraucher/README.md)
 
 
+## Lizenz/Copyright-Info
+Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+
+*  Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
