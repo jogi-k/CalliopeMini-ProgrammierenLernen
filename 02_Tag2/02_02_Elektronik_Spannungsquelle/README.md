@@ -3,6 +3,7 @@
 ## Spannungsquelle 
 
 Eine Spannungsquelle die Ihr alle kennt, ist die Steckdose.
+
  ![](pics/Steckdose-Schweiz.jpeg) 
 
 __ACHTUNG__ : Die Steckdose ist der falsche Weg, um mit Elektronik und Spannung zu experimentieren, warum, da kommen wir gleich noch dazu.
@@ -33,6 +34,7 @@ Die Spannungsquellen, die wir anschauen, haben immer zwei Anschlüsse, auch Pole
 Der eine Anschluss wird Plus-Pol genannt (+), der andere Anschluss wird Minus-Pol geannt (-).
 
 Als Schaltbild-Symbol sieht man Batterien oft so:
+
 ![Batterien ](pics/Batterie_Symbol.gif)
 
 oder so:
@@ -67,27 +69,33 @@ Der <font color="BLUE"> __Minus-Pol__ </font> wird entweder mit <font color="BLU
  
  Zumindest jedes Kind hier in der Schweiz kennt Globi.  
  Da gibt es ein tolles Bild bei __Globi bei der Feuerwehr__.  
- Leider hat mir der Globi-Verlag nicht erlaubt, das hier abzubilden, drum habe ich es halt selbst gemalt, wie Ihr seht, bin ich kein besonders guter Zeichner...
+ Leider hat mir der Globi-Verlag nicht erlaubt, das hier abzubilden, drum habe ich es halt selbst gemalt.   
+ Wie Ihr seht, bin ich kein besonders guter Zeichner...  
+(Ein bisschen besser kann ich schon noch, wenn ich mir etwas mehr Mühe gebe...)
+
+Ein kleiner Hase nagt an der Strom-Zuleitung ( 220 V ) für einen Eisenbahn-Trafo:  
   
  ![Bild aus Globi bei der Feuerwehr ](pics/Globi_hase_1.png)
-Ein kleiner Hase nagt an der Strom-Zuleitung ( 220 V ) für einen Eisenbahn-Trafo
+
+Beim Durchbeissen gibt es einen Blitz (und ein Feuer, das dann Globi als Feuerwehrmann löschen muss)  
 
  ![Bild aus Globi bei der Feuerwehr ](pics/Globi_hase_2.png)
-Beim Durchbeissen gibt es einen Blitz (und ein Feuer, das dann Globi als Feuerwehrmann löschen muss)
+
+Nachdem das Feuer gelöscht wird, ist der Hase __tot__ ! :  
 
  ![Bild aus Globi bei der Feuerwehr ](pics/Globi_hase_3.png)
-Nachdem das Feuer gelöscht wird, ist der Hase __tot__ !
 
 ## Vergleich mit einem Gewicht auf dem Kopf tragen 
  An der Steckdose sind hierzulande __220 Volt__, das ist fast das __150-fache__ von unserer __1.5 V__ Batterie!
 
 Vergleich: 
  - Ihr versucht eine Packung Mehl auf dem Kopf zu tragen => __1 kg__
+ 
  ![](pics/Mehl_1kg.jpg)  
  
- 
- 
+  
  - Es setzt sich dieser Mann auf Euren Kopf => __150 kg__
+ 
   ![](pics/Sumo-Ringer1.png) 
   (https://pixabay.com/de/sumoringer-athlet-ringer-sport-3196755 ,  CC0 Creative Commons)
  
