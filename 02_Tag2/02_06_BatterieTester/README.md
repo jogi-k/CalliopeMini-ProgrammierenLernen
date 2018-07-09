@@ -250,7 +250,6 @@ Nun müssen wir noch weiter unten, wo wir die Berechnung "gestohlen" haben und w
 
 * [Zurück](../02_04_Elektronik_Stromkreis/README.md)  
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../02_06_Wenn-Dann/README.md)
 
 
 
