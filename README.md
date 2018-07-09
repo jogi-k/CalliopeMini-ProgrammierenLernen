@@ -20,7 +20,12 @@ __Basteln, Elektronik und Programmieren Lernen mit Calliope-Mini__
 
 ### Lektion / Nachmittag  2
 
-- Still to do
+* [01 Auffrischen](02_Tag2/02_01_Auffrischen/README.md)
+* [02 Elektronik Spannungsquellen](02_Tag2/02_02_Elektronik_Spannungsquelle/README.md)
+* [03 Elektronik Verbraucher](02_Tag2/02_03_Elektronik_Verbraucher/README.md)
+* [04 Elektronik Stromkreis](02_Tag2/02_04_Elektronik_Stromkreis/README.md)
+* [05 Elektronik Action](02_Tag2/02_05_Elektronik_Action/README.md)
+* [06 BatterieTester](02_Tag2/02_06_BatterieTester/README.md)
 
 ### Lektion / Nachmittag  3
 

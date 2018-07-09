@@ -53,6 +53,7 @@ Wir dürfen also nur die Batterien bis maximal 3V anschliessen, die Batterien mi
 ![Calliope_Ausgepackt_Ports.png](./pics/Calliope_Ausgepackt_Ports.png)
 
 
+
 ## Spannungs-Messer Version 1
 
 
@@ -110,6 +111,13 @@ basic.forever(() => {
 Nun kann man also eine Batterie anschliessen: 
 
 ![Angeschlossene Batterie](./pics/Calliope_Ausgepackt_mit_Batterie.png)
+
+
+So sieht das ganze dann mit Krokodil-Klemmen angeschlossen aus:
+
+![Calliope_mit Batterie Krokodil-Klemmen](./pics/Calliope_mit_angeschl_Batt.jpg)
+
+
 
 ## Spannungs-Messer Version 2
 

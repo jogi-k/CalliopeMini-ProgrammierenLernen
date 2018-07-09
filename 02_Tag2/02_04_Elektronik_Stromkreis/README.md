@@ -5,38 +5,56 @@
 Im Stromkreis   
    
    
-![Batterien ](pics/Stromkreis.png) 
+![01_Stromkreis](./pics/01_Stromkreis.png)
 
-kommen nun die Spannungsquelle und der Verbraucher zusammen.
+(das ist natürlich kein Stromkreis, das ist ein Kreis) kommen nun die Spannungsquelle und der Verbraucher zusammen.
 In diesem Fall zeichnen wir links die Batterie und rechts die Lampe.   Dafür gibt es aber keine "Vorschrift", man kann die Batterie auch auf der rechten Seite zeichnen.  
 Der Pluspol der Batterie wird mit einem Anschluss des Lämpchens verbunden, der Minus-Pol der Batterie mit dem anderen Anschluss.
 Bei einem normalen (altmodischen) Glühlämpchen, ist es egal, welchen Anschluss des Lämpchens man mit Plus und welchen Anschluss man mit Minus verbindet.
 Bei einigen anderen Verbrauchern ist das nicht egal, darauf kommen wir später noch zurück.
 
-![Batterien ](pics/Stromkreis_mit_Batt.png)
+![02_Stromkreis_mit_Batterie_und_lampe.png](./pics/02_Stromkreis_mit_Batterie_und_lampe.png)
 
 Als Kreis ist es natürlich etwas unpraktisch...
 Aber man kann sich - einmal so gezeichnet - den Kreis eben ganz gut vorstellen.
 Normalerweise wird das mit geraden Strichen gezeichnet.
- 
-![Batterien ](pics/Stromkreis_mit_Batt_gerade.png)
+
+![03_Stromkreis_mit_Lampe_Leuchtet.png](./pics/03_Stromkreis_mit_Lampe_Leuchtet.png)
+
 
 Wenn der Stromkreis - so wie hier - geschlossen ist, dann leuchtet die Lampe
 
 Wenn der Stromkreis - so wie unten - offen ist, dann leuchtet die Lampe nicht.
-Dies sieht man in den Schaltbildern allerdings nicht!
+Dies Leuchten der Lampe mit den gelben Strichen sieht man normalerweise in den Schaltbildern nicht!  
+Aber wir sind ja hier am Lernen dieser Dinge, da darf man das schon reinmalen.
 
-![Batterien ](pics/Stromkreis_Offen.png)
 
-__ALSO__ : 
-- Geschlossener Stromkreis: Verbraucher läuft/Lampe leuchtet 
-- Offener Stromkreis: Verbraucher läuft nicht/Lampe leuchtet nicht
+![04_Stromkreis_mit_Lampe_Leuchtet_nicht.png](./pics/04_Stromkreis_mit_Lampe_Leuchtet_nicht.png)
 
-Das ergibt zusammen einen Stromkreis mit eingebauten Schalter.
-Damit kann man anzeigen, dass zusätzlich im Stromkreis ein Schalter zwischen Spannungs-Lieferant und Verbraucher ist, der es ermöglicht den Verbraucher ein- und aus zu schalten.
+Nun kann man - __aber nur bei den niederen Spannungen mit denen wir arbeiten__ - zwei Kabel mit z.B. sogenannten "Bananen-Stecker" an die offene Stelle befestigen
 
-![Batterien ](pics/Stromkreis_mit_Switch.png)
- 
+![05_Stromkreis_mit_Bananen_leuchtet_nicht.png](./pics/05_Stromkreis_mit_Bananen_leuchtet_nicht.png)
+
+Wenn man nun die beiden Bananenstecker verbindet, leuchtet die Lampe!
+
+![06_Stromkreis_mit_Bananen_leuchtet.png](./pics/06_Stromkreis_mit_Bananen_leuchtet.png)
+
+Praktischerweise gibt es dafür auch Bauelemente, um die beiden Kontakte zu verbinden. Das ist einfach ein __Schalter__!  
+Schalter geschlossen : Lampe leuchtet
+
+![07_Stromkreis_mit_schalter_geschlossen.png](./pics/07_Stromkreis_mit_schalter_geschlossen.png)
+
+Schalter offen  : Lampe leuchtet nicht  
+
+![08_Stromkreis_mit_schalter_offen.png](./pics/08_Stromkreis_mit_schalter_offen.png)
+
+
+
+__Zusammenfassung__ : 
+
+* Geschlossener Stromkreis: Verbraucher läuft/Lampe leuchtet 
+* Offener Stromkreis: Verbraucher läuft nicht/Lampe leuchtet nicht
+* Dass eine Lampe leuchtet/nicht leuchtet zeigt man normalerweise in einem elektronischen Bild __NICHT__ an, aber wir können das schon tun...
  
 ## Elemente müssen zusammenpassen
 
@@ -45,19 +63,29 @@ Wenn nun also Spannungs-Lieferant und Verbraucher zusammenkommen ist es sehr wic
 ### Zu hohe Spannung 
 Wir möchten ja weder, dass die zu starke Spannungsquelle unseren Verbraucher zerstört:
 
-![](pics/wasserfall_gross.jpg) 
-![kleines Wasserrad ](pics/Wasserrad_Klein.jpg)
-Das kleine Wasserrad würde wohl den Wasserfall nicht überleben.
- Sehr hoher Wasserfall 
+![09_niagara-falls-218591_1000.jpg](./pics/09_niagara-falls-218591_1000.jpg)
+ (https://pixabay.com/de/niagaraf%C3%A4lle-wasserfall-wasserkraft-218591 , CC0 Creative Commons)
+
+
+![10_waterwheel-778801_1000.jpg](./pics/10_waterwheel-778801_1000.jpg)
+( https://pixabay.com/de/wasserrad-holz-bach-modell-778801 , CC0 Creative Commons )
+
+Würde man versuchen, das kleine Wasserrad an den Niagara-Fällen zu betreiben, würde das Wasserrad das wohl nicht "überleben" 
  
 ### Zu geringe Spannung 
-Ebenso möchten wir natürlich, dass sich unser Verbraucher "bewegt", oder leuchtet oder 
 
-![Batterien ](pics/Wasserfall_Klein.jpeg)
-![kleines Wasserrad ](pics/Wasserrad_Gross.jpg)
-Das Wasser aus diesem Mini-Wasserfall wird sicher das grosse Wasserrad nicht antreiben können.
+Ebenso möchten wir natürlich, dass sich unser Verbraucher "bewegt", oder leuchtet oder ...
 
-Dieser Fall ist allerdings sowohl bei unserem Wasservergleich als auch beim Arbeiten mit Stromkreisen im Allgemeinen der weniger schlimme Fall:
+![11_faucet-1684902_1000.jpg](./pics/11_faucet-1684902_1000.jpg)
+(https://pixabay.com/de/wasserhahn-brunnen-wasserspender-1684902 CC0 , Creative Commons) 
+
+![12_japan-826639_1000.jpg](./pics/12_japan-826639_1000.jpg)
+( https://pixabay.com/de/japan-waterwheel-826639 , CC0 Creative Commons )
+
+
+Das Wasser aus diesem Mini-"Wasserfall" wird sicher unsere grosses Wasserrad nicht antreiben können.
+
+Dieser Fall ist allerdings sowohl bei unserem Wasservergleich als auch beim Arbeiten mit Stromkreisen im Allgemeinen der weniger schlimme Fall:  
 Unser Verbaucher wird wahrscheinlich einfach gar nicht oder nicht ganz wie erhofft arbeiten.
 
 
@@ -66,22 +94,14 @@ Unser Verbaucher wird wahrscheinlich einfach gar nicht oder nicht ganz wie erhof
 Im Stromkreis müssen die Verbraucher und die Spannungs-Quelle die selben Spannungen aufweisen, um sinnvoll zu funktionieren.
 Ist die Spannungsquelle zu gross, wird ziemlich sicher irgendetwas zerstört werden. 
 
-## Praktisches Arbeiten
-
-* Wir sortieren Batterien der Grösse nach
-* Wir sortieren Batterien der Spannung nach 
-* Wir sortieren Verbraucher der Spannung nach
-* Wir schauen was passiert wenn Verbraucher und Batterie zusammenpassen
-* Wir schauen was passiert wenn der Verbraucher eine höhere Spannung hat als die Batterie
-* Wir schauen was passiert, wenn der Verbraucher eine geringere Spannung hat als die Batterie
-* Wir schauen was bei einem Kurzschluss der Batterie passiert
-* Wir schauen, was bei einer Schmelz-Sicherung passiert, wenn ein Kurzschluss gemacht wird
-* Wir stellen uns vor, die Schmelz-Sicherung ist unsere Elektronik (unser Calliope) und wir schliessen an den Calliope einen Verbraucher an und machen dabei einen Kurzschluss...
-
-
 ## Navigation
 
 * [Zurück ](../02_03_Elektronik_Verbraucher/README.md)
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter ](..//README.md)
+* [Weiter ](..//02_05_Elektronik_Action/README.md)
 
+## Lizenz/Copyright-Info
+Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+
+*  Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
