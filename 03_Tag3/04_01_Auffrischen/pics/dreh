@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for datei in Korb*.png ;
+do
+	convert $datei -rotate 270 gedreht/$(basename $datei)
+done
