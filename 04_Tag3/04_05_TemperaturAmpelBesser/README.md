@@ -180,9 +180,8 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../03_04_TemperaturAmpel/README.md)  
+* [Zurück](../04_04_TemperaturAmpel/README.md)  
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter](../03_06_LichtSensor/README.md)  
 
 
 

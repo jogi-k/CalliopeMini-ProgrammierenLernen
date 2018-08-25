@@ -105,9 +105,9 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../03_03_TemperaturSensor/README.md)  
+* [Zurück](../04_03_TemperaturSensor/README.md)  
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter](../03_05_TemperaturAmpelBesser/README.md)  
+* [Weiter](../04_05_TemperaturAmpelBesser/README.md)  
 
 
 

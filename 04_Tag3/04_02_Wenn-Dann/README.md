@@ -178,9 +178,9 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../03_01_Auffrischen/README.md)  
+* [Zurück](../04_01_Auffrischen/README.md)  
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter](../03_03_TemperaturSensor/README.md)  
+* [Weiter](../04_03_TemperaturSensor/README.md)  
 
 
 

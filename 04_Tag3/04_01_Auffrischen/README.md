@@ -238,6 +238,12 @@ Hier nur die wichtigsten Dinge bezüglich Spannung / Verbraucher vom letzten Nac
 
 
  
+## Navigation
+
+
+* [Hoch zur Übersicht](../README.md)  
+* [Weiter](../04_02_Wenn-Dann/README.md)  
+
 
 
 ## Lizenz/Copyright-Info
