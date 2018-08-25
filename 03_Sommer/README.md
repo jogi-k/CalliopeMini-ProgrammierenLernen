@@ -1,0 +1,11 @@
+Der Kleines-Einmal-Eins-Trainer.
+Beim Drücken des linken Knopfes soll Euch eine Multiplikations-Aufgabe aus dem kleinen Einmal-Eins gestellt werden, die Ihr dann selbst im Kopf lösen sollt. Beim Drücken der rechten Taste zeigt Euch der Calliope das Ergebnis an und Ihr könnt selbst überprüfen, ob Ihr richtig gerechnet habt.
+Wenn wieder die linke Taste gedrückt wird, wird eine neue Rechen-Aufgabe gestellt.
+
+Etwas detaillierter:
+Beim Drücken der linken Taste müssen zwei Platzhalter mit Zufallswerten zwischen 1 und 10 belegt werden. Platzhalter sind im Menu Variablen, Zufalls-Zahlen sind im Menu Mathematik. Allerdings werden Zufalls-Zahlen ab 0 erzeugt. Ihr müsst also zusätzlich noch jeweils eine 1 addieren...
+Die beiden Zufallszahlen sollen dann angezeigt werden, am besten mit einem "+" - Zeichen dazwischen. Und vielleicht noch mit " = ? " danach?  Alle diese Ausgaben für Zahlen und Texte findet Ihr im Menu Grundlagen.
+Beim Drücken der rechten Taste sollen die beiden Platzhalter miteinander multipliziert (malnehmen) werden  (Menu Mathematik) und in einer dritten Ergebnis-Variable abgelegt werden. Dieses Ergebnis, die Ergebnis-Variable soll dann auch wieder angezeigt werden.
+(Vielleicht noch mit " = " davor...)
+
+Viel Spass beim Tüfteln und bis zum nächsten Mittwoch um 16 Uhr in der Turbine.
