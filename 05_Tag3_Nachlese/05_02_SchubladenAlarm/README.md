@@ -142,7 +142,7 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../05_01_LichtSensor/README.md)  
+* [Zurück zum Lichtsensor](../05_01_LichtSensor/README.md)  
 * [Hoch zur Übersicht](../README.md)  
 
 

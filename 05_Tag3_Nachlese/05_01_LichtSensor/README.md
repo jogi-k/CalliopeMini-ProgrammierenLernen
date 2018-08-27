@@ -104,7 +104,7 @@ __ACHTUNG__: Wie vohin geschrieben, solten wir dem Programm einen sinnvolleren N
 
 
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter](../05_02_SchubladenAlarm/README.md)  
+* [Weiter zum SchubladenAlarm](../05_02_SchubladenAlarm/README.md)  
 
 
 

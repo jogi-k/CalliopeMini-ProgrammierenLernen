@@ -127,7 +127,7 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../04_02_Wenn-DannBatterieTester/README.md)  
+* [Zurück](../04_02_Wenn-Dann/README.md)  
 * [Hoch zur Übersicht](../README.md)  
 * [Weiter](../04_04_TemperaturAmpel/README.md)  
 
