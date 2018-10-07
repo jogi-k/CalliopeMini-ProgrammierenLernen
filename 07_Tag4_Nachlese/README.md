@@ -26,7 +26,7 @@ Viel Erfolg!
 
 Die RGB-LED kann nicht nur die vorgefertigten Farben anzeigen, sondern sie kann die Farben beliebig mischen.
 
-RGB steht für __R__ot __G__elb __B__lau, mit diesen 3 Grundfarben kann man jede Farbe zusammenmischen.
+RGB steht für __R__ ot __G__ elb __B__ lau, mit diesen 3 Grundfarben kann man jede Farbe zusammenmischen.
 
 Die Anteile von Rot Gelb und Blau lassen sich von 0 bis 255 verändern.
 
