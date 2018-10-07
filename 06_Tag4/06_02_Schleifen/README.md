@@ -185,7 +185,7 @@ basic.forever(() => {
 
 ![15_Schleife_Aufraeumen.png](./pics/15_Schleife_Aufraeumen.png)
 
-* Damit haben wir nun eine schöne erse Index-Schleife programmiert
+* Damit haben wir nun eine schöne erste Index-Schleife programmiert
 * Das Ergebnis schauen wir zuerst im Simulator an
 * Wenn alles passt, können wir das auch in den Calliope programmieren.
 
@@ -285,15 +285,21 @@ basic.forever(() => {
 
 ## Download Hex-Code
 
-![Hex-code](code/mini-FlaecheMitFuenfSchleifen.hex)
+[Hex-code](code/mini-FlaecheMitFuenfSchleifen.hex)
 
+
+## "Hausaufgabe"
+
+Schaut einmal zur Nachlese, zu den Hausaufgaben, da dürft Ihr dieses Bildschirm-Füll-Programm noch weiter verbessern/vereinfachen
+
+[Zu den Hausaufgaben](../../07_Tag4_Nachlese/README.md)
 
 ## Navigation
 
 
-* [Zurück](../04_02_Wenn-Dann/README.md)  
+* [Zurück](../06_01_Auffrischen/README.md)  
 * [Hoch zur Übersicht](../README.md)  
-* [Weiter](../04_04_TemperaturAmpel/README.md)  
+* [Weiter](../06_03_Motoren/README.md)  
 
 
 
