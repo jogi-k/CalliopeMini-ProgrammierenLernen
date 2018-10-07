@@ -51,9 +51,20 @@ __Basteln, Programmieren Lernen und Elektronik Grundlagen mit Calliope-Mini__
 * [Der SchubladenAlarm](05_Tag3_Nachlese/05_02_SchubladenAlarm/README.md)
 
 
-### Lektion / Nachmittag  4
+### [Lektion / Nachmittag  4](06_Tag4)
 
-- Still to do
 
+* [01: Auffrischen](06_Tag4/06_01_Auffrischen/README.md)
+* [02: Schleifen](06_Tag4/06_02_Schleifen/README.md)
+* [03: Motoren Übersicht](06_Tag4/06_03_Motoren/README.md)
+* [04: Servo-Motoren](06_Tag4/06_04_Servos/README.md)
+
+
+### ["Hausaufgabe": Schleifen ](07_Tag4_Nachlese)
+
+
+* [Ein paar Schleifen-Anwendungen](07_Tag4_Nachlese/README.md)
 
 ### [Linksammlung](LinkSammlung)
+
+
