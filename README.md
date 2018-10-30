@@ -65,6 +65,19 @@ __Basteln, Programmieren Lernen und Elektronik Grundlagen mit Calliope-Mini__
 
 * [Ein paar Schleifen-Anwendungen](07_Tag4_Nachlese/README.md)
 
+
+### [Lektion / Nachmittag  5](08_Tag5)
+
+
+* [01 Auffrischen: Schleifen / Servo-Motoren](08_Tag5/08_01_Auffrischen/README.md)
+* [02 Ansteuerung von DC-Motoren ](08_Tag5/08_02_DC_Motoren/README.md)
+* [03 Der Lagesensor ](08_Tag5/08_03_LageSensor/README.md)
+* [04 Externer Lautsprecher](08_Tag5/08_04_ExternerLautsprecher/README.md)
+
+
+
 ### [Linksammlung](LinkSammlung)
 
+
+### [Unsortierte Ideen](Sammlung)
 

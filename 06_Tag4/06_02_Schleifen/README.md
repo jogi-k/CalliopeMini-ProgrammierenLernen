@@ -110,7 +110,7 @@ basic.forever(() => {
 
 ### Download Hex-Code Versuch 2
 
-![Hex-code](code/mini-EineZeileManuell.hex)
+[Hex-code](code/mini-EineZeileManuell.hex)
 
 
 
@@ -222,7 +222,7 @@ basic.forever(() => {
 
 ### Download Hex-Code Versuch 3
 
-![Hex-code](code/mini-EineZeileMitSchleife.hex)
+[Hex-code](code/mini-EineZeileMitSchleife.hex)
 
 
 
