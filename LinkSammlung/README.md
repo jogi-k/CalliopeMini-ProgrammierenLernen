@@ -16,6 +16,10 @@
 * [Das offizielle Calliope Forum](https://forum.calliope.cc/)
 
 
+## Schulungen und Video-Material
+* [OpenSAP Kurs für Lehrer/Pädagogen](https://open.sap.com/courses/calli1?locale=de)
+* [Calliope Video-Channel auf Youtube](https://www.youtube.com/channel/UC7voBbTQLtXHYfVneiq36Ig/videos)
+
 ## Bücher
 
 * [Das oben erwähnte Buch vom Cornelsen-Verlag für Schüler](https://calliope.cc/content/3-schulen/schulmaterial2/9783066000115-gesamt_pdf.pdf)
