@@ -15,14 +15,14 @@ Das Paket enthaelt
 
 ## Der Calliope Mini selbst
 
-![Foto Calliope](pics/Calliope_Ausgepackt.png)
+\includegraphics[width=0.7\textwidth]{pics/Calliope_Ausgepackt.png}
 
 * Der Calliope, ausgepackt
 
 
 ## Calliope Mini : Was ist dran
 
-![Foto Calliopei mit Erklaerungen](pics/Calliope_Ausgepackt_MitBeschriftung.png)
+\includegraphics[width=0.7\textwidth]{pics/Calliope_Ausgepackt_MitBeschriftung.png}
 
 * Der Calliope Mini, ausgepackt
 
@@ -33,8 +33,8 @@ Das Paket enthaelt
 
 ![Batteriefach](pics/BatterieFach.png)
 
-* und Batteriefach zumachen
-* Schalter ausschalten 
+und Batteriefach zumachen
+
 
 
 ![Batteriefach mit Schalter](pics/BatterieFachSchalter.png)
@@ -83,14 +83,14 @@ Das Paket enthaelt
 
 ## Das Start-Programm 
 
-Wenn Ihr im Verlauf des Programmier-Kurses das ursprüngliche Programm mit Euerem eigenen überschrieben habt (was ich hoffe), dann gibt es hier das ursprüngliche eingebaute Programm zum Download: ![Original-Start-Programm](code/calliope-demo-combined.hex)
+Wenn Ihr im Verlauf des Programmier-Kurses das ursprüngliche Programm mit Euerem eigenen überschrieben habt (was ich hoffe), dann gibt es hier das ursprüngliche eingebaute Programm zum Download: [Original-Start-Programm](code/calliope-demo-combined.hex)
 
 ### Herunterladen von HEX-Files aus dieser Plattform
 
 Die Seite auf der Ihr Euch gerade befindet, ist eigentlich zum Austausch und Weiterentwicklen von Programmen gemacht, nicht als Plattform für Lern-Inhalte.   
 Darum ist der Download der HEX-Files etwas komplizierter als gewöhnlich...
 Wenn Ihr auf einen der Links auf ein HEX-File klickt, sieht das so aus:
- 
+
  ![Download HEX-File 1 ](pics/Download_Hex_01.png)
 
 Dort muss man nun auf den RAW-Button klicken um anschliessend dann folgende Ansicht zu bekommen, von der aus man das HEX-File mit einem Klick der rechten Maustaste herunterladen kann, mittels "Seite speichern"
