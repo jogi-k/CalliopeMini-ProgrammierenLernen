@@ -1,5 +1,5 @@
 # Auspacken des Calliope und Erkunden
-
+---
 ## Auspacken des Calliope
 
 Das Paket enthaelt
@@ -12,21 +12,21 @@ Das Paket enthaelt
 * ~~2 LEDs~~ (war früher mit dabei...)
 * Eine Anleitung
 
-
+---
 ## Der Calliope Mini selbst
 
 \includegraphics[width=0.7\textwidth]{pics/Calliope_Ausgepackt.png}
 
 * Der Calliope, ausgepackt
 
-
+---
 ## Calliope Mini : Was ist dran
 
 \includegraphics[width=0.7\textwidth]{pics/Calliope_Ausgepackt_MitBeschriftung.png}
 
 * Der Calliope Mini, ausgepackt
 
-
+---
 ## Batteriefach 
 
 * Batterie einlegen 
@@ -39,13 +39,13 @@ und Batteriefach zumachen
 
 ![Batteriefach mit Schalter](pics/BatterieFachSchalter.png)
 
-
+---
 ## Batterie anschliessen
 
 ![Kabel anschliessen](pics/KabelAnschliessen.png)
 
 * Das Kabel der Batterie anschliessen
-
+---
 ## Anschluss - Nut
 
 
@@ -53,14 +53,14 @@ und Batteriefach zumachen
 
 * Auf die Anschluss-Nut achten.
 
-
+---
 ## Kabel-Nase in Anschluss - Nut
 
 
 ![Kabel Nase in Anschluss Nut ](pics/AnschlussNutMitKabelNase.png)
 
 * Auf die Anschluss-Nut achten, die Nase des Kabels muss nach oben zeigen.
-
+---
 ## Einschalten und Spielen
 
 * Den Calliope mit dem Schalter am Batteriefach einschalten
@@ -80,11 +80,11 @@ und Batteriefach zumachen
     4 Snake
 
 * Beschreibung im Beilag-Heftchen
-
+---
 ## Das Start-Programm 
 
 Wenn Ihr im Verlauf des Programmier-Kurses das ursprüngliche Programm mit Euerem eigenen überschrieben habt (was ich hoffe), dann gibt es hier das ursprüngliche eingebaute Programm zum Download: [Original-Start-Programm](code/calliope-demo-combined.hex)
-
+---
 ### Herunterladen von HEX-Files aus dieser Plattform
 
 Die Seite auf der Ihr Euch gerade befindet, ist eigentlich zum Austausch und Weiterentwicklen von Programmen gemacht, nicht als Plattform für Lern-Inhalte.   
@@ -101,13 +101,13 @@ Dazu speichert man die Seite am Besten z.B. als __ORIGINAL_START.HEX__ oder ähn
 
 Was man dann mit dem heruntergeladenen HEX-File anfangen kann, sehen wir in Teil 4 des heutigen Kurs-Tages.
 
-
+---
 ### Der Source-Code
 
 Wer Interesse daran hat, kann sich das auch selbst generieren, dazu sind aber andere Programmierwerkzeuge notwendig, wie die die wir im Kurs verwenden:
 <https://github.com/calliope-mini/calliope-demo.git>
 
-
+---
 ## Navigation
 
 * [Hoch zur Übersicht](../README.md)  
