@@ -31,13 +31,12 @@ Das Paket enthaelt
 
 * Batterie einlegen 
 
-![Batteriefach](pics/BatterieFach.png)
+\includegraphics[width=0.5\textwidth]{pics/BatterieFach.png}
 
-und Batteriefach zumachen
+* und Batteriefach zumachen
 
 
-
-![Batteriefach mit Schalter](pics/BatterieFachSchalter.png)
+\includegraphics[width=0.5\textwidth]{pics/BatterieFachSchalter.png}
 
 
 ## Batterie anschliessen
