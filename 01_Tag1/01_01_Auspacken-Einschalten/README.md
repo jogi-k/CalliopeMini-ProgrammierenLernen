@@ -15,14 +15,14 @@ Das Paket enthaelt
 
 ## Der Calliope Mini selbst
 
-\includegraphics[width=0.7\textwidth]{pics/Calliope_Ausgepackt.png}
+![](pics/Calliope_Ausgepackt.png){ height=80% }
 
-* Der Calliope, ausgepackt
+* Der Calliope-Mini, ausgepackt
 
 
 ## Calliope Mini : Was ist dran
 
-\includegraphics[width=0.7\textwidth]{pics/Calliope_Ausgepackt_MitBeschriftung.png}
+![](pics/Calliope_Ausgepackt_MitBeschriftung.png){ height=80% }
 
 * Der Calliope Mini, ausgepackt
 
@@ -31,32 +31,32 @@ Das Paket enthaelt
 
 * Batterie einlegen 
 
-\includegraphics[width=0.5\textwidth]{pics/BatterieFach.png}
+![](pics/BatterieFach.png){ height=30% }
 
 * und Batteriefach zumachen
 
 
-\includegraphics[width=0.5\textwidth]{pics/BatterieFachSchalter.png}
+![](pics/BatterieFachSchalter.png){ height=30% }
 
 
 ## Batterie anschliessen
 
-![Kabel anschliessen](pics/KabelAnschliessen.png)
+![](pics/KabelAnschliessen.png){ height=50% }
 
 * Das Kabel der Batterie anschliessen
 
 ## Anschluss - Nut
 
 
-![Anschluss Nut ](pics/AnschlussNut.png)
+![](pics/AnschlussNut.png){ height=50% }
 
 * Auf die Anschluss-Nut achten.
 
 
-## Kabel-Nase in Anschluss - Nut
+## Kabel-Nase 
 
 
-![Kabel Nase in Anschluss Nut ](pics/AnschlussNutMitKabelNase.png)
+![](pics/AnschlussNutMitKabelNase.png){ height=50% }
 
 * Auf die Anschluss-Nut achten, die Nase des Kabels muss nach oben zeigen.
 
