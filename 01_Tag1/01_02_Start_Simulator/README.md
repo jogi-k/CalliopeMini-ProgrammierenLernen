@@ -63,14 +63,14 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
 * Das Programm ist in Calliope-Computer-Sprache übersetzt und in den Simulator geladen
 
-## Navigation
+# Navigation
 
 * [Zurück](../01_01_Auspacken-Einschalten/README.md)  
 * [Hoch zur Übersicht](../README.md)  
 * [Weiter ](../01_03_LED_Anzeigen/README.md)
 
 
-## Lizenz/Copyright-Info
+# Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite gilt:
 
 *  Autor: Jörg Künstner
