@@ -1,4 +1,8 @@
 find . -name "README.md" -exec dirname {}  \;  > directories
 while read DIRECTORY ; do cp makefile.template "$DIRECTORY/makefile" ; done < directories 
+while read DIRECTORY ; do
+    pushd "$DIRECTORY" && make  
+    popd
+done < directories 
 
  
