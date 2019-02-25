@@ -9,45 +9,61 @@ Nun wollen wir aber unseren ersten Code auf dem Calliope laufen lassen.
 
 Dazu müssen wir als erstes unserem ersten Programm einen sinnvollen Namen geben:
 
-![Namen wählen](pics/01_NameWaehlen.png)
+![Namen wählen](pics/01_NameWaehlen.png){ height=60% }
 
-## Speichern
+## Speichern (1)
 
 Nach der Eingabe eines sinnvollen Namens und klick auf das Disketten-Symbol 
 (wer kennt noch Disketten?) 
 
-![Eingeben und Speichern](pics/02_Speichern.png)
+![Eingeben und Speichern](pics/02_Speichern.png){ height=60% }
+
+
+## Speichern (2)
 
 öffnet sich je nach Betriebs-System ein Speichern-Dialog, der es ermöglicht, das Programm als HEX-Datei auf der Festplatte abzulegen.
 Die meisten Browser sind so konfiguriert, dass die Dateiein in einem Ordner namens "Downloads" abgelegt werden
 
-![Speicher Dialog](pics/03_SpeichernDialog.png)
+![Speicher Dialog](pics/03_SpeichernDialog.png){ height=60% }
 
-## Speicher-Ort finden
+
+## Speicher-Ort finden (1)
 
 Da wir das aber nicht sicher wissen, kann man auch den Browser anweisen, einen zum Ort der heruntergeladenen Dateiein zu führen.
 
-![Download-Button](pics/04_DownloadButton.png)
+![Download-Button](pics/04_DownloadButton.png){ height=60% }
+
+
+## Speicher-Ort finden (2)
 
 In diesem Beispiel wurde die HEX-Datei im Verzeichnis "Downloads" des Benutzers "Jogi" abgelegt.
 
-![Download-Ordner finden](pics/05_DownloadOrdner.png)
+![Download-Ordner finden](pics/05_DownloadOrdner.png){ height=60% }
 
-## Calliope Mini anstecken
 
-==__ACHTUNG__== : Vor Anstecken des Calliopes an einen USB-Port des Computers die Batterie-Spannung abschalten.
+## Calliope Mini anstecken (1)
+
+__ACHTUNG__
+
+Vor Anstecken des Calliopes an einen USB-Port des Computers die Batterie-Spannung abschalten.
 Besser noch die Batterien abstecken.
 Der Calliope darf nicht gleichzeitig von den Batterien gespeist werden und am USB-Port des Computers per Kabel hängen!
 
+## Calliope Mini anstecken (2)
+
 Nach Anschluss des USB-Kabels an den Mini
 
-![Mini Anstecken](pics/06_MiniAnstecken.jpg)
+![Mini Anstecken](pics/06_MiniAnstecken.jpg){ height=70% }
+
+
+## Calliope Mini anstecken (3)
 
 und an einen USB-Port des Computers erscheint der Calliope Mini als USB-Speicher am Computer.
 
-![Mini erscheint als USB-Laufwerk](pics/07_Mini_Erscheint.png)
+![Mini erscheint als USB-Laufwerk](pics/07_Mini_Erscheint.png){ height=70% }
 
-## HEX-Datei auf den Mini laden 
+
+## HEX-Datei auf den Mini laden (1)
 
 Nun kann man die Datei entweder mit der Maus per Drag and Drop auf den Mini ziehen:
 
@@ -55,29 +71,35 @@ Nun kann man die Datei entweder mit der Maus per Drag and Drop auf den Mini zieh
 * Maustaste festhalten
 * Datei auf das Ziel, also in unserem Fall den MINI
 
+## HEX-Datei auf den Mini laden (2)
+
 oder aber mit Kopieren/Einfügen (Maus) 
 
 * Datei einmal mit der linken Maustaste anklicken, die Datei ist angewählt
 * rechte Maustaste auf die Datei klicken
 * Kopieren anwählen
-* in einen freien Bereich im Ziel-Laufwerk mit der rechten Maustaste klicken
-* EInfügen wählen
+* in einen freien Bereich im Ziel-Laufwerk mit der linken Maustaste klicken
+* Einfügen wählen
+
+## HEX-Datei auf den Mini laden (3)
 
 oder aber mit Kopieren/Einfügen (Tastatur) 
 
 * Datei einmal mit der linken Maustaste anklicken, die Datei ist angewählt
-* STRG -Taste festhalten, C drücken ( C wie Copy)
+* STRG -Taste festhalten, C drücken (C wie Copy)
 * in einen freien Bereich im Ziel-Laufwerk mit der rechten Maustaste klicken
-* STRG-Taste festhalten, V drücken (V weil es direkt neben C ist )
+* STRG-Taste festhalten, V drücken (V weil es direkt neben C ist)
 
-![Datei ziehen](pics/08_DateiiZiehen.png)
+![Datei ziehen](pics/08_DateiiZiehen.png){ height=50% }
+
 
 ## Das Programm wird "geflasht"
 
 Vom Datenspeicher-Bereich des Calliopes wird es automatisch in den Programm-Bereich geflasht.
 Das erkennt man an der blinkenden gelben LED
 
-![Calliope wird programmiert](pics/09_Led_Blinkt.jpg)
+![Calliope wird programmiert](pics/09_Led_Blinkt.jpg){ height=60% }
+
 
 ## Das Programm läuft
 
@@ -89,8 +111,10 @@ Wenn das Programm fertig geflasht ist,
 * dafür wurde es in den Programm-Speicher übertragen und 
 * wird nun ausgeführt
 
-![Das Programm läuft](pics/10_ProgrammLaeuft.jpg)
+![Das Programm läuft](pics/10_ProgrammLaeuft.jpg){ height=50% }
 
+
+## Navigation
 
 * [Zurück](../01_03_LED_Anzeigen/README.md)  
 * [Hoch zur Übersicht](../README.md)  
