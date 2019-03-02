@@ -1,28 +1,46 @@
 # Elektronik Grundlagen
 
-## Spannungsquelle 
+## Spannungsquelle (1) 
 
 Eine Spannungsquelle die Ihr alle kennt, ist die Steckdose.
 
- ![](pics/Steckdose-Schweiz.jpeg) 
+ ![](pics/Steckdose-Schweiz.jpeg){height=35%} 
 
 __ACHTUNG__ : Die Steckdose ist der falsche Weg, um mit Elektronik und Spannung zu experimentieren, warum, da kommen wir gleich noch dazu.
 
-![](pics/Steckdose-Schweiz_Nein.jpeg) 
+![](pics/Steckdose-Schweiz_Nein.jpeg){height=35%} 
 
+
+## Spannungsquelle (2) 
 
 Also nehmen wir etwas, das Ihr auch alle kennt, das aber etwas ungefährlicher ist und Ihr vermutlich von Taschenlampen etc kennt: __Batterien__
 
 Batterien gibt es in unterschiedlichen Ausführungen.
 
-![Batterien ](pics/Batterien_Gemischt.jpg)
+![](pics/Batterien_Gemischt.jpg){height=60%}
 
+
+## Spannungsquelle (3) 
 
 Diese Batterien unterscheiden sich jedoch nicht nur in der Grösse und den Bauformen, sie unterscheiden sich auch in den __Spannungen__ , die diese Batterien liefern.
-Spannung wird angegeben in __Volt__. 
-Das ist die sogenannte __Einheit__.
-Vergleiche zum Beispiel : Entfernungen werden in Meter (__m__) oder Kilometer (__km__) angegben, Gewicht wird in Gramm (__g__) oder Kilogramm (__kg__) gemessen bzw. angegeben.
-So sagt man die Einheit der Entfernung ist Meter, die Einheit des Gewichts ist Gramm und die Einheit der Spannung ist Volt. 
+
+* Spannung wird angegeben in __Volt__ . 
+* Das ist die sogenannte __Einheit__ .
+
+Vergleiche zum Beispiel : 
+
+* Entfernungen werden in Meter (__m__) oder Kilometer (__km__) angegeben, 
+* Gewicht wird in Gramm (__g__) oder Kilogramm (__kg__) gemessen bzw. angegeben.
+
+So sagt man : 
+
+* die Einheit der Entfernung ist Meter,   
+* die Einheit des Gewichts ist Gramm 
+* die Einheit der Spannung ist Volt. 
+
+## Spannungsquelle (4) 
+
+![](pics/Batterien_Gemischt.jpg){height=40%}
 
 Die Spannungen von normalen, handelsüblichen Batterien, wie Ihr sie hier seht, reichen von 1.5 Volt bis zu 9 V, eine davon hat sogar 12 V!
 
@@ -35,7 +53,7 @@ Der eine Anschluss wird Plus-Pol genannt (+), der andere Anschluss wird Minus-Po
 
 Als Schaltbild-Symbol sieht man Batterien oft so:
 
-![Batterien ](pics/Batterie_Symbol.gif)
+![Batterien ](pics/Batterie_Symbol.gif){height=20%}
 
 oder so:
  
