@@ -1,5 +1,17 @@
+#!/bin/bash
+
+# Step 1: Update header.tex with the current directory to the images
+echo "\\graphicspath{{$(pwd)/tex-pics/}}" > header.tex
+cat header.template.tex >> header.tex
+
+# Step 2: Search all READMEs, there we need the makefile and then execute make
 find . -name "README.md" -exec dirname {}  \;  > directories
+
+
+# Step 3: Copy makefiles to the directories found
 while read DIRECTORY ; do cp makefile.template "$DIRECTORY/makefile" ; done < directories 
+
+# Step 4: Goto the directories found and execute make
 while read DIRECTORY ; do
     pushd "$DIRECTORY" && make  
     popd
