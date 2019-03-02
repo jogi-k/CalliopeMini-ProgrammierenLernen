@@ -1,14 +1,23 @@
 # Elektronik Grundlagen
 
-## Spannungsquelle (1) 
+## Spannungsquelle (1a) 
 
 Eine Spannungsquelle die Ihr alle kennt, ist die Steckdose.
 
- ![](pics/Steckdose-Schweiz.jpeg){height=35%} 
 
-__ACHTUNG__ : Die Steckdose ist der falsche Weg, um mit Elektronik und Spannung zu experimentieren, warum, da kommen wir gleich noch dazu.
+![](pics/Steckdose-Schweiz.jpeg){height=55%} 
 
-![](pics/Steckdose-Schweiz_Nein.jpeg){height=35%} 
+
+
+## Spannungsquelle (1b) 
+
+
+![](pics/Steckdose-Schweiz_Nein.jpeg){height=55%} 
+
+
+__ACHTUNG__ : Die Steckdose ist der falsche Weg, um mit Elektronik und Spannung zu experimentieren!
+
+Die Gründe dafür sehen wir gleich.
 
 
 ## Spannungsquelle (2) 
