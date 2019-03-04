@@ -1,16 +1,20 @@
 # Arbeiten mit den Pins
 
+## Nochmals: Spannungen (1)
+
 Der Grund, warum wir uns überhaupt in den letzen Minuten/letzte halbe Stunde mit Elektronik-/Elektrotechnik-Grundlagen beschäftigt haben ist folgender:
 
 Der Calliope hat schon sehr viele Dinge (die wir auch noch genauer anschauen werden) auf dem Board. Aber manchmal reicht das nicht und man will etwas an den Calliope anschliessen.
 
 Und damit man dabei weder den Calliope noch das was man anschliesst, zerstört, haben wir ein paar Basis-Dinge gelernt.
 
-- Wenn Spannung von Lieferant und Verbraucher nicht übereintsimmen, dann funktioniert es nicht.
-- Wenn die Spannung vom Lieferanten höher ist als das, was der Verbraucher "verträgt", dann muss damit gerechnet werden, dass der Verbraucher kaputtgeht.
-- Wenn die Spannung vom Lieferant kleiner ist, als das was der Verbraucher braucht/verträgt, dann ist i.A. der Schaden klein, es funktioniert einfach nicht!
-- Wenn man an den falschen Stellen Kabel zusammenbringt, dann verursacht man enen Kurzschluss.
-- Ein Kurzschluss führt dazu, dass viel Strom fliesst, was im guten Fall nur die Batterie erwärmt, im schlechten Fall geht dabei der Calliope kaputt oder die Batterie wird zu warm und fängt Feuer!
+## Nochmals: Spannungen (2)
+
+* Wenn Spannung von Lieferant und Verbraucher nicht übereintsimmen, dann funktioniert es nicht.
+* Wenn die Spannung vom Lieferanten höher ist als das, was der Verbraucher "verträgt", dann muss damit gerechnet werden, dass der Verbraucher kaputtgeht.
+* Wenn die Spannung vom Lieferant kleiner ist, als das was der Verbraucher braucht/verträgt, dann ist i.A. der Schaden klein, es funktioniert einfach nicht!
+* Wenn man an den falschen Stellen Kabel zusammenbringt, dann verursacht man enen Kurzschluss.
+* Ein Kurzschluss führt dazu, dass viel Strom fliesst, was im guten Fall nur die Batterie erwärmt, im schlechten Fall geht dabei der Calliope kaputt oder die Batterie wird zu warm und fängt Feuer!
 
 __Also Vorsicht !__
 
@@ -19,13 +23,12 @@ Wir werden nun also die Anschlüsse des Calliope ausprobieren.
 ## Das offizielle Calliope-Layout
 
 So sieht das offizielle Layout des Calliope aus:  
-( https://calliope-mini.github.io/assets/v10/img/Calliope_mini_1.0_pinout_fin.jpg )
+(https://calliope-mini.github.io/assets/v10/img/Calliope_mini_1.0_pinout_fin.jpg)
 
-![Calliope_mini_1.0_pinout_fin.jpg](./pics/Calliope_mini_1.0_pinout_fin.jpg)
+![](./pics/Calliope_mini_1.0_pinout_fin.jpg)
 
-## Verwendung der Pins
 
-### Fähigkeiten der Pins
+## Fähigkeiten der Pins
 
 Wenn man die Anschlüsse auf dem Calliope etwas genauer anschaut, dann sieht man an
  
@@ -34,7 +37,7 @@ Wenn man die Anschlüsse auf dem Calliope etwas genauer anschaut, dann sieht man
 * P2: Digital, Analog und Touch
 * P3: Digital und Touch
 
-### Pins als Ausgang oder Eingang
+## Pins als Ausgang oder Eingang
 
 Wichtig ist an dieser Stelle:  
 Die __Pins__ kann man vom Programm aus sowohl als __Ausgang__ schalten, d.h. wir können z.B, eine LED ein und ausschalten, als auch  kann man die __Pins__ als __Eingang__ schalten, sprich man kann vom Programm aus abfragen, ob von aussen eine Spannung angelegt wurde, ob der Eingang mit dem Finger berührt wurde und ähnliches.
@@ -50,7 +53,7 @@ __ACHTUNG__ :
 Der Calliope verträgt maximal __3.3 V!__  
 Wir dürfen also nur die Batterien bis maximal 3V anschliessen, die Batterien mit 4.5V, mit 9V und die mit 12V sind __tabu__!
 
-![Calliope_Ausgepackt_Ports.png](./pics/Calliope_Ausgepackt_Ports.png)
+![Calliope_Ausgepackt_Ports.png](./pics/Calliope_Ausgepackt_Ports.png){height=50%}
 
 
 
@@ -64,23 +67,29 @@ Der erste Spannungs-Messer wird sehr einfach:
 * und zeigen anschliessend die Variable an. 
 * Zum Abschluss wird noch der Bildschirm gelöscht um die Werte voneinander unterscheiden zu können.
 
-### Fortgeschrittene-Funktionen:
+## Fortgeschrittene-Funktionen:
 
-![02_AuswahlMenu.png](./pics/02_AuswahlMenu.png)
+![02_AuswahlMenu.png](./pics/02_AuswahlMenu.png){height=50%}
 
-### Pin-Funktionen im Menu
 
-![03_AuswahlMenu.png](./pics/03_AuswahlMenu.png)
+## Pin-Funktionen im Menu
 
-### Verfügbare PIN-Funktionen
+![03_AuswahlMenu.png](./pics/03_AuswahlMenu.png){height=50%}
 
-![04_PortFunktionen.png](./pics/04_PortFunktionen.png)
 
-### Alles zusammen in einer Endlos-Schleife
+## Verfügbare PIN-Funktionen
+
+![04_PortFunktionen.png](./pics/04_PortFunktionen.png){height=50%}
+
+
+## Alles zusammen in einer Endlos-Schleife (1)
 
 1.) Auslesen und speichern in einer Variable
 
-![05_SimplerBatterieTester.png](./pics/05_SimplerBatterieTester.png)
+![05_SimplerBatterieTester.png](./pics/05_SimplerBatterieTester.png){height=50%}
+
+
+## Alles zusammen in einer Endlos-Schleife (2)
 
 2.) Anzeigen und Bildschirm löschen
 
