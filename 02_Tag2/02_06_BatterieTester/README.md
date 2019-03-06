@@ -23,10 +23,12 @@ Wir werden nun also die Anschlüsse des Calliope ausprobieren.
 ## Das offizielle Calliope-Layout
 
 So sieht das offizielle Layout des Calliope aus:  
-(https://calliope-mini.github.io/assets/v10/img/Calliope_mini_1.0_pinout_fin.jpg)
 
-![](./pics/Calliope_mini_1.0_pinout_fin.jpg)
+![](./pics/Calliope_mini_1.0_pinout_fin.jpg){height=80%}
 
+\begin{tiny}
+  (https://calliope-mini.github.io/assets/v10/img/Calliope\_mini\_1.0\_pinout\_fin.jpg)
+\end{tiny}
 
 ## Fähigkeiten der Pins
 
@@ -69,34 +71,35 @@ Der erste Spannungs-Messer wird sehr einfach:
 
 ## Fortgeschrittene-Funktionen:
 
-![02_AuswahlMenu.png](./pics/02_AuswahlMenu.png){height=50%}
+![AuswahlMenu](./pics/02_AuswahlMenu.png){height=80%}
 
 
 ## Pin-Funktionen im Menu
 
-![03_AuswahlMenu.png](./pics/03_AuswahlMenu.png){height=50%}
+![AuswahlMenu](./pics/03_AuswahlMenu.png){height=80%}
 
 
 ## Verfügbare PIN-Funktionen
 
-![04_PortFunktionen.png](./pics/04_PortFunktionen.png){height=50%}
+![PinFunktionen](./pics/04_PortFunktionen.png){height=80%}
 
 
 ## Alles zusammen in einer Endlos-Schleife (1)
 
 1.) Auslesen und speichern in einer Variable
 
-![05_SimplerBatterieTester.png](./pics/05_SimplerBatterieTester.png){height=50%}
+![SimplerBatterieTester](./pics/05_SimplerBatterieTester.png){height=70%}
 
 
 ## Alles zusammen in einer Endlos-Schleife (2)
 
 2.) Anzeigen und Bildschirm löschen
 
-![06_SimplerBatterieTester.png](./pics/06_SimplerBatterieTester.png)
+![SimplerBatterieTester](./pics/06_SimplerBatterieTester.png){height=70%}
 
 
-### JavaScript-Code
+
+## JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -113,22 +116,27 @@ basic.forever(() => {
 ```
 </details>
 
-### Download Hex-Code
+Download Hex-Code
 
-[Hex-code](code/mini-BatterieTester_Version1)
+[Hex-code](code/mini-BatterieTester_Version1.hex)
+
+## Batterie anschliessen (1)
 
 Nun kann man also eine Batterie anschliessen: 
 
-![Angeschlossene Batterie](./pics/Calliope_Ausgepackt_mit_Batterie.png)
+![Angeschlossene Batterie](./pics/Calliope_Ausgepackt_mit_Batterie.png){height=50%}
 
+
+## Batterie anschliessen (2)
 
 So sieht das ganze dann mit Krokodil-Klemmen angeschlossen aus:
 
-![Calliope_mit Batterie Krokodil-Klemmen](./pics/Calliope_mit_angeschl_Batt.jpg)
+![Calliope_mit Batterie Krokodil-Klemmen](./pics/Calliope_mit_angeschl_Batt.jpg){height=50%}
 
 
 
-## Spannungs-Messer Version 2
+
+## Spannungs-Messer Probleme (1)
 
 Wenn wir nun verschieden Batterien anschliessen (__Achtung__ nur Batterien bis 3V ) dann sehen wir keine sinnvollen Werte.
 
@@ -136,25 +144,31 @@ Okay, Batterien mit kleiner Spannung ergeben einen kleineren Wert, Batterien mit
 
 __Was ist falsch?__
 
+## Spannungs-Messer Probleme (2)
+
 Da hilft uns die eingebaute Hilfe-Funktion weiter.
 
 Einfach die Funktion mit der linken Maustaste anklicken und dann mit dem Mauszeiger über der Funktion bleiben. Nach ca 1-2 Sekunden erscheint ein Hilfetext der über der Funktion schwebt:
 
-![06a_Hilfe_Funktionen](./pics/06a_Hilfe_Funktionen.png)
+![06a_Hilfe_Funktionen](./pics/06a_Hilfe_Funktionen.png){height=50%}
 
  
-Aha.   
-Der Wert wird von 0 - 1023 ausgegeben!  
-Aber welcher Wert?  
-Nun, wir hatten es schon ein paar mal gesagt/geschrieben:  
-Der Calliope verträgt an seinen Pins maximal 3.3 V.  
-Das ist damit auch die Antwort:  
-Die Spannung 3.3 V wird in unserem Programm mit 1023 ausgegeben, die Spannung 0 V wird mit 0 ausgegeben.
+## Spannungs-Messer Probleme (3)
 
+* Aha.   
+* Der Wert wird von 0 - 1023 ausgegeben!  
+* Aber welcher Wert?  
+* Nun, wir hatten es schon ein paar mal gesagt/geschrieben:  
+* Der Calliope verträgt an seinen Pins maximal 3.3 V.  
+* Das ist damit auch die Antwort:  
+* Die Spannung 3.3 V wird in unserem Programm mit 1023 ausgegeben, die Spannung 0 V wird mit 0 ausgegeben.
+
+
+## Spannungs-Messer Werte-Bereich
 
 Also sieht das Ganze so aus:
 
-![06a_Umrechnung](./pics/Abbildung_Spannung_Werte.jpg)
+![06a_Umrechnung](./pics/Abbildung_Spannung_Werte.jpg){height=50%}
 
 Die dafür notwendige Umrechnung müsst Ihr noch nicht können, nur der Vollständigkeit halber:
 
