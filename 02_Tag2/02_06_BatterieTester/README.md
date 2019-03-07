@@ -155,7 +155,7 @@ Einfach die Funktion mit der linken Maustaste anklicken und dann mit dem Mauszei
  
 ## Spannungs-Messer Probleme (3)
 
-* Aha.   
+* Okay...   
 * Der Wert wird von 0 - 1023 ausgegeben!  
 * Aber welcher Wert?  
 * Nun, wir hatten es schon ein paar mal gesagt/geschrieben:  
@@ -164,11 +164,13 @@ Einfach die Funktion mit der linken Maustaste anklicken und dann mit dem Mauszei
 * Die Spannung 3.3 V wird in unserem Programm mit 1023 ausgegeben, die Spannung 0 V wird mit 0 ausgegeben.
 
 
-## Spannungs-Messer Werte-Bereich
+## Spannungs-Messer Werte-Bereich (1)
 
 Also sieht das Ganze so aus:
 
 ![06a_Umrechnung](./pics/Abbildung_Spannung_Werte.jpg){height=50%}
+
+## Spannungs-Messer Werte-Bereich (2)
 
 Die dafür notwendige Umrechnung müsst Ihr noch nicht können, nur der Vollständigkeit halber:
 
@@ -184,9 +186,12 @@ Und damit, da müsst Ihr mir jetzt halt einfach glauben, wird unsere Rechnung mi
 
 ```Spannung in Millivolt = Wert * 32 / 10```
 
+
+## Spannungs-Messer Werte-Bereich (3)
+
 Das können wir uns einfach aus der Mathematik holen, wir brauchen dazu eine Mal-Rechnung und eine Geteilt-Rechnung, die Ihr evt noch gar nicht in der Schule gehabt habt, sorry.
 
-![06b Mathe](./pics/06b_Mathematik.png)
+![06b Mathe](./pics/06b_Mathematik.png){height=60%}
 
 
 Der Spannungs-Messer sieht dann so aus:
@@ -195,7 +200,7 @@ Der Spannungs-Messer sieht dann so aus:
 ![07_SimplerBatterieTester_mit_mV.png](./pics/07a_SimplerBatterieTester_mit_mV.png)
  
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-BatterieTester_Version2.hex)
 
@@ -208,10 +213,10 @@ Der Spannungs-Messer sieht dann so aus:
  
  So würde das Ganze dann zum Beispiel aussehen:
  
-![07_SimplerBatterieTester_mit_mV.png](./pics/07_SimplerBatterieTester_mit_mV.png)
+![07_SimplerBatterieTester_mit_mV.png](./pics/07_SimplerBatterieTester_mit_mV.png){height=60%}
  
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-BatterieTester_Version3.hex)
  
@@ -229,30 +234,40 @@ Der Spannungs-Messer sieht dann so aus:
  
  Also machen wir das ganze noch etwas schöner.
  
+## Spannungs-Messer Version 4
+
  Mit der Funktionalität zum Variablen umbenennen geben wir der Variable einen anderen Namen: Wir nennen sie __Messwert__  
 
 ![Variable umbenennen](./pics/09_VariableUmbenennen.png)
 
+
+## Spannungs-Messer Version 4
+
 ![Variable umbenennen](./pics/10_VariableUmbenennen.png)
 
+## Spannungs-Messer Version 4
 Und nun legen wir noch eine neue Variable namens Spannung an:
 
 ![Variable anlegen](./pics/11_NeueVariableAnlegen.png)
 
+## Spannungs-Messer Version 4
 Und ziehen nun eine Setzen dieser neuen Variable in unseren Code, direkt hinter das Auslesen des Pins:
 
 ![Variable belegen](./pics/11_NeueVariableSpannung.png)
 
+## Spannungs-Messer Version 4
 Nun können wir unser mathematische Berechnung, das ganze grosse Puzzle-Stück rausziehen:
 
 ![Variable belegen](./pics/12_BerechnungRausziehen.png)
 
+## Spannungs-Messer Version 4
 Und im Arbeitsbereich als ganzes Stück ablegen.
 
 ![13_BerechnungRausziehen.png](./pics/13_BerechnungRausziehen.png)
 
  Dann nehmen wir es und klicken es in die Platzhalter/Variablen-Zuweisung ein.
  
+## Spannungs-Messer Version 4
  Wir haben jetzt also ein Programm mit 2 Variablen:
  
  * Variable 1 : Der __Messwert__, so wie der Calliope ihn hergibt zwischen 0 und 1023
@@ -260,10 +275,12 @@ Und im Arbeitsbereich als ganzes Stück ablegen.
  
 ![14_BerechnungNeuDrin.png](./pics/14_BerechnungNeuDrin.png)
 
+## Spannungs-Messer Version 4
+
 Nun müssen wir noch weiter unten, wo wir die Berechnung "gestohlen" haben und wo momentan eine 0 drin steht unsere neue Variable namens __Spannung__ verwenden, denn das ist das was wir anzeigen wollen.
 ![15_SpannungBenutzt.png](./pics/15_SpannungBenutzt.png)
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-BatterieTester_Version4.hex)
 
