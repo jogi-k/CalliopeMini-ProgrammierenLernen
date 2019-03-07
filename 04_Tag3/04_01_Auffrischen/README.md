@@ -9,44 +9,58 @@ Platzhalter / Variablen dienen - wie der Name andeutet - dazu, veränderliche We
 Man will aber den Variablen nicht nur Werte "reingeben", sondern man will dann auch die Variablen wieder "fragen" : Was für einen Wert hast Du denn?
 In der Programmierung sagt man:
 
-*  der Variable wird ein Wert __zugewiesen__
+* der Variable wird ein Wert __zugewiesen__
 * der Wert der Variablen wird __abgefragt__  
 
 
-### Zuweisung an eine Variable
+## Zuweisung an eine Variable
 
 Vorstellen kann man sich das auch als Zuruf mit dem Megaphon:   
 Hey Du, __Variable_A__, merk Dir doch bitte mal die __2__!
 
-![Megaphon.jpg](./pics/Megaphon.jpg)
+![Megaphon](./pics/Megaphon.jpg){height=60%}
+
+## Zuweisung an eine Variable
 
 Oder man stellt sich die Variable als Obstkorb vor, der mit Äpfeln "belegt" wird:
 
 Korb_A :
-![Korb_A_leer.png](./pics/Korb_A_leer.png)
+![Korb_A_leer.png](./pics/Korb_A_leer.png){height=60%}
+
+## Zuweisung an eine Variable
 
 Belege den Korb_A mit 2:
-![Korb_A_2_Apfel_Hand.png](./pics/Korb_A_2_Apfel_Hand.png)
+![Korb_A_2_Apfel_Hand.png](./pics/Korb_A_2_Apfel_Hand.png){height=60%}
+
+## Zuweisung an eine Variable
 
 In einer "normalen" Programmiersprache : __Variable_A__ = 2  
 Zuweisung an __Variable_A__, die Variable steht auf der linken Seite des Gleichheitszeichens, der Wert mit dem die Variable belegt werden soll, steht auf der rechten Seite des Gleichheitszeichens.
 
+
+## Zuweisung an eine Variable
+
 Die Zuweisung an eine Variable in unsere Calliope-Programmier-Sprache sieht so aus:
 
-![Zuweisung ](./pics/Variable_A_belegen.png)
+![Zuweisung ](./pics/Variable_A_belegen.png){height=60%}
 
 
-### Abfrage/Benutzen einer Variable
+## Abfrage/Benutzen einer Variable
 
 So wie man sich vorher die Zuweisung mit einem Megaphon vorstellen kann, so kann man sich das Auslesen/Benutzen der Variable vorstellen, dass man mit einem altmodischen Hör-Rohr fragt:  
 Hey Du, __Variable_A__, was war es, was Du Dir vorher merken solltest? Sag es mir doch bitte.
 
-![Hoerrohr.jpg](./pics/Hoerrohr.jpg)
+![Hoerrohr.jpg](./pics/Hoerrohr.jpg){height=60%}
+
+
+## Abfrage/Benutzen einer Variable
 
 Oder man stellt sich vor, wie man in den Obstkorb reinschaut, wieviele Äpfel denn dort drin sind, man __fragt__ die __Belegung ab__:
 
 Was ist der Inhalt von Korb_A :
-![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png)
+![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png){height=60%}
+
+## Abfrage/Benutzen einer Variable
 
 So wie in unserem Korb-Beispiel der Korb nur angeschaut wird, ist das auch beim Programmieren: 
 
@@ -58,16 +72,20 @@ In einer "normalen" Programmiersprache wird das üblicherweise z.B. so dargestel
 
 * Variable_B = __Variable_A__ <br>Der Wert der Variable: __Variable_A__ wird erfragt, sie steht auf der rechten Seite des Gleichheitszeichens.
 
+## Abfrage/Benutzen einer Variable
+
 In unserer grafischen Calliope-Programmiersprache wird das Benutzen der Variable einfach durch das Puzzleteil mit der Variable dargestellt:
 
-![Benutzung ](./pics/Variable_A_benutzen.png)
+![Benutzung ](./pics/Variable_A_benutzen.png){height=60%}
+
+## Abfrage/Benutzen einer Variable
 
 Dieses eInzelne Puzzleteil kann man dann irgendwo anstatt festen Werten einklicken, also wenn man z.B. die Rechnung mit der __Variable_B__ von oben nochmals benutzen will:
 
 * __Variable_B__ = __Variable_A__ <br>Der Wert der Variable: __Variable_A__ wird erfragt, sie steht auf der rechten Seite des Gleichheitszeichens.<br>Auf der linken Seite des Gleichheits-Zeichens wird das der Variable __Variable_B__ zugewiesen, <br>die __Variable_B__ wird mit dem selben Wert belegt.
 
  
- * ![Benutzung ](./pics/Variable_A_benutzen_in_Zuweisung.png)
+ * ![Benutzung ](./pics/Variable_A_benutzen_in_Zuweisung.png){height=60%}
 
 
 ## Ein paar Rechnungen
@@ -80,14 +98,14 @@ Nun haben wir also mehrere Darstellungs-Möglichkeiten für Variablen-Belegung u
 
 Damit wollen wir noch ein paar ganz einfache Belegungen, Abfragen und Rechnungen zeigen.
 
-### Korb A mit 2 belegen
+## Korb A mit 2 belegen
 
 __Korb_A = 2__
 
-![Korb_A_2_Apfel_Hand.png](./pics/Korb_A_2_Apfel_Hand.png)
+![Korb_A_2_Apfel_Hand.png](./pics/Korb_A_2_Apfel_Hand.png){height=60%}
 
 
-![Korb_A_2_Apfel_Hand.png](./pics/Call_Korb_A_2_set.png)
+![Korb_A_2_Apfel_Hand.png](./pics/Call_Korb_A_2_set.png){height=60%}
 
 <hr>
 
@@ -96,10 +114,10 @@ __Korb_A = 2__
 
 __Korb_B = 1__
 
-![Korb_B_1_Apfel_Hand.png](./pics/Korb_B_1_Apfel_Hand.png)
+![Korb_B_1_Apfel_Hand.png](./pics/Korb_B_1_Apfel_Hand.png){height=60%}
 
 
-![Korb_B_1_Apfel_Hand.png](./pics/Call_Korb_B_1_set.png)
+![Korb_B_1_Apfel_Hand.png](./pics/Call_Korb_B_1_set.png){height=60%}
 
 <hr>
 
@@ -108,10 +126,10 @@ __Korb_B = 1__
 
 __Korb_C = Korb_A + Korb_B__
 
-![Korb_C_3_Apfel_Hand.png](./pics/Korb_C_3_Apfel_Hand.png)  ![Gleichzeichen ](./pics/Gleichzeichen.png) ![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png)  ![Pluszeichen ](./pics/Pluszeichen.png)  ![Korb_B_1_Apfel_Auge.png](./pics/Korb_B_1_Apfel_Auge.png)
+![Korb_C_3_Apfel_Hand.png](./pics/Korb_C_3_Apfel_Hand.png){height=60%}  ![Gleichzeichen ](./pics/Gleichzeichen.png){height=60%} ![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png){height=60%}  ![Pluszeichen ](./pics/Pluszeichen.png){height=60%}  ![Korb_B_1_Apfel_Auge.png](./pics/Korb_B_1_Apfel_Auge.png){height=60%}
 
 
-![Korb_C  = Korb_A + Korb_B](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png)
+![Korb_C  = Korb_A + Korb_B](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=60%}
 
 <hr>
 
@@ -121,14 +139,14 @@ __Korb_C = Korb_A + Korb_B__
 __Korb_B = Korb_B + 1__
 
 
-![Korb_B_2_Apfel_Hand.png](./pics/Korb_B_2_Apfel_Hand.png) ![Gleichzeichen ](./pics/Gleichzeichen.png)  ![Korb_B_1_Apfel_Hand.png](./pics/Korb_B_1_Apfel_Auge.png) ![Pluszeichen ](./pics/Pluszeichen.png) ![Einzelner Apfel ](./pics/Einzelner_Apfel.png)
+![Korb_B_2_Apfel_Hand.png](./pics/Korb_B_2_Apfel_Hand.png){height=60%} ![Gleichzeichen ](./pics/Gleichzeichen.png){height=60%}  ![Korb_B_1_Apfel_Hand.png](./pics/Korb_B_1_Apfel_Auge.png){height=60%} ![Pluszeichen ](./pics/Pluszeichen.png){height=60%} ![Einzelner Apfel ](./pics/Einzelner_Apfel.png){height=60%}
 
 
-![Korb_B = Korb_B + 1](./pics/Call_Korb_B_eq_Korb_B_plus_1.png)
+![Korb_B = Korb_B + 1](./pics/Call_Korb_B_eq_Korb_B_plus_1.png){height=60%}
 
 oder andere Möglichkeit, die auch leider einfach mit dem Setzen einer Variable zu verwechseln ist:
 
-![Korb_B erhöhen um 1](./pics/Call_Korb_B_inc_1.png)
+![Korb_B erhöhen um 1](./pics/Call_Korb_B_inc_1.png){height=60%}
 
 <hr> 
  
@@ -145,7 +163,7 @@ Der Korb C enthält immer noch die 3.
 Wir schauen nochmal nach :-)
 
 
-![Korb_C mit 3 Apfel und Auge ](./pics/Korb_C_3_Apfel_Auge.png)  
+![Korb_C mit 3 Apfel und Auge ](./pics/Korb_C_3_Apfel_Auge.png){height=60%}  
 
 <hr>
 
@@ -156,14 +174,14 @@ Ebenso können wir nun natürlich Korb A um eins erhöhen
 __Korb_A = Korb_A + 1__
 
 
-![Korb_A 3 Apfel und Hand](./pics/Korb_A_3_Apfel_Hand.png) ![Gleichzeichen ](./pics/Gleichzeichen.png)  ![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png) ![Pluszeichen ](./pics/Pluszeichen.png) ![Einzelner Apfel ](./pics/Einzelner_Apfel.png)
+![Korb_A 3 Apfel und Hand](./pics/Korb_A_3_Apfel_Hand.png){height=60%} ![Gleichzeichen ](./pics/Gleichzeichen.png){height=60%}  ![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png){height=60%} ![Pluszeichen ](./pics/Pluszeichen.png){height=60%} ![Einzelner Apfel ](./pics/Einzelner_Apfel.png){height=60%}
 
 
-![Korb_A = Korb_A + 1](./pics/Call_Korb_A_eq_Korb_A_plus_1.png)
+![Korb_A = Korb_A + 1](./pics/Call_Korb_A_eq_Korb_A_plus_1.png){height=60%}
 
 oder andere Möglichkeit, die auch leider einfach mit dem Setzen einer Variable zu verwechseln ist:
 
-![Korb_A erhöhen um 1](./pics/Call_Korb_A_inc_1.png)
+![Korb_A erhöhen um 1](./pics/Call_Korb_A_inc_1.png){height=60%}
 
 <hr> 
 
@@ -189,11 +207,11 @@ __Korb_C = Korb_A + Korb_B__
  Also sieht unsere Korb-Rechnung nun so aus: 
  
 
-![Korb_C_5_Apfel_Hand.png](./pics/Korb_C_5_Apfel_Hand.png)  ![Gleichzeichen ](./pics/Gleichzeichen.png) ![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_3_Apfel_Auge.png)  ![Pluszeichen ](./pics/Pluszeichen.png)  ![Korb_B_1_Apfel_Auge.png](./pics/Korb_B_2_Apfel_Auge.png)
+![Korb_C_5_Apfel_Hand.png](./pics/Korb_C_5_Apfel_Hand.png){height=60%}  ![Gleichzeichen ](./pics/Gleichzeichen.png){height=60%} ![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_3_Apfel_Auge.png){height=60%}  ![Pluszeichen ](./pics/Pluszeichen.png){height=60%}  ![Korb_B_1_Apfel_Auge.png](./pics/Korb_B_2_Apfel_Auge.png){height=60%}
 
 Und in Calliope-Rechnung sieht das ganz wieder genau gleich wie vorher aus:
 
-![Korb_C  = Korb_A + Korb_B](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png)
+![Korb_C  = Korb_A + Korb_B](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=60%}
 
 ## Mathematik 
 
@@ -216,11 +234,11 @@ Um das in zwei Schritten umsetzen zu können, benutzen wir einen Hilfswert, wir 
 Diese mathematische Formel kann man nun recht einfach auch in zwei Schritten im Calliope umsetzen:
 
 
-![Berechnung mit Hilfswert am Calliope](./pics/Call_Berechnung_mit_Hilfsvariable.png)
+![Berechnung mit Hilfswert am Calliope](./pics/Call_Berechnung_mit_Hilfsvariable.png){height=60%}
 
 Diese Berechnung sieht nun um einiges einfacher aus, als die Darstellung von der letzten Stunde:
 
-![Berechnung ohne Hilfswert am Calliope](./pics/Call_Berechnung_ohne_Hilfsvariable.png)
+![Berechnung ohne Hilfswert am Calliope](./pics/Call_Berechnung_ohne_Hilfsvariable.png){height=60%}
 
 
 ## Spannung / Verbraucher 
