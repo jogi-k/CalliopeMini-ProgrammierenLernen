@@ -1,16 +1,20 @@
 # Arbeiten mit den Pins
 
+## Nochmals: Spannungen (1)
+
 Der Grund, warum wir uns überhaupt in den letzen Minuten/letzte halbe Stunde mit Elektronik-/Elektrotechnik-Grundlagen beschäftigt haben ist folgender:
 
 Der Calliope hat schon sehr viele Dinge (die wir auch noch genauer anschauen werden) auf dem Board. Aber manchmal reicht das nicht und man will etwas an den Calliope anschliessen.
 
 Und damit man dabei weder den Calliope noch das was man anschliesst, zerstört, haben wir ein paar Basis-Dinge gelernt.
 
-- Wenn Spannung von Lieferant und Verbraucher nicht übereintsimmen, dann funktioniert es nicht.
-- Wenn die Spannung vom Lieferanten höher ist als das, was der Verbraucher "verträgt", dann muss damit gerechnet werden, dass der Verbraucher kaputtgeht.
-- Wenn die Spannung vom Lieferant kleiner ist, als das was der Verbraucher braucht/verträgt, dann ist i.A. der Schaden klein, es funktioniert einfach nicht!
-- Wenn man an den falschen Stellen Kabel zusammenbringt, dann verursacht man enen Kurzschluss.
-- Ein Kurzschluss führt dazu, dass viel Strom fliesst, was im guten Fall nur die Batterie erwärmt, im schlechten Fall geht dabei der Calliope kaputt oder die Batterie wird zu warm und fängt Feuer!
+## Nochmals: Spannungen (2)
+
+* Wenn Spannung von Lieferant und Verbraucher nicht übereintsimmen, dann funktioniert es nicht.
+* Wenn die Spannung vom Lieferanten höher ist als das, was der Verbraucher "verträgt", dann muss damit gerechnet werden, dass der Verbraucher kaputtgeht.
+* Wenn die Spannung vom Lieferant kleiner ist, als das was der Verbraucher braucht/verträgt, dann ist i.A. der Schaden klein, es funktioniert einfach nicht!
+* Wenn man an den falschen Stellen Kabel zusammenbringt, dann verursacht man enen Kurzschluss.
+* Ein Kurzschluss führt dazu, dass viel Strom fliesst, was im guten Fall nur die Batterie erwärmt, im schlechten Fall geht dabei der Calliope kaputt oder die Batterie wird zu warm und fängt Feuer!
 
 __Also Vorsicht !__
 
@@ -19,13 +23,14 @@ Wir werden nun also die Anschlüsse des Calliope ausprobieren.
 ## Das offizielle Calliope-Layout
 
 So sieht das offizielle Layout des Calliope aus:  
-( https://calliope-mini.github.io/assets/v10/img/Calliope_mini_1.0_pinout_fin.jpg )
 
-![Calliope_mini_1.0_pinout_fin.jpg](./pics/Calliope_mini_1.0_pinout_fin.jpg)
+![](./pics/Calliope_mini_1.0_pinout_fin.jpg){height=80%}
 
-## Verwendung der Pins
+\begin{tiny}
+  (https://calliope-mini.github.io/assets/v10/img/Calliope\_mini\_1.0\_pinout\_fin.jpg)
+\end{tiny}
 
-### Fähigkeiten der Pins
+## Fähigkeiten der Pins
 
 Wenn man die Anschlüsse auf dem Calliope etwas genauer anschaut, dann sieht man an
  
@@ -34,7 +39,7 @@ Wenn man die Anschlüsse auf dem Calliope etwas genauer anschaut, dann sieht man
 * P2: Digital, Analog und Touch
 * P3: Digital und Touch
 
-### Pins als Ausgang oder Eingang
+## Pins als Ausgang oder Eingang
 
 Wichtig ist an dieser Stelle:  
 Die __Pins__ kann man vom Programm aus sowohl als __Ausgang__ schalten, d.h. wir können z.B, eine LED ein und ausschalten, als auch  kann man die __Pins__ als __Eingang__ schalten, sprich man kann vom Programm aus abfragen, ob von aussen eine Spannung angelegt wurde, ob der Eingang mit dem Finger berührt wurde und ähnliches.
@@ -50,7 +55,7 @@ __ACHTUNG__ :
 Der Calliope verträgt maximal __3.3 V!__  
 Wir dürfen also nur die Batterien bis maximal 3V anschliessen, die Batterien mit 4.5V, mit 9V und die mit 12V sind __tabu__!
 
-![Calliope_Ausgepackt_Ports.png](./pics/Calliope_Ausgepackt_Ports.png)
+![Calliope_Ausgepackt_Ports.png](./pics/Calliope_Ausgepackt_Ports.png){height=50%}
 
 
 
@@ -64,30 +69,37 @@ Der erste Spannungs-Messer wird sehr einfach:
 * und zeigen anschliessend die Variable an. 
 * Zum Abschluss wird noch der Bildschirm gelöscht um die Werte voneinander unterscheiden zu können.
 
-### Fortgeschrittene-Funktionen:
+## Fortgeschrittene-Funktionen:
 
-![02_AuswahlMenu.png](./pics/02_AuswahlMenu.png)
+![AuswahlMenu](./pics/02_AuswahlMenu.png){height=80%}
 
-### Pin-Funktionen im Menu
 
-![03_AuswahlMenu.png](./pics/03_AuswahlMenu.png)
+## Pin-Funktionen im Menu
 
-### Verfügbare PIN-Funktionen
+![AuswahlMenu](./pics/03_AuswahlMenu.png){height=80%}
 
-![04_PortFunktionen.png](./pics/04_PortFunktionen.png)
 
-### Alles zusammen in einer Endlos-Schleife
+## Verfügbare PIN-Funktionen
+
+![PinFunktionen](./pics/04_PortFunktionen.png){height=80%}
+
+
+## Alles zusammen in einer Endlos-Schleife (1)
 
 1.) Auslesen und speichern in einer Variable
 
-![05_SimplerBatterieTester.png](./pics/05_SimplerBatterieTester.png)
+![SimplerBatterieTester](./pics/05_SimplerBatterieTester.png){height=70%}
+
+
+## Alles zusammen in einer Endlos-Schleife (2)
 
 2.) Anzeigen und Bildschirm löschen
 
-![06_SimplerBatterieTester.png](./pics/06_SimplerBatterieTester.png)
+![SimplerBatterieTester](./pics/06_SimplerBatterieTester.png){height=70%}
 
 
-### JavaScript-Code
+
+## JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -104,22 +116,27 @@ basic.forever(() => {
 ```
 </details>
 
-### Download Hex-Code
+Download Hex-Code
 
-[Hex-code](code/mini-BatterieTester_Version1)
+[Hex-code](code/mini-BatterieTester_Version1.hex)
+
+## Batterie anschliessen (1)
 
 Nun kann man also eine Batterie anschliessen: 
 
-![Angeschlossene Batterie](./pics/Calliope_Ausgepackt_mit_Batterie.png)
+![Angeschlossene Batterie](./pics/Calliope_Ausgepackt_mit_Batterie.png){height=50%}
 
+
+## Batterie anschliessen (2)
 
 So sieht das ganze dann mit Krokodil-Klemmen angeschlossen aus:
 
-![Calliope_mit Batterie Krokodil-Klemmen](./pics/Calliope_mit_angeschl_Batt.jpg)
+![Calliope_mit Batterie Krokodil-Klemmen](./pics/Calliope_mit_angeschl_Batt.jpg){height=50%}
 
 
 
-## Spannungs-Messer Version 2
+
+## Spannungs-Messer Probleme (1)
 
 Wenn wir nun verschieden Batterien anschliessen (__Achtung__ nur Batterien bis 3V ) dann sehen wir keine sinnvollen Werte.
 
@@ -127,25 +144,33 @@ Okay, Batterien mit kleiner Spannung ergeben einen kleineren Wert, Batterien mit
 
 __Was ist falsch?__
 
+## Spannungs-Messer Probleme (2)
+
 Da hilft uns die eingebaute Hilfe-Funktion weiter.
 
 Einfach die Funktion mit der linken Maustaste anklicken und dann mit dem Mauszeiger über der Funktion bleiben. Nach ca 1-2 Sekunden erscheint ein Hilfetext der über der Funktion schwebt:
 
-![06a_Hilfe_Funktionen](./pics/06a_Hilfe_Funktionen.png)
+![06a_Hilfe_Funktionen](./pics/06a_Hilfe_Funktionen.png){height=50%}
 
  
-Aha.   
-Der Wert wird von 0 - 1023 ausgegeben!  
-Aber welcher Wert?  
-Nun, wir hatten es schon ein paar mal gesagt/geschrieben:  
-Der Calliope verträgt an seinen Pins maximal 3.3 V.  
-Das ist damit auch die Antwort:  
-Die Spannung 3.3 V wird in unserem Programm mit 1023 ausgegeben, die Spannung 0 V wird mit 0 ausgegeben.
+## Spannungs-Messer Probleme (3)
 
+* Okay...   
+* Der Wert wird von 0 - 1023 ausgegeben!  
+* Aber welcher Wert?  
+* Nun, wir hatten es schon ein paar mal gesagt/geschrieben:  
+* Der Calliope verträgt an seinen Pins maximal 3.3 V.  
+* Das ist damit auch die Antwort:  
+* Die Spannung 3.3 V wird in unserem Programm mit 1023 ausgegeben, die Spannung 0 V wird mit 0 ausgegeben.
+
+
+## Spannungs-Messer Werte-Bereich (1)
 
 Also sieht das Ganze so aus:
 
-![06a_Umrechnung](./pics/Abbildung_Spannung_Werte.jpg)
+![06a_Umrechnung](./pics/Abbildung_Spannung_Werte.jpg){height=50%}
+
+## Spannungs-Messer Werte-Bereich (2)
 
 Die dafür notwendige Umrechnung müsst Ihr noch nicht können, nur der Vollständigkeit halber:
 
@@ -161,9 +186,12 @@ Und damit, da müsst Ihr mir jetzt halt einfach glauben, wird unsere Rechnung mi
 
 ```Spannung in Millivolt = Wert * 32 / 10```
 
+
+## Spannungs-Messer Werte-Bereich (3)
+
 Das können wir uns einfach aus der Mathematik holen, wir brauchen dazu eine Mal-Rechnung und eine Geteilt-Rechnung, die Ihr evt noch gar nicht in der Schule gehabt habt, sorry.
 
-![06b Mathe](./pics/06b_Mathematik.png)
+![06b Mathe](./pics/06b_Mathematik.png){height=60%}
 
 
 Der Spannungs-Messer sieht dann so aus:
@@ -172,7 +200,7 @@ Der Spannungs-Messer sieht dann so aus:
 ![07_SimplerBatterieTester_mit_mV.png](./pics/07a_SimplerBatterieTester_mit_mV.png)
  
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-BatterieTester_Version2.hex)
 
@@ -185,10 +213,10 @@ Der Spannungs-Messer sieht dann so aus:
  
  So würde das Ganze dann zum Beispiel aussehen:
  
-![07_SimplerBatterieTester_mit_mV.png](./pics/07_SimplerBatterieTester_mit_mV.png)
+![07_SimplerBatterieTester_mit_mV.png](./pics/07_SimplerBatterieTester_mit_mV.png){height=60%}
  
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-BatterieTester_Version3.hex)
  
@@ -206,30 +234,40 @@ Der Spannungs-Messer sieht dann so aus:
  
  Also machen wir das ganze noch etwas schöner.
  
+## Spannungs-Messer Version 4
+
  Mit der Funktionalität zum Variablen umbenennen geben wir der Variable einen anderen Namen: Wir nennen sie __Messwert__  
 
 ![Variable umbenennen](./pics/09_VariableUmbenennen.png)
 
+
+## Spannungs-Messer Version 4
+
 ![Variable umbenennen](./pics/10_VariableUmbenennen.png)
 
+## Spannungs-Messer Version 4
 Und nun legen wir noch eine neue Variable namens Spannung an:
 
 ![Variable anlegen](./pics/11_NeueVariableAnlegen.png)
 
+## Spannungs-Messer Version 4
 Und ziehen nun eine Setzen dieser neuen Variable in unseren Code, direkt hinter das Auslesen des Pins:
 
 ![Variable belegen](./pics/11_NeueVariableSpannung.png)
 
+## Spannungs-Messer Version 4
 Nun können wir unser mathematische Berechnung, das ganze grosse Puzzle-Stück rausziehen:
 
 ![Variable belegen](./pics/12_BerechnungRausziehen.png)
 
+## Spannungs-Messer Version 4
 Und im Arbeitsbereich als ganzes Stück ablegen.
 
 ![13_BerechnungRausziehen.png](./pics/13_BerechnungRausziehen.png)
 
  Dann nehmen wir es und klicken es in die Platzhalter/Variablen-Zuweisung ein.
  
+## Spannungs-Messer Version 4
  Wir haben jetzt also ein Programm mit 2 Variablen:
  
  * Variable 1 : Der __Messwert__, so wie der Calliope ihn hergibt zwischen 0 und 1023
@@ -237,10 +275,12 @@ Und im Arbeitsbereich als ganzes Stück ablegen.
  
 ![14_BerechnungNeuDrin.png](./pics/14_BerechnungNeuDrin.png)
 
+## Spannungs-Messer Version 4
+
 Nun müssen wir noch weiter unten, wo wir die Berechnung "gestohlen" haben und wo momentan eine 0 drin steht unsere neue Variable namens __Spannung__ verwenden, denn das ist das was wir anzeigen wollen.
 ![15_SpannungBenutzt.png](./pics/15_SpannungBenutzt.png)
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-BatterieTester_Version4.hex)
 

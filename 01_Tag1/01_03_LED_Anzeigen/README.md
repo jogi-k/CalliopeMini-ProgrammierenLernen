@@ -2,13 +2,15 @@
 
 ## Auswahl aus Menu
 
-![LED anzeigen Menu](pics/LedAnzeigenMenu.png)
+![LED anzeigen Menu](pics/LedAnzeigenMenu.png){ height=70% }
 
 ## PXT-Code
 
-![LED anzeigen](pics/LedAnzeigen.png)
+![LED anzeigen](pics/LedAnzeigen.png){ height=70% }
 
-## JavaScript-Code
+
+## JavaScript-Code / Hex-Code
+### JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -26,13 +28,14 @@ basic.forever(() => {
 ```
 </details>
 
-## Download Hex-Code
+### Download Hex-Code
 
-![Hex-code](code/mini-LedAnzeigen.hex)
+[Hex-code](code/mini-LedAnzeigen.hex)
 
 ## Erweiterung mit Warten
 
-![Pause einfuegen Menu](pics/PausenMenu.png)
+![Pause einfuegen Menu](pics/PausenMenu.png){ height=50% }
+
 
 Einheit: 
 
@@ -43,10 +46,11 @@ Einheit:
 
 ## PXT-Code
 
-![LED anzeigen mit Pause](pics/LedAnzeigenMitPause.png)
+![LED anzeigen mit Pause](pics/LedAnzeigenMitPause.png){ height=70% }
 
-## JavaScript-Code
 
+## JavaScript-Code / Hex-Code
+### Javascript
 <details>
  <summary>Java-Script-Code</summary>
 
@@ -73,9 +77,9 @@ basic.forever(() => {
 ```
 </details>
 
-## Download Hex-Code
+### Download Hex-Code
 
-![Hex-code](code/mini-LedAnzeigenMitPause.hex)
+[Hex-code](code/mini-LedAnzeigenMitPause.hex)
 
 ## Navigation
 

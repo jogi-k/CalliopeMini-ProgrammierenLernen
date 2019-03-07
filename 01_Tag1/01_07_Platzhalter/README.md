@@ -1,6 +1,6 @@
 # Platzhalter / Variablen 
 
-## Erklärung
+## Erklärung (1)
 
 Wenn man den Taschenrechner etwas universeller haben will, dann muss man mehr Flexibilität haben.  
 D.h man muss mit verschiedenen, unterschiedlichen Werten arbeiten können.  
@@ -8,6 +8,7 @@ Anstatt den Programm-Code immer abzuändern und die Berechnung jedesmal neu zu �
 Platzhalter nennt man beim Programmieren auch Variablen, weil die Platzhalter unterschiedliche Werte, variable Werte aufnehmen kann.  
 Das kann man sich z.B. beim einfachen Zählen mit zwei Händen vorstellen:  
 
+## Erklärung (2)
 - Jede Hand ist ein Platzhalter.  
 - Jede Hand kann in diesem Fall Werte bis 5 "aufnehmen" (Wertebereich des Platzhalters von 0-5)
 - Die beiden Hände können unterschiedliche Werte "aufnehmen"
@@ -18,9 +19,9 @@ Das kann man sich z.B. beim einfachen Zählen mit zwei Händen vorstellen:
 
 ## Die Hände
 
-![Linke Hand](pics/ZaehlendeHaende_L.png)
+![Linke Hand](pics/ZaehlendeHaende_L.png){height=35%}
 
-![Rechte Hand](pics/ZaehlendeHaende_R.png)
+![Rechte Hand](pics/ZaehlendeHaende_R.png){height=35%}
 
 ## Zuweisung
 
@@ -29,23 +30,23 @@ Das geschieht in der Programmierung mit dem Gleichheitszeichen.
 Dieses Gleichheitszeichen ist nicht zu verwechseln mit dem Gleichheitszeichen in der Mathematik.  
 Das Gleichheits-Zeichen beim Programmieren bedeutet, dass dem Platzhalter auf der linken Seite der Wert auf der rechten Seite des Gleichheits-Zeichens zu gewiesen wird.
 
-Beispiel 1: 
+## Beispiel 1: 
 
 Linke Hand = 3  
 
-![Linke Hand](pics/LinkeHand_3.png)
+![Linke Hand](pics/LinkeHand_3.png){height=60%}
 
 heisst : Ab jetzt hat der Platzhalter Linke Hand den Wert 3.
 
-Beispiel 2:
+## Beispiel 2:
 
 Rechte Hand = 5 
 
-![Rechte Hand](pics/RechteHand_5.png)
+![Rechte Hand](pics/RechteHand_5.png){height=60%}
 
 heisst : Ab jetzt hat der Platzhalter Rechte Hand den Wert 5.
 
-## Addition mit Platzhaltern 
+## Addition mit Platzhaltern (1)
 
 Anstatt 3 + 5 heisst unsere Rechnung nun:
 
@@ -53,32 +54,47 @@ Linke Hand + Rechte Hand = Gesuchte Summe
 
 Um daraus einen Programmiervorschrift zu machen, dreht man die beiden Teile um das Gleichheits-Zeichen herum, also:
 
+## Addition mit Platzhaltern (2)
+
 Gesuchte Summe = Linke Hand + Rechte Hand 
 
 Diese eine Berechnungs-Anweisung / Formel ist unser "Programm" und ist für völlg verschiedene Werte von Rechte Hand und Linke Hand durchführbar.
 Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel später (wenn man als Mensch schon lange die Werte vergessen hat) die beide Platzhalter addieren.
 
 
-## Auswahl aus Menu
+## Auswahl aus Menu (1)
 
-![Menu-Anlegen](pics/PlatzhalterAnlegenMenu.png)
+![Menu-Anlegen](pics/PlatzhalterAnlegenMenu.png){height=70%}
 
-![Menu-Benennen](pics/PlatzhalterBenennenMenu.png)
 
-![Menu-Benennen](pics/PlatzhalterBenennenMenu_2.png)
+## Auswahl aus Menu (2)
 
-![Menu-Zuweisung](pics/PlatzhalterZuweisungMenu.png)
+![Menu-Benennen](pics/PlatzhalterBenennenMenu.png){height=70%}
 
-![Menu-ZuweisungAuswahl](pics/PlatzhalterVerwendenZuweisungMenu.png)
+
+## Auswahl aus Menu (3)
+
+![Menu-Benennen](pics/PlatzhalterBenennenMenu_2.png){height=70%}
+
+
+## Auswahl aus Menu (4)
+
+![Menu-Zuweisung](pics/PlatzhalterZuweisungMenu.png){height=70%}
+
+
+## Auswahl aus Menu (5)
+
+![Menu-ZuweisungAuswahl](pics/PlatzhalterVerwendenZuweisungMenu.png){height=70%}
 
 ## Verwendung des Platzhalters 
 
-![Menu-Verwenden](pics/PlatzhalterBenutzenMenu.png)
+![Menu-Verwenden](pics/PlatzhalterBenutzenMenu.png){height=70%}
 
 Verwendung der Variablen Ausgaben und Berechnungen anstatt fester Werte.
 
+## Benutzung Platzhalter
 
-![Menu-Verwenden-2](pics/PlatzhalterBenutzenMenu_2.png)
+![Menu-Verwenden-2](pics/PlatzhalterBenutzenMenu_2.png){height=70%}
 
 Dazu zieht man die Variable/den Platzhalter genau an die Stelle an der vorher feste Werte benutzt wurden.
 
@@ -96,7 +112,8 @@ Dank Verwendung von Platzhaltern/Variablen passt sich die Ausgabe jeweils entspr
 
 
 
-## JavaScript-Code
+## JavaScript-Code / HEX-Code
+### JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -118,7 +135,7 @@ basic.forever(() => {
 ```
 </details>
 
-## Download Hex-Code
+### Download Hex-Code
 
 ![Hex-code](mini-PlatzhalterFinal.hex)
 

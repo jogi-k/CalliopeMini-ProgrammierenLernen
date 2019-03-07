@@ -8,9 +8,11 @@ Nun können wir aus der Wenn-Dann Übung von vorher und dem kleinen Temperatur-P
 
 Dazu bauen wir das vorher "beiseite" gelegte __Wenn-Dann__ wieder ein.
 
-![ Wieder Einbau ](./pics/00_WiederEinbau.png)
+![ Wieder Einbau ](./pics/00_WiederEinbau.png){height=60%}
 
-![ Eingebaut ](./pics/01_Eingebaut.png)
+## Wiedereinbau Wenn-Dann
+
+![ Eingebaut ](./pics/01_Eingebaut.png){height=60%}
 
 
 ## Verwendung sinnvoller Werte
@@ -21,33 +23,46 @@ Dazu bauen wir das vorher "beiseite" gelegte __Wenn-Dann__ wieder ein.
  
  Dazu sagen wir : Alles was grösser 21 °C ist, ist gut. 
 
-![ Thermometer ](./pics/thermometer1.png)
+![ Thermometer ](./pics/thermometer1.png){height=60%}
 
 
+## Verwendung sinnvoller Werte
 
 Das heisst: Wir müssen unsere Wenn-Dann-Konstruktion so umbauen, dass folgender Satz/Aussage abgebildet wird:  
-"Wenn die Temperatur grösser als 21 °C ist, dann soll die RGB-LED grün leuchten, ansonsten soll sie rot leuchten. 
 
-Nun ergeben auch die vorhin "ganz willkürlich gewählten" Werte 22 und 21 etwas Sinn...
+* Wenn die Temperatur grösser als 21 °C ist, 
 
-Wir ersetzen die konstante 22 in der Wenn-Dann-Abfrage durch die jetztige Temeperatur.
-
-Diese befindet sich in der Variable __AktuelleTemperatur__
-
-Dazu holen wir uns die Variable __AktuelleTemperatur__ aus dem Menu Variablen
-
-![Variable holen ](./pics/02_VariableHolen.png)
-
-![Variable liegt da ](./pics/03_VariableArbeitsbereich.png)
+    * __dann__ soll die RGB-LED grün leuchten, 
+    * __ansonsten__ soll sie rot leuchten. 
 
 
-![Variable wird benutzt](./pics/04_VariableVerwendet.png)
+## Verwendung sinnvoller Werte
+
+* Nun ergeben auch die vorhin "ganz willkürlich gewählten" Werte 22 und 21 etwas Sinn...
+* Wir ersetzen die konstante 22 in der Wenn-Dann-Abfrage durch die jetztige Temeperatur.
+* Diese befindet sich in der Variable __AktuelleTemperatur__
+* Dazu holen wir uns die Variable __AktuelleTemperatur__ aus dem Menu Variablen
+
+## Verwendung sinnvoller Werte
+
+![Variable holen ](./pics/02_VariableHolen.png){height=60%}
+
+## Verwendung sinnvoller Werte
+
+![Variable liegt da ](./pics/03_VariableArbeitsbereich.png){height=60%}
+
+
+## Verwendung sinnvoller Werte
+
+![Variable wird benutzt](./pics/04_VariableVerwendet.png){height=60%}
 
 Damit lässt sich im Simulator schon mal ausprobieren, wie unsere Temperatur-Ampel reagiert.
 
+## Benutzung im Simulator
+
 Beim Starten ist im Simulator die Temperatur immer 21 °C, das ist nach unseren Wünschen genau die Grenze. 
 Erst wenn die __AktuelleTemperatur__ grösser als 21 °C ist, dann wird die Anzeige grün.
-Das lönnen wir im Simulator ausprobieren und dann natürlich auch wieder in den Calliope laden um es in der richtigen Hardware mit echten Werten zu testen.
+Das können wir im Simulator ausprobieren und dann natürlich auch wieder in den Calliope laden um es in der richtigen Hardware mit echten Werten zu testen.
 
 
 
@@ -64,7 +79,9 @@ Wir laden das Programm dazu auf den Calliope:
 * Den Calliope-Mini anschliessen
 * Das HEX-File auf dem Calliope "fallen lassen", "Einfügen", "CTRL-V" * Der Calliope sollte anfangen das neue Programm in seinen Speicher zu übertragen.
 
+\begin{tiny}
 (So, das war jetzt aber das letzte Mal eine detaillierte Anleitung zum Laden des Programms in den Calliope, in Zukunft kommt nur noch der Hinweis, dass wir das Programm in den Calliope laden...)
+\end{tiny}
 
 ## JavaScript-Code
 
@@ -97,7 +114,7 @@ basic.forever(() => {
 ```
 </details>
 
-## Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser02.hex)
 

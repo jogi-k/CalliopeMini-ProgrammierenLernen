@@ -2,17 +2,19 @@
 
 ## Wir nehmen die Batterien
 
-![Batterien_Gemischt.jpg](./pics/Batterien_Gemischt.jpg)
+![](./pics/Batterien_Gemischt.jpg){height=70%}
 
 
 ## Wir sortieren Batterien der Grösse nach
 
-![Batterien_Sortiert_Groesse.jpg](./pics/Batterien_Sortiert_Groesse.jpg)
+![](./pics/Batterien_Sortiert_Groesse.jpg){height=70%}
+
 
 
 ## Wir sortieren Batterien der Spannung nach 
 
-![Batterien_Sortiert_Volt.jpg](./pics/Batterien_Sortiert_Volt.jpg)
+![](./pics/Batterien_Sortiert_Volt.jpg){height=70%}
+
 
 Die kleine Batterie ganz rechts hat __12 Volt__ !!!  
 Das ist extrem beeindruckend für alle, die das sehen!
@@ -44,21 +46,28 @@ Das ist extrem beeindruckend für alle, die das sehen!
 * Zuerst mit geringfügig höheren Spannungen der Batterie, dann kann man schon sehen, dass das der Verbraucher nicht lange aushalten wird...
 * Dann mit viel höheren Spannungen (z.B. 9V Batterie an normaler 2V-LED )
 
-## Wir schauen kurz, was bei einem Kurzschluss der Batterie passiert
+## Was passiert bei einem Kurzschluss der Batterie 
 
 * Wir schliessen eine kleine Batterie mit einem Kabel kurz.
-* Üblicherweise wird sehr schnell das Kabel warm!
+* __ACHTUNG__: Üblicherweise wird sehr schnell das Kabel warm!
 * Kurzschluss kann selbst bei einer kleinen Batterie zu grosser Hitze und zu Flammen führen.
 * __NIEMALS__ mit einem Akku machen, der brennt __SEHR__ schnell!
 
-## Wir schauen, was bei einem Kurzschluss mit dem Calliope passiert
+## Was passiert bei einem Kurzschluss mit dem Calliope 
 
 * Wir schauen, was bei einer Schmelz-Sicherung passiert, wenn ein Kurzschluss gemacht wird
 * Wir stellen uns vor, die Schmelz-Sicherung ist unsere Elektronik (unser Calliope) und wir schliessen an den Calliope einen Verbraucher an und machen dabei einen Kurzschluss...
 
-![Calliope_Lampe_brennt.jpg](./pics/Calliope_Lampe_brennt.jpg)
+\colA{6cm}
 
-![Calliope_Sicherung_durch.jpg](./pics/Calliope_Sicherung_durch.jpg)
+![](./pics/Calliope_Lampe_brennt.jpg){height=40%}
+
+\colB{6cm}
+
+![](./pics/Calliope_Sicherung_durch.jpg){height=40%}
+
+
+\colEnd
 
 Nach dem Kurzschluss, bei dem die Sicherung durchbrennt, ist unser "Calliope", dargestellt durch die kleine Schmelz-Sicherung, kaputt!
 

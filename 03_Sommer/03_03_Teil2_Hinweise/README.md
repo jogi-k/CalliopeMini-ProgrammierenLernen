@@ -15,22 +15,36 @@
 * Das meiste, was hier gemacht werden muss, wurde gerade auch schon in Teil 1 gemacht, darum hier nur zwei Hinweise:
 * Abfragen auf Knopf B gibt es nicht direkt im Menu, das muss man sich aus dem Menu mit Knopf A holen und dann per Drop-Down-Menu umstellen
 
+## Abfragen im Menu Eingabe
+
 * Abfragen im Menu Eingabe
-![00_MenuEingabe.png](./pics/00_MenuEingabe.png)
+
+![Menu Eingabe](./pics/00_MenuEingabe.png){height=60%}
+
+## Abfragen im Menu Eingabe
 
 * Kein Knopf B, also nehmen wir "Wenn Knopf A gedrückt" auf die Arbeitsfläche
 
-![01_KeinKnopfB.png](./pics/01_KeinKnopfB.png)
+![Kein Knopf B](./pics/01_KeinKnopfB.png){height=60%}
+
+
+## Abfragen im Menu Eingabe
 
 * Dort gibt es auch wieder die Möglichkeit mit dem kleinen Dreieck ein Drop-Down-Menu zu öffnen
 * Wir nehmen das __B__ aus dem Menu
 
-![02_DropDown.png](./pics/02_DropDown.png)
+![DropDown](./pics/02_DropDown.png){height=60%}
+
+
+## Abfragen im Menu Eingabe
 
 * Und haben unser benötigtes "Wenn Knopf B gedrückt"
 
-![03_KnopfB.png](./pics/03_KnopfB.png)
+![Knopf B](./pics/03_KnopfB.png){height=60%}
 
+
+
+## Letzter Hinweis 
 
 * Und noch ein Hinweis zum Malnehmen:
 * Auch das befindet sich im __Menu Mathematik__

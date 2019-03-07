@@ -1,13 +1,15 @@
 # Texte anzeigen
 
+## Zeichenketten
+
 In der Computer-Sprache nennt man Texte auch "Zeichenketten", eine 'Verkettung' von einzelnen Zeichen.  
 Man trifft auch sehr oft auf die englische Bezeichnung "String".  
 
-Darum, wenn man einen Text anzeigen will : => Zeichenketten !
+Darum, wenn man einen Text anzeigen will : => Zeichenketten!
 
 ## Auswahl aus Menu
 
-![Menu-Auswahl](pics/ZeichenkettenMenu.png)
+![Menu-Auswahl](pics/ZeichenkettenMenu.png){ height=70% }
 
 ## PXT-Code
 
@@ -16,9 +18,10 @@ Diese Programm gibt genau diese Zeichenfolge auf dem Bildschirm aus.
 Unser "Bildschirm" ist die LED-Anzeige.
 Wenn der Text nicht auf den Bildschirm (die LED-Anzeige) passt, dann wird ein Lauftext erstellt.  
 
-![Menu-Auswahl](pics/ZeichenkettenAnzeigen.png)
+![Menu-Auswahl](pics/ZeichenkettenAnzeigen.png){ height=60%}
 
-## JavaScript-Code
+## JavaScript-Code / Download HEX
+### JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -30,9 +33,9 @@ basic.forever(() => {
 ```
 </details>
 
-## Download Hex-Code
+### Download Hex-Code
 
-![Hex-code](code/mini-ZeichenketteAnzeigen.hex)
+[Hex-code](code/mini-ZeichenketteAnzeigen.hex)
 
 
 ## Navigation
