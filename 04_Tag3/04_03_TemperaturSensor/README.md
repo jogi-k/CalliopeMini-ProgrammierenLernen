@@ -18,14 +18,14 @@ Herausziehen der bisherigen __Wenn-Dann__ -Programmierung zur Seite.
 **NICHT** löschen, wir wollen das später noch benutzen 
 
 
-![ SchleifeFreiRaeumen ](./pics/00_Freiraeumen.png)
+![Schleife frei räumen](./pics/00_Freiraeumen.png){height=60%}
 
 
 ## Das Menu Eingabe
 
 Das Menu Eingabe 
 
-![02_LogikMenu.png](./pics/01_InputMenu.png)
+![Menu Input](./pics/01_InputMenu.png){height=50%}
 
 enthält eine Spezial-Variable, eine Input-Variable, namenes __Temperatur__.
 Um diese sinnvoll weiter zu verwenden, legen wir Menu __Variablen__ eine eigene Variable an, die wir zum Beispiel __AktuelleTemperatur__ nennen.
@@ -37,32 +37,38 @@ Um diese sinnvoll weiter zu verwenden, legen wir Menu __Variablen__ eine eigene 
 Nun legen wir uns wieder eine neue Variable namens __AktuelleTemperatur__  an.
 
 
-![Variable anlegen](./pics/02_VariableAnlegen.png)
+![Variable anlegen](./pics/02_VariableAnlegen.png){height=60%}
+
+## Variable benennen 
+
+![Variable benennen](./pics/03_VariableBenennen.png){height=60%}
 
 
-![Variable benennen](./pics/03_VariableBenennen.png)
-
-
-## Temperatur auslesen und anzeigen
+## Temperatur auslesen 
 
 Nun belegen wir also die neu angelegte Variable __AktuelleTemperatur__   mit der Temperatur, wie sie aus dem Eingabe-Menu kommt.
 
 
-![Variable zuweisen](./pics/04_TemperaturAuslesen.png)
+![Variable zuweisen](./pics/04_TemperaturAuslesen.png){height=60%}
+
+## Temperatur anzeigen
 
 und holen uns noch aus dem Grundlagen-Menu das __zeige Nummer__ und zeigen damit die Variable an, die die aktuelle Temperatur beinhaltet.
 
 
-![Temperatur anzeigen](./pics/05_TemperaturAnzeigen.png)
+![Temperatur anzeigen](./pics/05_TemperaturAnzeigen.png){height=60%}
 
 
 ## Temperatur im Simulator
 
 Nun schauen wir uns das im Simulator an:
 
-![Temperatur im Simulator](./pics/06_Temperatur_im_Simulator.png)
+![Temperatur im Simulator](./pics/06_Temperatur_im_Simulator.png){height=60%}
 
 Mit der Maus kann man an diesem Thermometer die Temperatur verändern.
+
+## Temperatur im Simulator
+
 
 Die Ausgabe kann noch etwas verbessert werden:
 
@@ -73,9 +79,8 @@ Die Ausgabe kann noch etwas verbessert werden:
 
 Mit einem vereinfachten "__°C__" als Symbol und ein paar Delays und Bildschirmlöschen (das ist alles im Menu Grundlagen, zum Teil in "...Mehr" ) gibt die Anzeige dann schon was her.
 
- 
 
-![Verbesserte Anzeige](./pics/07_BessereAnzeige.png)
+![Verbesserte Anzeige](./pics/07_BessereAnzeige.png){height=60%}
 
 
 ## Download in der Calliope
@@ -87,9 +92,10 @@ Wir laden das Programm dazu auf den Calliope:
 * Dem Ganzen unten einen sinnvollen Namen geben (z.B. Temperatur-Messer_01 )
 * Den Speichern-Knopf (Diskette ) drücken
 * Das erzeigte und geladene HEX-File im __Download__ - Ordner finden
-* Das HEX-File kopieren 
+* Das HEX-File kopieren , "STRG-C"
 * Den Calliope-Mini anschliessen
-* Das HEX-File auf dem Calliope "fallen lassen", "Einfügen", "CTRL-V" * Der Calliope sollte anfangen das neue Programm in seinen Speicher zu übertragen.
+* Das HEX-File auf dem Calliope "fallen lassen", "Einfügen", "STRG-V" 
+* Der Calliope sollte anfangen das neue Programm in seinen Speicher zu übertragen.
 
 
 
@@ -119,7 +125,7 @@ basic.forever(() => {
 ```
 </details>
 
-## Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser01.hex)
 
