@@ -7,12 +7,17 @@
 Nun wollen wir etwas mit dem ebenso im Calliope vorhandenen Licht-Sensor experimentieren. 
 
 __Achtung__ : Weil wir faul sind, fangen wir nicht ein ganz neues Programm an, sondern wir verwenden unseren Temperatur-Sensor-Programm als Start-Punkt.  
-Wenn wir das Programm dann später aber sichern um es in den Calliope zu laden, dann sollten wir ihm einen sinnvollen neuen Namen geben (z.B. LichtSensor01) um nicht unser Temperatur-Sensor Programm zu überschreiben!
+
+Wenn wir das Programm dann später aber sichern um es in den Calliope zu laden, 
+dann sollten wir ihm einen sinnvollen neuen Namen geben (z.B. LichtSensor01) 
+um nicht unser Temperatur-Sensor Programm zu überschreiben!
 
 Nun begeben wir uns also auf die Suche nach dem Licht-Sensor.   
 Auch diesen finden wir im Menu Eingabe.
 
-![01_LichtSensorMenu.png](./pics/01_LichtSensorMenu.png)
+## Sensor/Eingang/Input => Licht
+
+![LichtSensor-Menu](./pics/01_LichtSensorMenu.png){height=60%}
 
 Diese Input-Variable ziehen wir uns einfach mal auf die Arbeitsfläche, damit wir sie zur Verfügung haben.
 
@@ -22,34 +27,39 @@ Diese Input-Variable ziehen wir uns einfach mal auf die Arbeitsfläche, damit wi
 Nun haben wir die __momentan unbenutzte__ Input-Variable  __Lichtstärke__ auf dem Arbeitsbereich rumliegen.
 
 
-![02_LichtSensorArbeitsflaeche.png](./pics/02_LichtSensorArbeitsflaeche.png)
+![LichtSensor auf Arbeitsflaeche](./pics/02_LichtSensorArbeitsflaeche.png){height=60%}
 
 
+## Austausch Temperatur gegen Licht
 
 Diese __tauschen__ wir nun in unserem Programm gegen die Temperatur-Input-Variable aus.  
 Wir ziehen die __Temperatur__ aus dem Programm raus in die Arbeitsfläche und klicken dafür die __Lichtstärke__ in das Programm ein
 
-![03_LichtSensorrDrin.png](./pics/03_LichtSensorrDrin.png)
+![LichtSensor Drin](./pics/03_LichtSensorrDrin.png){height=60%}
 
 
 ## Variable umbenennen
 
-Nun haben wir schon ein theoretisch funktionierendes Programm.  
-Das können wir sogar schon im Simulator anschauen.  
-Aber vorher wollen wir nun doch etwas "sauber machen"  
+* Nun haben wir schon ein theoretisch funktionierendes Programm.  
+* Das können wir sogar schon im Simulator anschauen.  
+* Aber vorher wollen wir nun doch etwas "sauber machen"  
  
 Bei der Programmierung ist fast nichts schlimmer, als Variablen-Namen, die falsch benannt sind.
 
-Das haben wir jetzt aber gerade gemacht, wir haben ein Programm geschrieben,  
-welches die __Lichtstärke__ misst und diese in einer Variable namens __AktuelleTemperatur__ ablegt   
-und anschliessend damit weiterarbeitet!  
-__Brrrrrrrrrrrr!__
+* Das haben wir jetzt aber gerade gemacht, wir haben ein Programm geschrieben,  
+* welches die __Lichtstärke__ misst u
+* nd diese in einer Variable namens __AktuelleTemperatur__ ablegt   
+* und anschliessend damit weiterarbeitet!  
+
+## Variable umbenennen
 
 Also benennen wir die Variable __AktuelleTemperatur__ in __AktuelleLichtstaerke__ um!
 
 Dazu klicken wir auf das kleine Dreieck neben __AktuelleTemperatur__ mitten in unserem Programm
 
-![04_VariableUmbenennen.png](./pics/04_VariableUmbenennen.png)
+![Variable Umbenennen](./pics/04_VariableUmbenennen.png){height=60%}
+
+## Variable umbenennen
 
 Da öffnet sich dann ein kleines Menu, in dem wir eine andere Variable benutzen können,  
 was wir aber gar nicht wollen, sondern wir wollen wirklich die Variable __AktuelleTemperatur__ umbenennen.  
@@ -57,29 +67,36 @@ Dazu klicken wir also im Menu auf __Variable umbenennen__
 
 Nun öffnet sich ein Fenster, in dem wir die Variable umbenennen können, mein Vorschlag wäre : __AktuelleLichtstaerke__  
 
-![05_VariableUmbenennen.png](./pics/05_VariableUmbenennen.png)
+![Variable Umbenennen](./pics/05_VariableUmbenennen.png){height=60%}
 
 ## Alle Verwendungen umbenannt
 
 Hier sehen wir jetzt auch gleich den Vorteil:  
-Dadurch dass wir die Variable umbenannt haben, wurden __ALLE__ Vorkommen dieser Variable im ganzen Programm ersetzt ![06_VariableUmbenannt.png](./pics/06_VariableUmbenannt.png)
+Dadurch dass wir die Variable umbenannt haben, wurden __ALLE__ Vorkommen dieser Variable im ganzen Programm ersetzt ![06_VariableUmbenannt.png](./pics/06_VariableUmbenannt.png){height=60%}
 
 ## Programm noch aufräumen
 
-Wir bleiben weiterhin faul, wir wollen später noch das __Wenn-Dann__ Konstrukt benutzen,   
-aber momentan interessieren uns nur die Messwerte, die wir in der echten Welt mit unserem echten Calliope  
-hier in userem Raum bekommen und darum räumen wir den ganzen "Plunder" zur Seite.  
+Wir bleiben weiterhin faul:
+
+* Wir wollen später noch das __Wenn-Dann__ Konstrukt benutzen.   
+* Momentan interessieren uns nur die Messwerte, 
+* die wir in der echten Welt 
+* mit unserem echten Calliope  
+* hier in userem Raum bekommen.
+ 
+Darum räumen wir den ganzen Rest zur Seite.  
+
+## Programm noch aufräumen
+
 __ACHTUNG__: Nicht löschen, nur zur Seite ziehen
 
-![07_FreiRaeumen.png](./pics/07_FreiRaeumen.png)
+![Freiräumen](./pics/07_FreiRaeumen.png){height=60%}
 
 ## Sinnvolles Programm
 
 Nun haben wir also ein sinnvolles Programm, das wir zuerst im Simulator testen können (mit der Maus auf den kleinen Licht-Regler und dort das Licht ändern)  
 
-
-
-![08_lichtMessen.png](./pics/08_lichtMessen.png)
+![licht Messen](./pics/08_lichtMessen.png){height=60%}
 
 Wenn das zu unserer Zufriedenheit funktioniert, dann können wir es in den Calliope hochladen.  
 __ACHTUNG__: Wie vohin geschrieben, solten wir dem Programm einen sinnvolleren Namen geben, z.B. __LichtMesser01__
@@ -95,7 +112,7 @@ __ACHTUNG__: Wie vohin geschrieben, solten wir dem Programm einen sinnvolleren N
 ```
 </details>
 
-## Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser01.hex)
 
