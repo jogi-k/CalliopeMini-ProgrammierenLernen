@@ -1,6 +1,3 @@
-
-
-
 # Auffrischen
 
 ## Variablen 
@@ -19,6 +16,10 @@
 * Weiss/Nicht oder Vielleicht, gibt es da nicht, denn dann weiss der Computer/Calliope nicht, was er tun soll
 * __Logik__ : __Wenn__ etwas eintreffen wird, __Dann__ wird etwas bestimmtes gemacht
 * __Ansonsten__ kann auch etwas anderes gemacht werden
+
+
+## Wenn-Dann
+
 * __Wenn-Dann__ kann erweitert werden: 
      * __wenn dann__
      * __ansonsten wenn__ 
