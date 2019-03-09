@@ -8,8 +8,8 @@ ${current_dir}.pdf : README.md kurs.md ../../header.tex
 	pandoc -t html kurs.md README.md -s -o index.html 
 ${PWD##*/}
 
-kurs.md:
+kurs.md: makefile
 	echo "% ${current_dir}" > kurs.md
-	echo "% Calliope-Kurs (Lehrer), Frühjahr 2019" >> kurs.md
+	echo "% Calliope-Kurs, Somer, Herbst 2018" >> kurs.md
 	echo "% Jogi Künstner, Turbine Brunen" >> kurs.md
 
