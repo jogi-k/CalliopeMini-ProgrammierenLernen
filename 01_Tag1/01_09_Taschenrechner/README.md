@@ -131,7 +131,7 @@ basic.showString("start")
 
 ## Download Hex-Code
 
-![Hex-code](code/mini-EingabeFinal.hex)
+[Hex-code](code/mini-EingabeFinal.hex)
 
 ## Navigation
 

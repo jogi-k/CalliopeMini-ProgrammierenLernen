@@ -106,7 +106,7 @@ basic.forever(() => {
 
 ### Download Hex-Code
 
-![Hex-code](mini-SimplerTaschenRechner.hex)
+[Hex-code](mini-SimplerTaschenRechner.hex)
 
 ## Einschränkungen
 

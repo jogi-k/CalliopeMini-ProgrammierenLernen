@@ -137,7 +137,7 @@ basic.forever(() => {
 
 ### Download Hex-Code
 
-![Hex-code](mini-PlatzhalterFinal.hex)
+[Hex-code](mini-PlatzhalterFinal.hex)
 
 ## Navigation
 
