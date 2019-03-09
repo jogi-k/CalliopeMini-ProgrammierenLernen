@@ -288,8 +288,8 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Zurück](../02_04_Elektronik_Stromkreis/README.md)  
-* [Hoch zur Übersicht](../README.md)  
+* [Zurück](../02_04_Elektronik_Stromkreis/index.html)  
+* [Hoch zur Übersicht](../index.html)  
 
 
 

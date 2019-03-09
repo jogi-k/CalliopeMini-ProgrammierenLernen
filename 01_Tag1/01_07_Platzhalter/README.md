@@ -142,9 +142,9 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../01_06_Zahlen_Anzeigen/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../01_08_TastenEingabe/README.md)
+* [Zurück](../01_06_Zahlen_Anzeigen/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../01_08_TastenEingabe/index.html)
 
 
 ## Lizenz/Copyright-Info

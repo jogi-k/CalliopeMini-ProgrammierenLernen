@@ -240,13 +240,13 @@ Eine ganz gute Einführung in Strom und Spannung gibts in der Sendung mit der Ma
 
 https://www.youtube.com/watch?v=Je22SgH8TCk
 
-Mehr Links auf der  [Übersicht](../README.md) 
+Mehr Links auf der  [Übersicht](../index.html) 
 
 ## Navigation
 
-* [Zurück ](../02_01_Auffrischen/README.md)
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../02_03_Elektronik_Verbraucher/README.md)
+* [Zurück ](../02_01_Auffrischen/index.html)
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../02_03_Elektronik_Verbraucher/index.html)
 
 
 ## Lizenz/Copyright-Info

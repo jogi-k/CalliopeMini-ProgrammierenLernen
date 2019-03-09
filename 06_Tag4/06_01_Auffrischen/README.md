@@ -5,7 +5,7 @@
 * Variablen genauer angeschaut, 
 * vor allem den Unterschied zwischen Belegung einer Variablen und Benutzung einer Variablen, 
 * sowohl vom Verständnis als auch in unserer Programmier-Oberfläche
-* für Details bitte [hier schauen](../../04_Tag3/04_01_Auffrischen/README.md)
+* für Details bitte [hier schauen](../../04_Tag3/04_01_Auffrischen/index.html)
 
 ## Wenn-Dann
 
@@ -27,14 +27,14 @@
      * __ansonsten wenn__ 
      * __ansonsten__ 
 
-* für Details bitte [hier schauen](../../04_Tag3/04_02_Wenn-Dann/README.md)
+* für Details bitte [hier schauen](../../04_Tag3/04_02_Wenn-Dann/index.html)
 
 
 ## Temperatur-Sensor
 
 * Auslesen des Temperatur-Sensors, Speichern des aktuellen Temperatur-Wertes in einer Variablen
 * Entscheidung (siehe oben) etwas zu tun, wenn eine bestimmte Temperatur überschritten wird.
-* für Details bitte [hier schauen](../../04_Tag3/04_03_TemperaturSensor/README.md)
+* für Details bitte [hier schauen](../../04_Tag3/04_03_TemperaturSensor/index.html)
 
 
 ## RGB-LED
@@ -42,7 +42,7 @@
 * Ansteuern der RGB-LED mit einfachen Farben
 * Ansteuern geht auch die einzelnen Farbanteile selbst mischen
 * Dazu kann man auch die Schleifen verwenden, die lernen wir heute kennen. 
-* für Details bitte [hier schauen, erst in der zweiten Hälfte](../../04_Tag3/04_02_Wenn-Dann/README.md)
+* für Details bitte [hier schauen, erst in der zweiten Hälfte](../../04_Tag3/04_02_Wenn-Dann/index.html)
 
 
 
@@ -50,15 +50,15 @@
 
 * Umwandeln der Temperatur-Mess-Anlage mit LED 
 * in eine Licht-Mess-Anlage mit Ton-Ausgabe als Schubladen-Alarm-Anlage
-* für Details bitte [hier schauen](../../05_Tag3_Nachlese/README.md)
+* für Details bitte [hier schauen](../../05_Tag3_Nachlese/index.html)
 
 
 
 ## Navigation
 
 
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../06_02_Schleifen/README.md)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../06_02_Schleifen/index.html)  
 
 
 

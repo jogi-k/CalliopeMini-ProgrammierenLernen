@@ -140,9 +140,9 @@ Wir schauen uns heute und beim nächsten Mal die Ansteuerung von von Servos und 
 ## Navigation
 
 
-* [Zurück](../06_02_Schleifen/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../06_04_Servos/README.md)  
+* [Zurück](../06_02_Schleifen/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../06_04_Servos/index.html)  
 
 
 

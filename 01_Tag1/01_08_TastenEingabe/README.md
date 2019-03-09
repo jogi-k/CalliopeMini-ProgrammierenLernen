@@ -155,9 +155,9 @@ Download HEX-code:
 ## Navigation
 
 
-* [Zurück](../01_07_Platzhalter/README.md)
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../01_09_Taschenrechner/README.md)
+* [Zurück](../01_07_Platzhalter/index.html)
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../01_09_Taschenrechner/index.html)
 
 
 

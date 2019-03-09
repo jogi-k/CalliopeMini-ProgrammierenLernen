@@ -116,9 +116,9 @@ Wenn das Programm fertig geflasht ist,
 
 ## Navigation
 
-* [Zurück](../01_03_LED_Anzeigen/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../01_05_Texte_Anzeigen/README.md)
+* [Zurück](../01_03_LED_Anzeigen/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../01_05_Texte_Anzeigen/index.html)
 
 
 

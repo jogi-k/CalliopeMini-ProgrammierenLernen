@@ -109,8 +109,8 @@ Wer Interesse daran hat, kann sich das auch selbst generieren, dazu sind aber an
 
 ## Navigation
 
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../01_02_Start_Simulator/README.md)
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../01_02_Start_Simulator/index.html)
 
 
 

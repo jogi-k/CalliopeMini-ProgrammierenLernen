@@ -20,7 +20,7 @@ Wir lernen, wie man einen externen Lautsprecher an den Calliope anschliessen kan
 
 ### Die einzelnen Kapitel
 
-* [01 Auffrischen: Schleifen / Servo-Motoren](08_01_Auffrischen/README.md)
-* [02 Ansteuerung von DC-Motoren ](08_02_DC_Motoren/README.md)
-* [03 Der Lagesensor ](08_03_LageSensor/README.md)
-* [04 Externer Lautsprecher](08_04_ExternerLautsprecher/README.md)
+* [01 Auffrischen: Schleifen / Servo-Motoren](08_01_Auffrischen/index.html)
+* [02 Ansteuerung von DC-Motoren ](08_02_DC_Motoren/index.html)
+* [03 Der Lagesensor ](08_03_LageSensor/index.html)
+* [04 Externer Lautsprecher](08_04_ExternerLautsprecher/index.html)

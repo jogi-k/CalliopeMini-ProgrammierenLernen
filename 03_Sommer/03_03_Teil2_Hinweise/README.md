@@ -52,9 +52,9 @@
 
 ## Navigation
 
-* [zurückweiter zu Teil1 Lösung](../03_02_Teil1_Loesung/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [weiter zu Teil2 Lösung](../03_04_Teil2_Loesung/README.mdm)  
+* [zurückweiter zu Teil1 Lösung](../03_02_Teil1_Loesung/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [weiter zu Teil2 Lösung](../03_04_Teil2_Loesung/index.htmlm)  
 
 
 

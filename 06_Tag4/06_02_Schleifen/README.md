@@ -347,14 +347,14 @@ __Download Hex-Code__
 
 Schaut einmal zur Nachlese, zu den Hausaufgaben, da dürft Ihr dieses Bildschirm-Füll-Programm noch weiter verbessern/vereinfachen
 
-[Zu den Hausaufgaben](../../07_Tag4_Nachlese/README.md)
+[Zu den Hausaufgaben](../../07_Tag4_Nachlese/index.html)
 
 ## Navigation
 
 
-* [Zurück](../06_01_Auffrischen/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../06_03_Motoren/README.md)  
+* [Zurück](../06_01_Auffrischen/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../06_03_Motoren/index.html)  
 
 
 

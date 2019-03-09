@@ -212,8 +212,8 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../08_02_DC_Motoren/README.md)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../08_02_DC_Motoren/index.html)  
 
 
 

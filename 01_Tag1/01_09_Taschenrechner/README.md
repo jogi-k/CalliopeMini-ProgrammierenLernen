@@ -136,8 +136,8 @@ basic.showString("start")
 ## Navigation
 
 
-* [Zurück](../01_08_TastenEingabe/README.md)  
-* [Hoch zur Übersicht](../README.md)  
+* [Zurück](../01_08_TastenEingabe/index.html)  
+* [Hoch zur Übersicht](../index.html)  
 
 
 

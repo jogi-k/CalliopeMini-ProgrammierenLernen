@@ -221,8 +221,8 @@ __HEX-Code Servo 2__
 ## Navigation
 
 
-* [Zurück](../06_03_Motoren/README.md)  
-* [Hoch zur Übersicht](../README.md)  
+* [Zurück](../06_03_Motoren/index.html)  
+* [Hoch zur Übersicht](../index.html)  
 
 
 

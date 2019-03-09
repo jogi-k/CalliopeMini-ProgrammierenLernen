@@ -57,8 +57,8 @@ Die meisten Tipps stehen schon in der Aufgabe selbst, hier nochmal die Menus, di
 ## Navigation
 
 
-* [Hoch zur Übersicht](../README.md)  
-* [weiter zu Teil1 Lösung](../03_02_Teil1_Loesung/README.md)  
+* [Hoch zur Übersicht](../index.html)  
+* [weiter zu Teil1 Lösung](../03_02_Teil1_Loesung/index.html)  
 
 
 

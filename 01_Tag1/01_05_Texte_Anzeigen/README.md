@@ -41,9 +41,9 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../01_04_Programm_Auf_Calliope_Laden/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../01_06_Zahlen_Anzeigen/README.md)
+* [Zurück](../01_04_Programm_Auf_Calliope_Laden/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../01_06_Zahlen_Anzeigen/index.html)
 
 
 

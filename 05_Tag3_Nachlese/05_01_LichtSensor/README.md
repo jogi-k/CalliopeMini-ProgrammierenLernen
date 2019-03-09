@@ -120,8 +120,8 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter zum SchubladenAlarm](../05_02_SchubladenAlarm/README.md)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter zum SchubladenAlarm](../05_02_SchubladenAlarm/index.html)  
 
 
 

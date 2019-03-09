@@ -69,9 +69,9 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
 ## Navigation
 
-* [Zurück](../01_01_Auspacken-Einschalten/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../01_03_LED_Anzeigen/README.md)
+* [Zurück](../01_01_Auspacken-Einschalten/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../01_03_LED_Anzeigen/index.html)
 
 
 ## Lizenz/Copyright-Info

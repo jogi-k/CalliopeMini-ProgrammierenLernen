@@ -196,9 +196,9 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Zurück](../08_01_Auffrischen/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../08_03_LageSensor/README.md)  
+* [Zurück](../08_01_Auffrischen/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../08_03_LageSensor/index.html)  
 
 
 

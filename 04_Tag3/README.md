@@ -28,11 +28,11 @@ Und zum Abschluss verwenden wir das gewonnene Wissen um Temperatur, Wenn-Dann un
 
 ### Die einzelnen Kapitel
 
-* [01 Auffrischen: Variablen und Obstkörbe](04_01_Auffrischen/README.md)
-* [02 Etwas Logik: Wenn-Dann ](04_02_Wenn-Dann/README.md)
-* [03 Der Temperatur-Sensor](04_03_TemperaturSensor/README.md)
-* [04 Die RGB-Led, eine Temperatur-Ampel](04_04_TemperaturAmpel/README.md)
-* [05 Bessere Temperatur-Ampel/Fehlersuche](04_05_TemperaturAmpelBesser/README.md)
+* [01 Auffrischen: Variablen und Obstkörbe](04_01_Auffrischen/index.html)
+* [02 Etwas Logik: Wenn-Dann ](04_02_Wenn-Dann/index.html)
+* [03 Der Temperatur-Sensor](04_03_TemperaturSensor/index.html)
+* [04 Die RGB-Led, eine Temperatur-Ampel](04_04_TemperaturAmpel/index.html)
+* [05 Bessere Temperatur-Ampel/Fehlersuche](04_05_TemperaturAmpelBesser/index.html)
 
 
 
@@ -41,6 +41,6 @@ Und zum Abschluss verwenden wir das gewonnene Wissen um Temperatur, Wenn-Dann un
 
 Schaut Euch doch die "Hausaufgabe" an, da wird als neues Eingangs-Element der Licht-Messer verwendet und dann mit Hilfe einer __Wenn-Dann__ - Konstruktion und Ton-Ausgabe eine kleine Schubladen-Alarm-Anlage gebaut.  
 
-[Auf zur Schubladen-Alarm-Anlage](../05_Tag3_Nachlese/README.md)
+[Auf zur Schubladen-Alarm-Anlage](../05_Tag3_Nachlese/index.html)
 
 

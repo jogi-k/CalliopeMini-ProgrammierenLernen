@@ -14,7 +14,7 @@ Dazu schauen wir uns zuerst das Auslesen des Licht-Sensors an und bauen diesen d
 
 Viel Spass beim Nachbauen 
 
-* [ Licht-Sensor ](05_01_LichtSensor/README.md)  
-* [ Alarm-Anlage](05_02_SchubladenAlarm/README.md)  
+* [ Licht-Sensor ](05_01_LichtSensor/index.html)  
+* [ Alarm-Anlage](05_02_SchubladenAlarm/index.html)  
 
 

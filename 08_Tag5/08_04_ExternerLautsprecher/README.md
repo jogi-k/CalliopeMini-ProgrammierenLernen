@@ -93,8 +93,8 @@ Da der Lautsprecher die gleichen Anschlüsse wie die Motoren verwendet, kann man
 ## Navigation
 
 
-* [Zurück](../08_03_LageSensor/README.md)  
-* [Hoch zur Übersicht](../README.md)  
+* [Zurück](../08_03_LageSensor/index.html)  
+* [Hoch zur Übersicht](../index.html)  
 
 
 

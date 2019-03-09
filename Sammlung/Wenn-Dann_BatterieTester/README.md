@@ -222,8 +222,8 @@ basic.forever(() => {
 ## Navigation
 
 
-* [Zurück](../02_05_BatterieTester/README.md)  
-* [Hoch zur Übersicht](../README.md)  
+* [Zurück](../02_05_BatterieTester/index.html)  
+* [Hoch zur Übersicht](../index.html)  
 
 
 

@@ -274,9 +274,9 @@ Der Zufallszahlen-Generator erzeugt zwischen 0 ... irgendwas, wir wollen 1 ... 1
 
 ## Navigation
 
-* [zurück zu Teil2 Hinweise](../03_01_Teil1_Hinweise/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [weiter zu Teil2 Hinweise](../03_03_Teil2_Hinweise/README.md)  
+* [zurück zu Teil2 Hinweise](../03_01_Teil1_Hinweise/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [weiter zu Teil2 Hinweise](../03_03_Teil2_Hinweise/index.html)  
 
 
 

@@ -196,9 +196,9 @@ __Download Hex-Code:__
 ## Navigation
 
 
-* [Zurück](../04_01_Auffrischen/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../04_03_TemperaturSensor/README.md)  
+* [Zurück](../04_01_Auffrischen/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../04_03_TemperaturSensor/index.html)  
 
 
 

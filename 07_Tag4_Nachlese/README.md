@@ -2,9 +2,9 @@
 
 Nur ein paar Hausaufgaben, falls Ihr Lust dazu habt:
 
-* [Schleifen-Hausaufgaben](07_01_Nachlese/README.md)
+* [Schleifen-Hausaufgaben](07_01_Nachlese/index.html)
 
 
-* [Hoch zur Übersicht](../README.md)
+* [Hoch zur Übersicht](../index.html)
 
 

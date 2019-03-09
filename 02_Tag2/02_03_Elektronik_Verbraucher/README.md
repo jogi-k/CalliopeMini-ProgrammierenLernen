@@ -93,9 +93,9 @@ So wie bei den Spannungs-Quellen, den Wasserfällen, die es in sehr verschiedene
 
 ## Navigation
 
-* [Zurück ](../02_02_Elektronik_Spannungsquelle/README.md)
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../02_04_Elektronik_Stromkreis/README.md)
+* [Zurück ](../02_02_Elektronik_Spannungsquelle/index.html)
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../02_04_Elektronik_Stromkreis/index.html)
 
 
 ## Lizenz/Copyright-Info

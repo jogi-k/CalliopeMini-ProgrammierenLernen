@@ -104,9 +104,9 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Zurück](../08_02_DC_Motoren/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../08_04_ExternerLautsprecher/README.md)  
+* [Zurück](../08_02_DC_Motoren/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../08_04_ExternerLautsprecher/index.html)  
 
 
 

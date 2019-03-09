@@ -122,9 +122,9 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Zurück](../04_03_TemperaturSensor/README.md)  
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter](../04_05_TemperaturAmpelBesser/README.md)  
+* [Zurück](../04_03_TemperaturSensor/index.html)  
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter](../04_05_TemperaturAmpelBesser/index.html)  
 
 
 

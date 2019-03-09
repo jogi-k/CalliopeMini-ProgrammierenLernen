@@ -83,9 +83,9 @@ Nach dem Kurzschluss, bei dem die Sicherung durchbrennt, ist unser "Calliope", d
 
 ## Navigation
 
-* [Zurück ](../02_04_Elektronik_Stromkreis/README.md)
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../02_06_BatterieTester/README.md)
+* [Zurück ](../02_04_Elektronik_Stromkreis/index.html)
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../02_06_BatterieTester/index.html)
 
 
 ## Lizenz/Copyright-Info

@@ -202,8 +202,8 @@ __Download Hex-Code__
 ## Navigation
 
 
-* [Zurück](../04_04_TemperaturAmpel/README.md)  
-* [Hoch zur Übersicht](../README.md)  
+* [Zurück](../04_04_TemperaturAmpel/index.html)  
+* [Hoch zur Übersicht](../index.html)  
 
 
 

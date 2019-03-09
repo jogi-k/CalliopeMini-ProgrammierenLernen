@@ -158,8 +158,8 @@ Die Art der Rechnung kann man im Nachhinein auch immernoch durch Klick in das Dr
 
 ## Navigation
 
-* [Hoch zur Übersicht](../README.md)  
-* [Weiter ](../02_02_Elektronik_Spannungsquelle/README.md)
+* [Hoch zur Übersicht](../index.html)  
+* [Weiter ](../02_02_Elektronik_Spannungsquelle/index.html)
 
 
 
