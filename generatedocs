@@ -7,11 +7,14 @@ cat header.template.tex >> header.tex
 # Step 2: Search all READMEs, there we need the makefile and then execute make
 find . -name "README.md" -exec dirname {}  \;  > directories
 
+# Step 3: report current directory to have an absolute reference to header.tex
+echo "texheader   := $(pwd)/header.tex" > makefile.newtemplate
+cat makefile.template >> makefile.newtemplate
 
-# Step 3: Copy makefiles to the directories found
-while read DIRECTORY ; do cp makefile.template "$DIRECTORY/makefile" ; done < directories 
+# Step 4: Copy makefiles to the directories found
+while read DIRECTORY ; do cp makefile.newtemplate "$DIRECTORY/makefile" ; done < directories 
 
-# Step 4: Goto the directories found and execute make
+# Step 5: Goto the directories found and execute make
 while read DIRECTORY ; do
     pushd "$DIRECTORY" && make  
     popd

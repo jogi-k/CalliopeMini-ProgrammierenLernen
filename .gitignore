@@ -3,5 +3,6 @@ kurs.md
 download.md
 header.tex
 makefile
+makefile.newtemplate
 *.pdf
 *.html
