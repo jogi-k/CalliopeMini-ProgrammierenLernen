@@ -1,15 +1,15 @@
-
 # DC-Motoren
+
+## Einführung 
 
 DC steht für __D__ irect __C__ urrent und heisst Gleichstrom. ( AC steht für __A__ lternate __C__ urrent und heisst Wechselstrom. Die australische Musikgruppe AC/DC heisst also eigentlich Wechselstrom/Gleichstrom) 
 
 
-Ein __DC__-Motor funktioniert prinzipiell wie auf der vorigen Seite schon beschrieben :
-Ein elektrischer Magnet zieht einen Permanent-Magnet an.  
-Sobald der Permanent-Magnet in die Nähe des elektrischen Magneten kommt, schaltet dieser ab und der etwas weiter entfernte Elektro-Magnet wird eingeschaltet.  
-So geht es in einem fort, immer im Kreis herum.
+Ein __DC__-Motor funktioniert prinzipiell wie am letzten Nachmittag beschrieben :
 
-Evt hier: Einschub mit Zeichnungen, wenn die Zeit noch reicht.
+* Ein elektrischer Magnet zieht einen Permanent-Magnet an.  
+* Sobald der Permanent-Magnet in die Nähe des elektrischen Magneten kommt, schaltet dieser ab und der etwas weiter entfernte Elektro-Magnet wird eingeschaltet.  
+* So geht es in einem fort, immer im Kreis herum.
 
 
 Der DC-Motor läuft einfach mit einer Batterie, je grösser die Spannung um so schneller dreht sich der Motor.  
@@ -21,18 +21,23 @@ Nun probieren wir einfach mal direkt den Motor an eine Batterie anzuschliessen.
  
 So sieht das dann als Schaltbild aus:
 
-![ Motor-Schaltbild ](./pics/01_Motor_Schaltbild.jpg)
+![ Motor-Schaltbild ](./pics/01_Motor_Schaltbild.jpg){height=60%}
+
+## Batterie ranhalten
 
 Wir halten hier die Kabel nur an die Batterie ran, wir wollen nur wissen ob das so funktioniert.
 __Achtung__ : Wie wir am zweiten Nachmittag gelernt haben, ist elektrischer Strom gefährlich. Wir haben aber auch gelernt, dass normalerweise eine Batterie mit 4.5 V uns nicht gefährlich werden kann.
 Darum können wir das einfach zusammenhalten!
-![ Motor angeschlossen ](./pics/02_Motor_Batterie.png)
+
+![](./pics/02_Motor_Batterie.png){height=50%}
 
 ## Motor-Anschluss an den Calliope
 
 Der Calliope hat eine zusätzliche elektrische Schaltung mit auf der Platine, die den Anschluss eines Motors überhaupt erlaubt.  
 Ein Motor braucht so viel Leistung, dass man den normalerweise nicht direkt an den Mikro-Prozessoren (das sind die "Gehirne" bei unseren Calliopes und anderen Bastel-Platinen) anschliessen darf.  
 Der Calliope hat aber die notwendigen "Motor-Treiber" gleich mit eingebaut. Die Schaltung erlaubt sogar den zusätzlichen Anschluss einer stärkeren Batterie (Achtung: bis zu __9V__) so dass man mit dem Calliope sogar Motoren mit bis zu 9V anschliessen und ansteuern kann.
+
+## Ein oder Zwei Motoren
 
 Je nach Verwendungszweck kann man an den Calliope entweder
 
@@ -42,18 +47,24 @@ Je nach Verwendungszweck kann man an den Calliope entweder
 
 So sehen die beiden Möglichkeiten zum Anschluss von zwei oder einem Motor aus:
 
-![ Zwei Motoren anschliessen ](./pics/Calliope_mini_1.0_pinout_fin_2Mot.jpg)
+## Zwei Motoren
+![](./pics/Calliope_mini_1.0_pinout_fin_2Mot.jpg){height=90%}
 
-![ Einen Motor anschliessen ](./pics/Calliope_mini_1.0_pinout_fin_1Mot.jpg)
+## Ein Motor
+![](./pics/Calliope_mini_1.0_pinout_fin_1Mot.jpg){height=90%}
+
+## Pfostenstecker 
 
 Um dies zu ermöglichen, müssen wir nun zuerst einmal Pfostenstecker oder Pfostenbuchsen an den Calliope löten. 
 
 So sieht das aus:
 
 
-![ Pfostenstecker  ](./pics/03_Motor_Stecker_Calliope_01.png)
+![Pfostenstecker](./pics/03_Motor_Stecker_Calliope_01.png){height=60%}
 
-![ Pfostenstecker aufgelötet  ](./pics/04_Motor_Stecker_Calliope_02.png)
+## Pfostenstecker aufgelötet
+
+![ Pfostenstecker aufgelötet  ](./pics/04_Motor_Stecker_Calliope_02.png){height=60%}
 
 
 ## Motor-Programmierung für Calliope
@@ -63,13 +74,19 @@ Nachdem wir nun wissen, wie wir einen einzelnen Motor an den Calliope elektrisch
 Im ersten Schritt wollen wir nur ganz einfach den Motor ein- und ausschalten können.  
 Dazu wollen wir mit dem linken Knopf ein und mit dem rechten Knopf ausschalten.
 
+## Motor-Menu
+
 Die Motor-Ansteuerung findet sich im Menu Motoren:
 
-![ Menu Motor  ](./pics/05_MotorMenu.png)
+![ Menu Motor  ](./pics/05_MotorMenu.png){height=60%}
+
+## Motor Befehle
 
 Es gibt nicht viele Befehle zum Steuern von Motoren:
 
-![ Motor Befehle  ](./pics/06_MotorBefehle.png)
+![ Motor Befehle  ](./pics/06_MotorBefehle.png){height=60%}
+
+## Verfügbare Befehle
 
 Wie oben beschrieben, gibt es die Möglichkeit entweder zwei Motoren anszuschliessen, bei zwei Motoren kann man dann 
 
@@ -83,24 +100,30 @@ Bei Anschluss von nur einem Motor kann man
 * Bremsen oder auf Leerlauf schalten
  
  
- Wir wollen nun - wie beschrieben - nur den einen Motor entweder mit 100 einschalten oder beim Druck des rechten Knopfes mit 0 einschalten, was so viel wie Ausschalten heisst...
+## Knopfdruck einschalten
+
+Wir wollen nun - wie beschrieben - nur den einen Motor entweder mit 100 einschalten oder beim Druck des rechten Knopfes mit 0 einschalten, was so viel wie Ausschalten heisst...
  
- Mit den Befehlen zum Auswerten der Knöpfe :
+Mit den Befehlen zum Auswerten der Knöpfe :
  
-![ Knopf Befehle  ](./pics/07_Knopf_A.png)
+![ Knopf Befehle  ](./pics/07_Knopf_A.png){height=60%}
+
+## Motor-Ansteuerung
 
 Und den Befehlen zum Ansteuern des Motors :
 
-![ Motor Befehle  ](./pics/08_MotorBefehl.png)
+![ Motor Befehle  ](./pics/08_MotorBefehl.png){height=60%}
+
+## Erstes Motor-Programm
 
 Ergibt das unser erstes Motor-Programm
 
-![ Motor Programm 1  ](./pics/09_MotorProgramm_01.png)
+![ Motor Programm 1  ](./pics/09_MotorProgramm_01.png){height=60%}
 
 Diese Programm können wir leider im Simulator gar nicht nutzen.  
 Also müssen wir das Programm auf den Calliope runterladen und dort ausprobieren.
 
-### JavaScript-Code
+## JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -116,7 +139,7 @@ input.onButtonPressed(Button.B, () => {
 ```
 </details>
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-DC_Motor_01.hex)
 
@@ -135,16 +158,17 @@ Dazu bauen wir das Programm um:
 * Knopf __B__  => rückwärts
 * Knopf __A UND B__ => Stop
 
+## Mit Motor rückwärts
 
 Wenn wir nun unser Programm im Arbeits-Bereich entsprechend abändern, sieht das nun so aus:
 
 
-![ Motor Programm Vor / Rück  ](./pics/10_MotorProgramm_VorRueck.png)
+![ Motor Programm Vor / Rück  ](./pics/10_MotorProgramm_VorRueck.png){height=60%}
 
 Auch dieses Programm können wir leider im Simulator nicht nutzen und müssen wir das Programm auf den Calliope runterladen und dort ausprobieren.
 
 
-### JavaScript-Code
+## JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -164,12 +188,9 @@ input.onButtonPressed(Button.AB, () => {
 ```
 </details>
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-DC_Motor_VorRueck.hex)
-
-
-
 
 
 ## Navigation
