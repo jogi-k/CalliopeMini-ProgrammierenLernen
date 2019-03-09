@@ -3,9 +3,9 @@ current_dir := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 all: ${current_dir}.pdf  
 
        
-${current_dir}.pdf : README.md kurs.md ../../header.tex
+${current_dir}.pdf : README.md kurs.md ../../header.tex download.md
 	pandoc -t beamer -H ../../header.tex kurs.md README.md  -o ${current_dir}.pdf 
-	pandoc -t html kurs.md README.md -s -o index.html 
+	pandoc -t html kurs.md README.md download.md -s -o index.html 
 ${PWD##*/}
 
 kurs.md: makefile
@@ -13,3 +13,7 @@ kurs.md: makefile
 	echo "% Calliope-Kurs, Somer, Herbst 2018" >> kurs.md
 	echo "% Jogi Künstner, Turbine Brunen" >> kurs.md
 
+download.md: makefile
+	echo "## Download Folien" > download.md
+	echo " " >> download.md
+	echo "[Download Kursteil: ${current_dir} als PDF-Folien](${current_dir}.pdf)" >> download.md
