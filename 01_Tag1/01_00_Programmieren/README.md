@@ -1,4 +1,4 @@
-# Programmieren / Calliope 
+# Programmieren 
 
 ## Was ist Programmieren?
 
@@ -47,22 +47,23 @@
 
 ## Abstraktions-Level 
 
-- Ein Computer kann am Ende nur 0 und 1 unterscheiden
-- Das was wir programmieren muss noch weiter ausdetailliert werde
-- Vergleiche eine Koch-Anweisung für eine Koch und für ein Kind
+- Ein Computer kann im Endeffekt nur 0 und 1 unterscheiden
+- Das, was wir programmieren, muss noch weiter "ausdetailliert" werden
+- Vergleiche eine Koch-Anweisung für einen Koch und für ein Kind
   (der Computer ist das "Kind", versteht nur ja und nein...)
 - Das Aus-Detaillieren passiert bei uns im Hintergrund 
-  (und wird "übersetzen", "interpretieren","compilieren" genannt)
+  (und wird "übersetzen", "compilieren" oder "interpretieren" genannt)
 
 
 ## Zusammenfassung
 
 * Programmieren ist ein "Anleitung" schreiben
 * Die Anleitungs-Sprache ist die Programmiersprache
-* Die Sprache die wir sprechen ist "höher" als das was der Computer versteht
+* Die Sprache, die wir sprechen, ist "höher" als das, was der Computer versteht
 * Darum muss übersetzt werden
 * Die Ausführung macht der Computer/Microcontroller
 
+# Calliope
 
 ## Calliope Mini : Warum ?
 
@@ -83,6 +84,8 @@
 
 
 
+# Calliope-Kurs
+
 ## Kurs-Übersicht Schüler 
 
 ![](pics/Calliope-Kurs.png)
@@ -96,6 +99,20 @@
 ## Weglassen Lehrer
 
 ![](pics/Calliope-Kurs-Lehrer-weg.png)
+
+## Themen Lehrer
+
+![](pics/Calliope-Kurs-Lehrer-only.png)
+
+## Gesamt-Übersicht Lehrer (Wunsch)
+
+![](pics/Calliope-Kurs-Lehrer-only-mehr.png)
+
+## Gesamt-Übersicht Lehrer : Los Gehts!
+
+![](pics/Calliope-Kurs-Lehrer-only_LosGehts.png)
+
+
 
 ## Navigation
 
