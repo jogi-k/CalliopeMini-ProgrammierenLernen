@@ -17,7 +17,8 @@ kurs.md: makefile
 	echo "date: Frühjahr 2019" >> kurs.md
 	echo "output: beamer_presentation" >> kurs.md
 	echo "classoption: \"aspectratio=1610\"" >> kurs.md
-	echo "---"
+	echo "---"       >> kurs.md
+
 
 download.md: makefile
 	echo "## Download Folien" > download.md
