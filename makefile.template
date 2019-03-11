@@ -10,9 +10,14 @@ ${current_dir}.pdf : README.md kurs.md $(texheader) download.md
 ${PWD##*/}
 
 kurs.md: makefile
-	echo "% ${current_dir}" > kurs.md
-	echo "% Calliope-Kurs (Lehrer), Frühjahr 2019" >> kurs.md
-	echo "% Jogi Künstner, Turbine Brunen" >> kurs.md
+	echo "---" > kurs.md
+	echo "title: \"${current_dir}\"" >> kurs.md
+	echo "subtitle: \"Calliope-Kurs (Lehrer Herrengasse)\"" >> kurs.md
+	echo "author: Jogi Künstner, Turbine Brunen" >> kurs.md
+	echo "date: Frühjahr 2019" >> kurs.md
+	echo "output: beamer_presentation" >> kurs.md
+	echo "classoption: \"aspectratio=1610\"" >> kurs.md
+	echo "---"
 
 download.md: makefile
 	echo "## Download Folien" > download.md
