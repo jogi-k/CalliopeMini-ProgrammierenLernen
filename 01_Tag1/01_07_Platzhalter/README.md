@@ -72,15 +72,22 @@ Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel sp�
 
 ![Menu-Benennen](pics/PlatzhalterBenennenMenu.png){height=70%}
 
-## Wirchtig : Variablen-Namen
+## Wichtig : Variablen-Namen
 
 Beim Benennenn der Variablen sollte man ein paar Dinge beachten:
 
-* Variablen dürfen keine Leerzeichen enthalten
-* Variablen dürfen Zahlen enthalten, aber nicht damit anfangen.
+* Variablen dürfen __keine Leerzeichen__ enthalten
+* Variablen dürfen Zahlen enthalten, aber __nicht mit Zahlen anfangen__.
+* Variablen sollten __keine Sonderzeichen__ enthalten, dazu zählen auch ä,ö und ü (ersetzen durch ae,oe und ue) 
+
+Darum wird aus unserer Rechnung oben:
+
+* Gesuchte Summe = Linke Hand + Rechte Hand
+* GesuchteSumme = LinkeHand + RechteHand            oder
+* Gesuchte_Summe = Linke_Hand + Rechte_Hand       oder
+* gesuchteSumme = linkeHand + rechteHand               usw ...
 
 
-HIER GEHTS WEITER
 
 ## Auswahl aus Menu (3)
 
@@ -91,91 +98,55 @@ HIER GEHTS WEITER
 
 ## Zuweisung und Benutzung (1)
 
-Hier wird es nun interssant...
-
 Wir haben oben in Texten die Namen der Variablen hingeschrieben:  
-* linkeHand  
-* rechte geschrieben , in einer normalen Programmiersprache schreibt man einfach den Namen der Variablen hin.
+* __linkeHand__ = 3
+* rechteHand = 5
+* gesuchteSumme = __linkeHand__ + rechteHand 
 
-Siehe hierbei auch den Heavy Refresh in Tag3 zum Thema Variablen!
+Wir haben hier zweimal die Variable `linkeHand` stehen, einmal auf der linken Seite des __=__ - Zeichens einmal auf der rechten Seite.
 
-Hier in kurz:  
+Im einen Fall belegen wird die Variable __linkeHand__ mit einm Wert, das andere Mal benutzen wir den Wert, wir "fragen" die Variable welchen Wert sie denn enthält.
 
-Unsere Calliope-Programmiersprache unterscheidet/muss unterscheiden, ob man einem Platzhalter/Variablen einen bestimmten Wert zuweist, oder ob man die Variable/den Platzhalter benutzen will.
+Unsere Calliope-Programmiersprache unterscheidet/muss unterscheiden, ob man einer Variablen einen bestimmten Wert zuweist, oder ob man die Variable/den Platzhalter benutzen will.
 
 Wenn man der Variable einen Wert __zuweisen__ will, dann muss man diesen ganzen Block verwenden:   
 
-"Ändere Platzhalter auf XXX"
+!["Ändere Platzhalter auf XXX"](pics/VariableZuweisen.png)
+
+Wenn man die Variable abfragen will, man will sie __benutzen__ , dann kann man folgenden Block verwenden, das Puzzleteilchen:
+
+![](pics/VariableBenutzen.png)
+
+(Siehe dazu auch den Refresh in Tag3 zum Thema Variablen)
+
+
 
 ## Zuweisung und Benutzung (2)
- 
-![Menu-ZuweisungAuswahl](pics/PlatzhalterVerwendenZuweisungMenu.png){height=70%}
 
+Hat man nun mit obigem Befehl eine neue Variable angelegt, dann ist sie im __Menu Variablen__ zwar als Puzzle-Teilchen vorhanden, sprich man kann sie __benutzen/abfragen__.
 
-
-
-
-
-## Auswahl aus Menu (4)
+Aber eine Zuweisung wie bei der Variable namens __Platzhalter__ ist nicht vohanden: 
 
 ![Menu-Zuweisung](pics/PlatzhalterZuweisungMenu.png){height=70%}
 
 
-## Auswahl aus Menu (5)
+## Auswahl aus Menu (4)
+
+Lösung des Problems:
+
+![](pics/VariablenAuswahl.png)
+
+Das kleine Dreieck bei Platzhalter bietet ein Auswahlmenu aller angelegten Variablen.
+
+Dazu ziehen wir den Baustein auf die Arbeitsfläche:
+
+![](pics/VariableAufArbeitsFlaeche.png)
+
+und klicken anschliessend auf das kleine Dreieckchen. Dann öffnet sich ein Auswahlmenu, in welchem wir die Variable auswählen können:
+
+![](pics/VariablenAuswahlMenu.png)
 
 
-## Verwendung des Platzhalters 
-
-![Menu-Verwenden](pics/PlatzhalterBenutzenMenu.png){height=70%}
-
-Verwendung der Variablen Ausgaben und Berechnungen anstatt fester Werte.
-
-## Benutzung Platzhalter
-
-![Menu-Verwenden-2](pics/PlatzhalterBenutzenMenu_2.png){height=70%}
-
-Dazu zieht man die Variable/den Platzhalter genau an die Stelle an der vorher feste Werte benutzt wurden.
-
-
-
-## PXT-Code
-
-Finales simples Taschenrechner-Programm.  
-Immernoch muss Programm-Code geändert werden um eine neue Berechnung durchzuführen, aber die Werte für die Berechnung müssen nur an einer zentralen Stelle geändert werden.
-Dank Verwendung von Platzhaltern/Variablen passt sich die Ausgabe jeweils entsprechend an.
-
-
-
-![Zwischenfinales Programm mit Platzhalter](pics/Platzhalter_Final.png)
-
-
-
-## JavaScript-Code / HEX-Code
-### JavaScript-Code
-
-<details>
- <summary>Java-Script-Code</summary>
-
-```js
-let rechteHand = 0
-let linkeHand = 0
-basic.forever(() => {
-    linkeHand = 3
-    rechteHand = 4
-    basic.showNumber(linkeHand)
-    basic.showString(" + ")
-    basic.showNumber(rechteHand)
-    basic.showString(" = ")
-    basic.showNumber(linkeHand + rechteHand)
-    basic.clearScreen()
-    basic.pause(1000)
-})
-```
-</details>
-
-### Download Hex-Code
-
-[Hex-code](mini-PlatzhalterFinal.hex)
 
 ## Navigation
 
