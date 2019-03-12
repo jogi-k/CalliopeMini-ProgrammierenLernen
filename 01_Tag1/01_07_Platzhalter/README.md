@@ -1,10 +1,11 @@
 # Platzhalter / Variablen 
 
-## Erklärung (1)
+## Variablen
 
-Wenn man den Taschenrechner etwas universeller haben will, dann muss man mehr Flexibilität haben.  
-D.h man muss mit verschiedenen, unterschiedlichen Werten arbeiten können.  
-Anstatt den Programm-Code immer abzuändern und die Berechnung jedesmal neu zu übersetzen, brauchen wir sogenannte Platzhalter.
+Bis jetzt haben wir nur Dinge angezeigt, die wir genau so eingegeben haben. Nun wollen wir aber "Bewegung" und "Veränderung" in die Dinge bringen, die wir anzeigen wollen.  
+Dazu müssen wir  ein wichtiges Element beim Programmieren kennen lernen:   
+__Platzhalter__ : 
+Anstatt den Programm-Code immer abzuändern um unterschiedliche Zahlen anzuzeigen brauchen wir sogenannte Platzhalter.
 Platzhalter nennt man beim Programmieren auch Variablen, weil die Platzhalter unterschiedliche Werte, variable Werte aufnehmen kann.  
 Das kann man sich z.B. beim einfachen Zählen mit zwei Händen vorstellen:  
 
@@ -62,7 +63,7 @@ Diese eine Berechnungs-Anweisung / Formel ist unser "Programm" und ist für völ
 Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel später (wenn man als Mensch schon lange die Werte vergessen hat) die beide Platzhalter addieren.
 
 
-## Auswahl aus Menu (1)
+## Eine Variable anlegen
 
 ![Menu-Anlegen](pics/PlatzhalterAnlegenMenu.png){height=70%}
 
@@ -71,10 +72,48 @@ Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel sp�
 
 ![Menu-Benennen](pics/PlatzhalterBenennenMenu.png){height=70%}
 
+## Wirchtig : Variablen-Namen
+
+Beim Benennenn der Variablen sollte man ein paar Dinge beachten:
+
+* Variablen dürfen keine Leerzeichen enthalten
+* Variablen dürfen Zahlen enthalten, aber nicht damit anfangen.
+
+
+HIER GEHTS WEITER
 
 ## Auswahl aus Menu (3)
 
 ![Menu-Benennen](pics/PlatzhalterBenennenMenu_2.png){height=70%}
+
+
+
+
+## Zuweisung und Benutzung (1)
+
+Hier wird es nun interssant...
+
+Wir haben oben in Texten die Namen der Variablen hingeschrieben:  
+* linkeHand  
+* rechte geschrieben , in einer normalen Programmiersprache schreibt man einfach den Namen der Variablen hin.
+
+Siehe hierbei auch den Heavy Refresh in Tag3 zum Thema Variablen!
+
+Hier in kurz:  
+
+Unsere Calliope-Programmiersprache unterscheidet/muss unterscheiden, ob man einem Platzhalter/Variablen einen bestimmten Wert zuweist, oder ob man die Variable/den Platzhalter benutzen will.
+
+Wenn man der Variable einen Wert __zuweisen__ will, dann muss man diesen ganzen Block verwenden:   
+
+"Ändere Platzhalter auf XXX"
+
+## Zuweisung und Benutzung (2)
+ 
+![Menu-ZuweisungAuswahl](pics/PlatzhalterVerwendenZuweisungMenu.png){height=70%}
+
+
+
+
 
 
 ## Auswahl aus Menu (4)
@@ -84,7 +123,6 @@ Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel sp�
 
 ## Auswahl aus Menu (5)
 
-![Menu-ZuweisungAuswahl](pics/PlatzhalterVerwendenZuweisungMenu.png){height=70%}
 
 ## Verwendung des Platzhalters 
 
