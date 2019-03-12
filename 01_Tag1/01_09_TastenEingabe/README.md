@@ -1,28 +1,5 @@
 # Eingabe mit Tasten 
 
-## Starten unseres Programmes 
-
-Bislang haben wir nur Berechnungen durchgeführt und Werte und Texte ausgegeben.  
-Wenn man dem Taschenrechner auch Werte eingeben/verändern können will, dann muss man auch Eingaben machen können.
-
-Dazu schauen wir uns nochmal kurz an, wie bislang unser Programm gestartet wurde:
-
-## Dauerhaft Laufen
-
-![Dauerhaft](pics/01_Dauerhaft.png){height=60%}
-
-D.h unser Programmcode wurde ständig, dauerhaft wiederholt.
-
-Es gibt auch noch andere Möglichkeiten, wie unser Programm-Code aufgerufen wird:
-
-## Beim Starten Laufen
- 
-![BeimStart](pics/02_BeimStart.png){height=60%}
-
-
-D.h. unser Programmcode wird nur einmal beim Starten ausgeführt.
-(Anmerkung: Bei unserem bisherigen Programm ohne Spezialitäten ist das Ergebnis das Gleiche, das kann gerne mal ausprobiert werden...)
-
 
 ## Starten Programm-Teile via Tastendruck
 
@@ -34,11 +11,14 @@ Dazu holen wir uns die entsprechende "Klammer" um unser Programm herum aus dem B
 
 ## Bearbeiten 
 
-Das wird nun auf einen geleerten Bereich gezogen.
-Den Programm-Bereich leert man mit einem Rechts-Klick in einen freien Bereich, dann **Lösche xx Blöcke** anwählen.
-(Keine Sorge, wenn das HEX-File für den Calliope heruntergeladen wurde, kann man unser Programm daraus wieder herstellen)
- 
-![Programm Area löschen](pics/04_ProgrammAreaLoeschen.png){height=60%}
+Damit uns bei unseren Versuchen die Variablen-Anzeioge nicht stört, machen wir die Anzeige inaktiv indem wir den Block aus der __dauerhaft__-Schleife auf den Arbeitsbereich ziehen.
+
+![Ausgegraut](pics/DauerLoopAusserKraftSetzen.png){height=50%}
+
+Wenn ein Block nicht ausgeführt werden kann (dieser "hängt in der Luft, ihm fehlt eine Ausführungs-Möglichkeit), dann wird er ausgegraut.
+Man sieht dann schon an der schwachen Farbe (ausgegraut), dass nichts mehr passiert!
+
+Nun holen wir uns also den __wenn Knopf A gedrückt__ in den Arbeitsbereich 
 
 
 ## Einfache Tastendruck-Demo

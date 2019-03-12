@@ -22,7 +22,7 @@ oder damit sich wenigstens ein bisschen was bewegt:
 
 ![](pics/VariablenNutzungMitPause.png){height=50%}
 
-## Beim Start
+## Beim Start (1)
 
 Bislang haben wir alle unsere Programm-Teile in die Schleife mit dem Namen __dauerhaft__ reingezogen. Diese Schleife läuft - wie Ihr Name vermuten lässt - die ganze Zeit "im Kreis".
 
@@ -36,7 +36,11 @@ Dieser Block wird - wie zu erwarten - nur ein einziges Mal, beim Start des Calli
 
 Das wollen wir nun mal ausprobieren, wir holen uns den __beim Start__ Block zusätzlich auf die Arbeitsfläche.
 
-## Beim Start 
+## Beim Start (2)
+
+![](pics/02_BeimStart.png)
+
+## Beim Start (3) 
 
 Unterschied : Schleife vs Einmal Ausführen 
 
@@ -66,7 +70,7 @@ __Hinweis__ : Man kann immer nur ganze Programm-Teile nach __unten__ wegziehen, 
 
 ## Vorbereitung 
 
-* Wenn wir unser Programm nun anschauen, hat sich eigentlich nichts geändert.
+* Wenn wir unser Programm nun im Simulator oder im Calliope anschauen, hat sich eigentlich nichts geändert.
 
 * Aber wir haben eine neue Möglichkeit kennengelernt, um Befehle ausführen zu lassen, wenigstens einmalig beim Start
 * Und wir haben unser Programm vorbereitet, fü die nächsten Schritte...
