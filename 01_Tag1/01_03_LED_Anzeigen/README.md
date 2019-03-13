@@ -50,7 +50,6 @@ Einheit:
 
 
 ## JavaScript-Code / Hex-Code
-### Javascript
 <details>
  <summary>Java-Script-Code</summary>
 
@@ -77,20 +76,13 @@ basic.forever(() => {
 ```
 </details>
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-LedAnzeigenMitPause.hex)
 
-## Navigation
-
-
-* [Zurück](../01_02_Start_Simulator/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_04_Programm_Auf_Calliope_Laden/index.html)
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
