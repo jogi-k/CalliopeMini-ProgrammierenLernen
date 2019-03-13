@@ -1,5 +1,18 @@
 # Programmieren 
 
+## Jogi Künstner
+
+- Elektronik seit ~ 1975 
+- Software / Embedded seit ~ 1980  
+  [Mein Junior-Computer]( http://www.wolfgangrobel.de/sbc/junior.htm)
+- Elektrotechnik/Informations-Technik Studium Technische Uni München 
+- Handy - Entwicklung Siemens München bis 2006, 
+- inzwischen Software-Projekt-Leiter ( Roche-Linux ) bei Roche
+- Vorstand Turbine
+- Einige Elektronik Workshops Turbine
+- Programmierkurs für Kinder Turbine (jetzt auch Lehrer)
+- Mit-Organisation Repair-Cafes 
+
 ## Was ist Programmieren?
 
 * Wer hat schonmal selbst programmiert ?
@@ -114,19 +127,16 @@
 
 
 
-## Navigation
-
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_02_Start_Simulator/index.html)
-
-
 
 ## Lizenz/Copyright-Info
-Für fast alle Bilder auf dieser Seite gilt:
+Für alles Texte und fast alle Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
-Ausnahme: Übersichts-Bild Calliope:
+Ausnahme: Übersichts-Bild Calliope  
 
-Link einfügen
+\begin{tiny}
+  (https://calliope-mini.github.io/assets/v10/img/Calliope\_mini\_1.0\_pinout\_fin.jpg)
+\end{tiny}
+
