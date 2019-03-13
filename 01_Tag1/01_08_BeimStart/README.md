@@ -75,17 +75,10 @@ __Hinweis__ : Man kann immer nur ganze Programm-Teile nach __unten__ wegziehen, 
 * Aber wir haben eine neue Möglichkeit kennengelernt, um Befehle ausführen zu lassen, wenigstens einmalig beim Start
 * Und wir haben unser Programm vorbereitet, fü die nächsten Schritte...
 
-## Navigation
-
-
-* [Zurück](../01_06_Zahlen_Anzeigen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_08_TastenEingabe/index.html)
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
