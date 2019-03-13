@@ -22,7 +22,7 @@ Nach der Eingabe eines sinnvollen Namens und klick auf das Disketten-Symbol
 ## Speichern (2)
 
 öffnet sich je nach Betriebs-System ein Speichern-Dialog, der es ermöglicht, das Programm als HEX-Datei auf der Festplatte abzulegen.
-Die meisten Browser sind so konfiguriert, dass die Dateiein in einem Ordner namens "Downloads" abgelegt werden
+Die meisten Browser sind so konfiguriert, dass die Dateien in einem Ordner namens "Downloads" abgelegt werden
 
 ![Speicher Dialog](pics/03_SpeichernDialog.png){ height=60% }
 
@@ -70,6 +70,7 @@ Nun kann man die Datei entweder mit der Maus per Drag and Drop auf den Mini zieh
 * Datei mit der linken Maustaste anklicken, 
 * Maustaste festhalten
 * Datei auf das Ziel, also in unserem Fall den MINI
+* ziehen und jetzt die Maustaste loslassen
 
 ## HEX-Datei auf den Mini laden (2)
 
@@ -79,6 +80,7 @@ oder aber mit Kopieren/Einfügen (Maus)
 * rechte Maustaste auf die Datei klicken
 * Kopieren anwählen
 * in einen freien Bereich im Ziel-Laufwerk mit der linken Maustaste klicken
+* rechte Maustaste klicken, es erscheint ein Menu
 * Einfügen wählen
 
 ## HEX-Datei auf den Mini laden (3)
@@ -89,13 +91,14 @@ oder aber mit Kopieren/Einfügen (Tastatur)
 * STRG -Taste festhalten, C drücken (C wie Copy)
 * in einen freien Bereich im Ziel-Laufwerk mit der rechten Maustaste klicken
 * STRG-Taste festhalten, V drücken (V weil es direkt neben C ist)
+* Das fügt die kopierte HEX-Datei auf das Laufwerk
 
 ![Datei ziehen](pics/08_DateiiZiehen.png){ height=50% }
 
 
 ## Das Programm wird "geflasht"
 
-Vom Datenspeicher-Bereich des Calliopes wird es automatisch in den Programm-Bereich geflasht.
+Vom USB Speicher-Bereich des Calliopes wird es automatisch in den internen Programm-Bereich geflasht.
 Das erkennt man an der blinkenden gelben LED
 
 ![Calliope wird programmiert](pics/09_Led_Blinkt.jpg){ height=60% }
@@ -108,22 +111,16 @@ Wenn das Programm fertig geflasht ist,
 * dann resetet sich der Calliope automatisch, 
 * er verschwindet kurz als USB-Laufwerk vom Computer 
 * er erscheint wieder als USB-Laufwerk am Computer, aber das Programm ist verschwunden 
-* dafür wurde es in den Programm-Speicher übertragen und 
+* dafür wurde es in den internen Programm-Speicher übertragen und 
 * wird nun ausgeführt
 
 ![Das Programm läuft](pics/10_ProgrammLaeuft.jpg){ height=50% }
 
 
-## Navigation
-
-* [Zurück](../01_03_LED_Anzeigen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_05_Texte_Anzeigen/index.html)
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
