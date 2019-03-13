@@ -11,30 +11,29 @@ Dazu holen wir uns die entsprechende "Klammer" um unser Programm herum aus dem B
 
 ## Bearbeiten 
 
-Damit uns bei unseren Versuchen die Variablen-Anzeioge nicht stört, machen wir die Anzeige inaktiv indem wir den Block aus der __dauerhaft__-Schleife auf den Arbeitsbereich ziehen.
+Den Variablen-Anzeige-Block ziehen wir aus der __dauerhaft__-Schleife auf den Arbeitsbereich.
 
 ![Ausgegraut](pics/DauerLoopAusserKraftSetzen.png){height=50%}
 
 Wenn ein Block nicht ausgeführt werden kann (dieser "hängt in der Luft, ihm fehlt eine Ausführungs-Möglichkeit), dann wird er ausgegraut.
 Man sieht dann schon an der schwachen Farbe (ausgegraut), dass nichts mehr passiert!
 
-Nun holen wir uns also den __wenn Knopf A gedrückt__ in den Arbeitsbereich 
-
 
 ## Einfache Tastendruck-Demo
+
+Dazu holen wir uns also den __wenn Knopf A gedrückt__ in den Arbeitsbereich 
 
 Nun noch eine Reaktion auf den Tastendruck, z.B. ein LED-Gesicht:
 
 ![Reaktion auf Tastendruck](pics/05_TastenReaktion.png){height=60%}
 
-
 Damit haben wir ein erstes Programm, das auf Eingabe reagiert.
-
 
 ## Reaktion auf zweite Taste
 
 Möchte man nun noch eine zweite Reaktion auf eine andere Taste programmieren, 
-dann holt man sich wieder aus dem Bereich **Eingabe** die "Klammer" :  **Wenn Knopf A gedrückt**<br>
+dann holt man sich wieder aus dem Bereich __Eingabe__ die "Klammer" :  
+__Wenn Knopf A gedrückt__      
 Sobald diese Klammer auf der Programm-Oberfläche liegt, verliert sie Ihre Farbe, wird "ausgegraut".  
 
 ![Augegraute Eingabe](pics/06_TastenReaktion_Doppelt.png){height=40%}
@@ -132,18 +131,9 @@ Download HEX-code:
 [Hex-code](mini-EingabeFinal.hex)
 
 
-## Navigation
-
-
-* [Zurück](../01_07_Platzhalter/index.html)
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_09_Taschenrechner/index.html)
-
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
