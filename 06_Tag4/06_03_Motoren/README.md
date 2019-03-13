@@ -147,9 +147,9 @@ Wir schauen uns heute und beim nächsten Mal die Ansteuerung von von Servos und 
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+Für alle Texte und Bilder auf diesen Folien gilt, soweit nicht anders unter dem Bild gekennzeichnet:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
 

@@ -4,23 +4,23 @@
 
 Bis jetzt haben wir gelernt:
 
-* Zeichen auf den LEDs anzeigen 
+* Zeichenketten (Texte) auf den LEDs als Laufschrift anzeigen 
 * Zahlen auf den LEDs anzeigen 
 * Erster Umgang mit Platzhaltern/Variablen
 * Einfache Berechnung (+)
 * Ausführen von Programm-Teilen einmalig beim Start
 * Ausführen von Programm-Teilen immer
-* Reaktion auf Tasten-Drücke
+* Reaktion auf Tasten-Drücke : __Knopf A__ und __Knopf B__
 
 ## Bisher gelernt (2)
 
-Damit sollten wir eigentlich nun in der Lage sein, einen sehr einfachen Zähler zu bauen.
-Er soll: 
+Damit sollten wir eigentlich nun in der Lage sein, einen sehr einfaches Zählprogramm zu bauen.
+Es soll: 
 
 * Beim Start: einen Platzhalter (z.B. mit Namen __Zaehler__) mit 0 belegen
-* Beim Drücken der linken Taste: vom  __Zaehler__ eine 1 abziehen
-* Beim Drücken der rechten Taste: den __Zaehler__ um 1 erhöhen
-* Dauerhaft: Den Wert der Variablen  __Zaehler__ ausgeben 
+* Beim Drücken der linken Taste (__Knopf A__): vom  __Zaehler__ eine 1 abziehen
+* Beim Drücken der rechten Taste (__Knopf B__): den __Zaehler__ um 1 erhöhen
+* Dauerhaft: Den Wert der Variablen  __Zaehler__ anzeigen  
 
 
 ## Erweitern des Programms 
@@ -32,7 +32,7 @@ Dann aktivieren wir wieder die ausgegrauten Teile von davor, indem wir sie wiede
 ![GrundGerüstZaehler](pics/GrundGerüstZaehler.png){height=50%}
 
 
-Die restliche Programm-Logik ist oben beschrieben und wurde schon vorher gezeigt,  darum an dieser Stelle nur noch ein / zwei Hinweise und dann eine "Musterlösung".
+Die restliche Programm-Logik ist oben beschrieben und wurde schon vorher gezeigt,  darum an dieser Stelle nur noch ein/zwei Hinweise und dann eine "Musterlösung".
 
 ## Platzhalter/Variablen , Achtung
 
@@ -60,19 +60,12 @@ Eine mögliche "Musterlösung" mit Benutzung von 2 verschiedenen Möglichkeiten 
 
 
 
-## Navigation
-
-
-* [Zurück](../01_08_TastenEingabe/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
 
