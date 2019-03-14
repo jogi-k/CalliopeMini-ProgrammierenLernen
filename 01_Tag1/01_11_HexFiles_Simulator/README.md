@@ -1,6 +1,11 @@
 ## HEX-Files in Simulator
 
-* Die HEX-Files, die man im Simulator runterlädt um sie in den Calliope zu programmieren, können anstatt dessen auch wieder in den Simulator geladen werden um dort weiter bearbeitet zu werden.
+* Aus dem Simulator haben wir HEX-Dateien heruntergeladen.
+* Diese enthalten unser Programm
+* Bislang haben wir diese HEX-Datei in den Calliope kopiert
+* Damit wurde unser Programm in unseren Calliope geladen
+* Anstatt dessen kann man die HEX-Dateien aber auch wieder in den Simulator laden
+* Damit kann man alte Programme wieder laden und weiterbearbeiten
 * Das wollen wir nun mal ausprobieren.
 
 
@@ -33,17 +38,11 @@ Das alte Programm (HEX-Datei) suchen und anklicken.
 
 
 
-## Navigation
-
-
-* [Zurück](../01_08_TastenEingabe/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-
 
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

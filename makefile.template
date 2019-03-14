@@ -3,24 +3,34 @@ current_dir := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 all: ${current_dir}.pdf  
 
 
-${current_dir}.pdf : README.md kurs.md $(texheader) download.md
-	pandoc -t beamer -H $(texheader) kurs.md README.md  -o ${current_dir}.pdf 
-	pandoc -t html kurs.md README.md download.md navigation.md -s -o index.html 
+${current_dir}.pdf : README.md kurs_A4.md kurs_1610.md $(texheader) download.md
+	pandoc -t beamer -H $(texheader) kurs_A4.md README.md  -o ${current_dir}_A4.pdf 
+	pandoc -t beamer -H $(texheader) kurs_1610.md README.md  -o ${current_dir}_1610.pdf 
+	pandoc -t html kurs.md download.md README.md navigation.md -s -o index.html 
        
 ${PWD##*/}
 
-kurs.md: makefile
-	echo "---" > kurs.md
-	echo "title: \"${current_dir}\"" >> kurs.md
-	echo "subtitle: \"Calliope-Kurs (Lehrer Herrengasse)\"" >> kurs.md
-	echo "author: Jogi Künstner, Turbine Brunen" >> kurs.md
-	echo "date: Frühjahr 2019" >> kurs.md
-	echo "output: beamer_presentation" >> kurs.md
-	echo "classoption: \"aspectratio=1610\"" >> kurs.md
-	echo "---"       >> kurs.md
+kurs_1610.md: makefile kurs_both.md
+	cat kurs_both.md > kurs_1610.md
+	echo "classoption: \"aspectratio=1610\"" >> kurs_1610.md
+	echo "---"       >> kurs_1610.md
 
+
+kurs_A4.md: makefile kurs_both.md
+	cat kurs_both.md > kurs_A4.md
+	echo "classoption: \"aspectratio=141\"" >> kurs_A4.md
+	echo "---"       >> kurs_A4.md
+
+kurs_both.md: makefile 
+	echo "---" > kurs_both.md
+	echo "title: \"${current_dir}\"" >> kurs_both.md
+	echo "subtitle: \"Calliope-Kurs (Lehrer Herrengasse)\"" >> kurs_both.md
+	echo "author: Jogi Künstner, Turbine Brunen" >> kurs_both.md
+	echo "date: Frühjahr 2019" >> kurs_both.md
+	echo "output: beamer_presentation" >> kurs_both.md
 
 download.md: makefile
 	echo "## Download Folien" > download.md
 	echo " " >> download.md
-	echo "[Download Kursteil: ${current_dir} als PDF-Folien](${current_dir}.pdf)" >> download.md
+	echo "[Download Kursteil: ${current_dir} als DinA4-PDF-Folien](${current_dir}_A4.pdf)<br>" >> download.md
+	echo "[Download Kursteil: ${current_dir} als PDF-Folien im 16:10-Format](${current_dir}_1610.pdf)" >> download.md

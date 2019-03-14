@@ -4,7 +4,7 @@
 
 - Elektronik seit ~ 1975 
 - Software / Embedded seit ~ 1980  
-  [Mein Junior-Computer]( http://www.wolfgangrobel.de/sbc/junior.htm)
+  Mein Junior-Computer: <http://www.wolfgangrobel.de/sbc/junior.htm>
 - Elektrotechnik/Informations-Technik Studium Technische Uni München 
 - Handy - Entwicklung Siemens München bis 2006, 
 - inzwischen Software-Projekt-Leiter ( Roche-Linux ) bei Roche
@@ -54,7 +54,7 @@
 * Guter Start für Programmier-Anfänger
 * Schon ab ca 6 Jahren möglich
 
-[Hour of Code: Starwars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
+Hour of Code: Starwars <https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1>
 
 
 
@@ -129,7 +129,7 @@
 
 
 ## Lizenz/Copyright-Info
-Für alles Texte und fast alle Bilder auf diesen Folien gilt:
+Für alle Texte und fast alle Bilder auf diesen Folien gilt:
 
 * Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
