@@ -14,6 +14,7 @@ __Frühjahr 2019__
 
 ### [Lektion / Nachmittag  1](01_Tag1/index.html)
 
+* [00: Programmieren Start](01_Tag1/01_00_Programmieren/index.html)
 * [01: Auspacken, Einschalten](01_Tag1/01_01_Auspacken-Einschalten/index.html)
 * [02: Start Simulator](01_Tag1/01_02_Start_Simulator/index.html)
 * [03: LED Anzeigen](01_Tag1/01_03_LED_Anzeigen/index.html)
