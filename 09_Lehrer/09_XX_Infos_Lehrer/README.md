@@ -12,4 +12,7 @@ https://www.science-on-stage.de/page/display/de/7/7/1442/coding-im-mint-unterric
 
 https://jugendhackt.org/anmeldung-fuer-jugend-hackt-schweiz/
 
+### Einige Infos schon im Google-Drive
+
+Nur um sie nicht im git oder unnötigerweise auf der Homepage zu haben.
 
