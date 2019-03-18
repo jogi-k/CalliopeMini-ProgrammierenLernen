@@ -29,7 +29,7 @@ Wir können nun unsere "Gesichter" nach links in den Mülleimer ziehen.
 
 Dann aktivieren wir wieder die ausgegrauten Teile von davor, indem wir sie wieder in Ihre ursprünglichen Starter einziehen:
 
-![GrundGerüstZaehler](pics/GrundGerüstZaehler.png){height=50%}
+![GrundGerüstZaehler](pics/GrundGeruestZaehler.png){height=50%}
 
 
 Die restliche Programm-Logik ist oben beschrieben und wurde schon vorher gezeigt,  darum an dieser Stelle nur noch ein/zwei Hinweise und dann eine "Musterlösung".
