@@ -9,7 +9,7 @@ Darum, wenn man einen Text anzeigen will : => Zeichenketten!
 
 ## Auswahl aus Menu
 
-![Menu-Auswahl](pics/ZeichenkettenMenu.png){ height=70% }
+![Menu-Auswahl](pics/ZeichenkettenMenu.png){ height=50% }
 
 ## PXT-Code
 
@@ -18,10 +18,9 @@ Diese Programm gibt genau diese Zeichenfolge auf dem Bildschirm aus.
 Unser "Bildschirm" ist die LED-Anzeige.
 Wenn der Text nicht auf den Bildschirm (die LED-Anzeige) passt, dann wird ein Lauftext erstellt.  
 
-![Menu-Auswahl](pics/ZeichenkettenAnzeigen.png){ height=60%}
+![Hello World in Calliope](pics/ZeichenkettenAnzeigen.png){ height=50%}
 
 ## JavaScript-Code / Download HEX
-### JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
@@ -33,22 +32,16 @@ basic.forever(() => {
 ```
 </details>
 
-### Download Hex-Code
+__Download Hex-Code__
 
 [Hex-code](code/mini-ZeichenketteAnzeigen.hex)
 
 
-## Navigation
-
-
-* [Zurück](../01_04_Programm_Auf_Calliope_Laden/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_06_Zahlen_Anzeigen/index.html)
 
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

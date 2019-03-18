@@ -67,15 +67,9 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 
 * Das Programm ist in Calliope-Computer-Sprache übersetzt und in den Simulator geladen
 
-## Navigation
-
-* [Zurück](../01_01_Auspacken-Einschalten/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_03_LED_Anzeigen/index.html)
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf dieser Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

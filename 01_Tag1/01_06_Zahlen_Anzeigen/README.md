@@ -2,12 +2,12 @@
 
 ## Zahlen / Nummern
 
-In der Computer-Sprache unterscheidet man die Zeichenketten/Strings vom vorherigen Kapitel zu den Nummern/Zahlen.
-Zeichenketten kann man anzeigen (und auch noch anders verändern) aber Nummern/Zahlen eignen sich zum Rechnen. 
+In der Computer-Sprache unterscheidet man die Zeichenketten/Strings (im vorherigen Kapitel) von den Nummern/Zahlen.  
+Zeichenketten kann man anzeigen (und auch noch anders verändern) aber Nummern/Zahlen eignen sich zum Rechnen.  
 Darum wird unterschieden zwischen Texten und Nummern. 
 
-Wenn man Nummern, mit denen man später rechnen will, anzeigen will : => Nummern 
-
+* Wenn man reine Texte hat: => Zeichenkette
+* Wenn man Nummern (mit denen man rechnet) anzeigen will: => Nummern 
 
 ## Auswahl aus Menu
 
@@ -22,110 +22,86 @@ In weiteren Schritten zeigen wir dann Zahlen an, die nicht am Stück auf das Dis
 
 ## Einzelne Ziffer
 
-![Einzelne Ziffer](pics/Zahlen_zeigen_01.png){height=70%}
+![Einzelne Ziffer](pics/Zahlen_zeigen_01.png){height=40%}
 
 
 
 ## Grosse Zahlen 
 
-![Grosse Zahlen](pics/Zahlen_zeigen_02.png){height=70%}
+![Grosse Zahlen](pics/Zahlen_zeigen_02.png){height=40%}
 
 
-## Grosse Zahlen mit Loeschen
+## Grosse Zahlen mit Löschen
 
-![Grosse Zahlen mit Loeschen ](pics/Zahlen_zeigen_03.png){height=70%}
-
-
-## Grosse Zahlen mit Loeschen und Warten
-
-![Grosse Zahlen mit Loeschen und Warten ](pics/Zahlen_zeigen_04.png){height=70%}
+![Grosse Zahlen mit Löschen ](pics/Zahlen_zeigen_03.png){height=70%}
 
 
+## Grosse Zahlen mit Löschen
 
+![Grosse Zahlen mit anders Löschen](pics/Zahlen_zeigen_04.png){height=40%}
 
-## JavaScript-Code / HEX-Code
+* Dieses "__Bildschirminhalt löschen__" bewirkt das Gleiche wie vorher die LED-Matrix mit nicht angeklickten LEDs
+* Es wird aber schneller durchgeführt
+* Und es braucht weniger Platz auf unserem Arbeitsbereich
+* Man findet es unter __"Grundlagen->Mehr"__ ganz unten 
 
-### JavaScript-Code
+## Grosse Zahlen mit Löschen und Warten
 
-<details>
- <summary>Java-Script-Code</summary>
+![Grosse Zahlen mit Löschen und Warten ](pics/Zahlen_Anzeigen_mit_Warten.png){height=40%}
 
-```js
-basic.forever(() => {
-    basic.showNumber(123)
-    basic.clearScreen()
-    basic.pause(1000)
-})
-```
-</details>
+- Wenn man noch eine Pause einführt, dann sieht man besser was passiert
+- Pausen heissen : __pausiere (ms)__ und finden sich auch im Menu: __Grundlagen__
 
-### Download Hex-Code
+## Additions-Ergebnis einfügen
 
-[Hex-code](mini-NummernAnzeigen.hex)
+Vorher hatte ich gesagt, dass sich der Befehl __zeige Nummer__ eignet, um Zahlen anzuzeigen, mit denen man auch richtig rechnen kann.
 
+Das wollen wir ausprobieren, wir wollen nun direkt das Ergebnis einer Plus-Rechnung, einer Additon sehen
 
-# Ein Mini-Taschenrechner 
+![](pics/Zahlen_zeigen_05.png){height=50%}
 
-## Ein einfacher Taschenrechner
-
-Nun kann man die Ausgabe von Texten und von Zahlen kombinieren und einen sehr sehr sehr einfachen Taschenrechner programmieren.
-
-## Die Addition im Menu finden
-
-Die Addition befindet sich - wie bei den Schulfächern - bei der Mathematik
-
- 
-![Zahlen addieren im Menu Mathematik](pics/Zahlen_zeigen_05.png){height=70%}
+- Im Menu __Mathematik__ findet man eine Additions-Puzzleteil, dieses ziehen wir nun in unser __zeige Nummer__ rein.
 
 
 
-## Das vollständige Rechenprogramm
+## Additions-Ergebnis anzeigen
 
-Nun ergibt eine Kombination der gerade gezeigten Zahlen-Ausgabe mit der Addition und der vorher gezeigten Zeichenketten-Ausgabe einen kleinen
-"Taschenrechner".
+* Wir ziehen die Additon über die Zahl __123__ im Befehl __zeige Nummer__ drüber, die Zahl wird dann einfach entfernt. 
+* Für die Addition ersetzen wir noch von Hand die beiden 0 durch Zahlen (hier 2 und 5)
+* Unser Calliope (oder unser Simulator) berechnet das Ergebnis und zeigt es an..
 
-![Zahlen addieren](pics/Zahlen_zeigen_06.png){height=70%}
+![Zahlen Additionsergebnis zeigen](pics/Zahlen_Addition_zeigen.png){height=50%}
 
 
-## JavaScript-Code / Hex-Code
-### JavaScript-Code
+## Additions-Ergebnis schöner anzeigen
+
+- Nun können wir nochmal eine Zeichenkette vorher eintragen, um unseren kleinen "Taschenrechner" zu verschönern.
+- Wir holen uns wieder aus dem Menu Grundlagen den Befehl __zeige Zeichenfolge__ 
+- Klicken ihn über der Berechnung in unsere __dauerhaft__ - Schleife ganz oben ein.
+- Und schreiben unsere Berechnung als Text hin
+
+![Zeichen und Ergebnis zeigen](pics/Zahlen_zeigen_06.png){height=50%}
+
+
+## JavaScript-Code
 
 <details>
  <summary>Java-Script-Code</summary>
 
 ```js
 basic.forever(() => {
-    basic.showString("2 + 5 =")
+    basic.showString("2 + 5=")
     basic.showNumber(2 + 5)
     basic.clearScreen()
     basic.pause(1000)
 })
-})
 ```
 </details>
-
-### Download Hex-Code
-
-[Hex-code](mini-SimplerTaschenRechner.hex)
-
-## Einschränkungen
-
-Naja, das Rechnen ist doch etwas umständlich, der Calliope kann so nur genau eine Rechnung durchführen.  
-Aber immerhin.  
-Weiter geht es dann mit einem "echten" kleinen Rechner.
-
-
-## Navigation
-
-
-* [Zurück](../01_05_Texte_Anzeigen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_07_Platzhalter/index.html)
 
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

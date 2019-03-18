@@ -1,8 +1,14 @@
 directories
-kurs.md
+kurs_html.md
+kurs_all.md
+kurs_A4.md
+kurs_1610.md
 download.md
 header.tex
+days
 makefile
 makefile.newtemplate
+makefile.chap.newtemplate
+makefile.day.newtemplate
 *.pdf
 *.html

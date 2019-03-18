@@ -1,28 +1,5 @@
 # Eingabe mit Tasten 
 
-## Starten unseres Programmes 
-
-Bislang haben wir nur Berechnungen durchgeführt und Werte und Texte ausgegeben.  
-Wenn man dem Taschenrechner auch Werte eingeben/verändern können will, dann muss man auch Eingaben machen können.
-
-Dazu schauen wir uns nochmal kurz an, wie bislang unser Programm gestartet wurde:
-
-## Dauerhaft Laufen
-
-![Dauerhaft](pics/01_Dauerhaft.png){height=60%}
-
-D.h unser Programmcode wurde ständig, dauerhaft wiederholt.
-
-Es gibt auch noch andere Möglichkeiten, wie unser Programm-Code aufgerufen wird:
-
-## Beim Starten Laufen
- 
-![BeimStart](pics/02_BeimStart.png){height=60%}
-
-
-D.h. unser Programmcode wird nur einmal beim Starten ausgeführt.
-(Anmerkung: Bei unserem bisherigen Programm ohne Spezialitäten ist das Ergebnis das Gleiche, das kann gerne mal ausprobiert werden...)
-
 
 ## Starten Programm-Teile via Tastendruck
 
@@ -34,27 +11,29 @@ Dazu holen wir uns die entsprechende "Klammer" um unser Programm herum aus dem B
 
 ## Bearbeiten 
 
-Das wird nun auf einen geleerten Bereich gezogen.
-Den Programm-Bereich leert man mit einem Rechts-Klick in einen freien Bereich, dann **Lösche xx Blöcke** anwählen.
-(Keine Sorge, wenn das HEX-File für den Calliope heruntergeladen wurde, kann man unser Programm daraus wieder herstellen)
- 
-![Programm Area löschen](pics/04_ProgrammAreaLoeschen.png){height=60%}
+Den Variablen-Anzeige-Block ziehen wir aus der __dauerhaft__-Schleife auf den Arbeitsbereich.
+
+![Ausgegraut](pics/DauerLoopAusserKraftSetzen.png){height=50%}
+
+Wenn ein Block nicht ausgeführt werden kann (dieser "hängt in der Luft, ihm fehlt eine Ausführungs-Möglichkeit), dann wird er ausgegraut.
+Man sieht dann schon an der schwachen Farbe (ausgegraut), dass nichts mehr passiert!
 
 
 ## Einfache Tastendruck-Demo
+
+Dazu holen wir uns also den __wenn Knopf A gedrückt__ in den Arbeitsbereich 
 
 Nun noch eine Reaktion auf den Tastendruck, z.B. ein LED-Gesicht:
 
 ![Reaktion auf Tastendruck](pics/05_TastenReaktion.png){height=60%}
 
-
 Damit haben wir ein erstes Programm, das auf Eingabe reagiert.
-
 
 ## Reaktion auf zweite Taste
 
 Möchte man nun noch eine zweite Reaktion auf eine andere Taste programmieren, 
-dann holt man sich wieder aus dem Bereich **Eingabe** die "Klammer" :  **Wenn Knopf A gedrückt**<br>
+dann holt man sich wieder aus dem Bereich __Eingabe__ die "Klammer" :  
+__Wenn Knopf A gedrückt__      
 Sobald diese Klammer auf der Programm-Oberfläche liegt, verliert sie Ihre Farbe, wird "ausgegraut".  
 
 ![Augegraute Eingabe](pics/06_TastenReaktion_Doppelt.png){height=40%}
@@ -152,18 +131,9 @@ Download HEX-code:
 [Hex-code](mini-EingabeFinal.hex)
 
 
-## Navigation
-
-
-* [Zurück](../01_07_Platzhalter/index.html)
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../01_09_Taschenrechner/index.html)
-
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
