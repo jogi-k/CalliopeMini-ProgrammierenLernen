@@ -1,6 +1,98 @@
+# Weiterführende Infos Calliope
+
+* Websites
+* Social Media
+* Bücher
+* Videos
+* Lernmaterial frei/kommerziell
+* Organisationen, "Hackatons", Codedojo, etc 
+
+**Speziell für Lehrer**
+
+* MOOC für Lehrer (Massive open online course)
+* Lehr-Bücher
+* Lehr-Materialen für den Unterricht
+* Websites für Lehrer
+* Anregungen für Einbindung in Unterricht
+
+
+
+# Allgemeine Infos
+
+
+
+## Webseiten
+
+
+
+
+
+
+
+## Social Media
+
+
+
+
+
+## Bücher
+
+
+
+
+
+## Bücher frei / online
+
+
+
+
+
+## Videos
+
+
+
+
+
+## Lernmaterial frei
+
+
+
+## Lernmaterial kommerziell
+
+
+
+## Organisationen, Hackatons etc
+
+
+
+# Infos speziell für Lehrer
+
+## MOOC für Lehrer (Massive open online course)
+
+
+
+## Lehr-Bücher
+
+
+
+
+
+## Lehr-Materialen für den Unterricht
+
+
+
+
+
+## Websites für Lehrer
+
+
+
+
+
 
 
 ### Coding im MINT-Unterricht
+
 https://www.heise.de/make/meldung/Werkstattberichte-Neues-aus-den-Fablabs-und-der-Makerszene-4293363.html
 
 und da drin:
@@ -18,7 +110,7 @@ Nur um sie nicht im git oder unnötigerweise auf der Homepage zu haben.
 
 
 
-# ALLES AUS EVERNOTE
+## ALLES AUS EVERNOTE
 
 
 
