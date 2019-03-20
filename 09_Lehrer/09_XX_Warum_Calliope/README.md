@@ -41,6 +41,8 @@ oder
 
 * Hour of Code
 
+* Blocky <https://developers.google.com/blockly/>
+
 * uvm, siehe z.B.:
   <https://www.codingkids.de/machen/programmieren-fuer-kinder-11-tolle-ideen>
 
@@ -135,14 +137,14 @@ oder
 
 \colB{6cm}
 
-- Ein kompletter __Linux__-Rechner
-- __massentauglicher__ Einplatinen-Rechner
-- Extrem viel zusätzliche Hardware, Software verfügbar
-- Sehr billig ( Zero ab 8 CHf , Raspi 3 B+ ca 40 CHf)
-- Viele verschiedene Programmiersprachen
-- braucht Installation 
-- ab ca 13 Jahren
-- ohne Zusatz-Hardware und Monitor/Tastatur "nutzlos"
+* Ein kompletter __Linux__-Rechner
+* __massentauglicher__ Einplatinen-Rechner
+*  Extrem viel zusätzliche Hardware, Software verfügbar
+* Sehr billig ( Zero ab ca 8 CHf , Raspi 3 B+ ca 40 CHf)
+* Viele verschiedene Programmiersprachen
+* braucht Installation 
+* ab ca 13 Jahren
+* ohne Zusatz-Hardware und Monitor/Tastatur "nutzlos"
 
 \colEnd
 
@@ -154,15 +156,23 @@ oder
 
 ![](pics/moicrobit.jpg)
 
+Hier fehlt noch ein Bild von einem Zusatz-Board
+
 \colB{6cm}
 
-
-
+* 2015 von der BBC vorgestellt um Schulen damit auszurüsten
+* Zielgruppe: Schüler ab 11-12
+* Sehr viel Informationen , grosses "Öko-System" 
+* "Vater" des Calliope, sehr ähnliche Hardware
+* Programme zum Teil direkt austauschbar
+* Viele Hardware-Addons verfügbar
+* passt sehr gut in den Lehr-Betrieb
+* Billig, ca 20 CHF 
 \colEnd
 
 
 
-## Calliope
+## Calliope (1)
 
 \colA{6cm}
 
@@ -170,8 +180,29 @@ oder
 
 \colB{6cm}
 
+* 2017 auf Basis des BBC Micro:Bit in Deutschland entwickelt
+* Ziel: schon ab der dritten Klasse in die Schule
+* Änderungen
+    * Sternform => weniger Kurzschluss-Gefahr
+    * Microfon und Lautsprecher
+    * Motor-Treiber um Motoren anzuschliessen
+    * RGB-Led
+    * Groove - Konnektoren
+    
+\colEnd
 
+## Calliope (2)
 
+* 2018 erste Schulen in Deutschland ausgerüstet
+* Inzwischen deutschsprachiges Lehr-Material verfügbar
+* Erweiterbarkeit nicht mit Steckplatinen möglich
+* Kleinere Community verglichen mit BBC Micro:Bit
+* Software-Features "hinken" hinterher
+* Dafür: Alles in Deutsch, darum schon früh verwendbar in deutsch-sprachigen Schulen
+* Teurer als BBC Micro-Bit ( 45-50 CHF)
+    
+Hier evt. noch ein Bild von Groove-Konnektoren rein.    
+    
 \colEnd
 
 
