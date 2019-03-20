@@ -104,7 +104,7 @@ oder
 * EduArdu
 * mBot (und andere Robotik-Plattformen)
 
-## Arduino
+## Arduino (1)
 
 \colA{6cm}
 
@@ -121,11 +121,27 @@ oder
 * Der __Urvater__ von __massentauglichen__ Microcontroller-Platinen
 * Extrem viel zusätzliche Hardware
 * Sehr billig (Clone ab ca 8 CHF)
-* Super Einstieg in die Welt der Elektronik und des Programmierens
+* Super Einstieg in Welt der Elektronik, Programmieren
 * Programmierung mit textueller Programmiersprache
-* Einfaches Entwicklungs-Umgebung, braucht Installation 
-* ab ca 12 Jahren
+* Einfache Entwicklungs - Umgebung, braucht Installation 
+* ab ca 11-12 Jahren
 * ohne Zusatz-Hardware "nutzlos"
+
+\colEnd
+
+## Arduino (2)
+
+\colA{6cm}
+
+![](pics/Arduino_IDE.png){height=70%}
+
+\colB{6cm}
+
+Die integrierte Entwicklungs-Umgebung war mit einer der Hauptfaktoren für den riesen Erfolg des Arduino.
+
+Bis dahin gab es schon einige ähnliche Boards, aber keine so einfach zu installierende und funktionierende Entwicklungs-Umgebung.
+
+Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Arduino-Entwicklungs-Umgebung.
 
 \colEnd
 
@@ -139,12 +155,12 @@ oder
 
 * Ein kompletter __Linux__-Rechner
 * __massentauglicher__ Einplatinen-Rechner
-*  Extrem viel zusätzliche Hardware, Software verfügbar
+*  Viel zusätzliche Hardware, Software 
 * Sehr billig ( Zero ab ca 8 CHf , Raspi 3 B+ ca 40 CHf)
 * Viele verschiedene Programmiersprachen
 * braucht Installation 
-* ab ca 13 Jahren
-* ohne Zusatz-Hardware und Monitor/Tastatur "nutzlos"
+* ab ca 12-13 Jahren
+* ohne Zusatz-Hardware und Monitor/Tastatur "nutzlos" (in "unserem" Sinne)
 
 \colEnd
 
@@ -154,20 +170,23 @@ oder
 
 \colA{6cm}
 
-![](pics/moicrobit.jpg)
 
-Hier fehlt noch ein Bild von einem Zusatz-Board
+
+![](pics/microbit.png){height=40%}
+
+![](pics/microbit-shield.png){height=40%}
 
 \colB{6cm}
 
-* 2015 von der BBC vorgestellt um Schulen damit auszurüsten
+* 2015 von der BBC vorgestellt für Schulen
 * Zielgruppe: Schüler ab 11-12
-* Sehr viel Informationen , grosses "Öko-System" 
-* "Vater" des Calliope, sehr ähnliche Hardware
+* Viele Informationen, grosses "Öko-System" 
+* "Vater" des Calliope, ähnliche Hardware
 * Programme zum Teil direkt austauschbar
 * Viele Hardware-Addons verfügbar
 * passt sehr gut in den Lehr-Betrieb
 * Billig, ca 20 CHF 
+
 \colEnd
 
 
@@ -187,22 +206,30 @@ Hier fehlt noch ein Bild von einem Zusatz-Board
     * Microfon und Lautsprecher
     * Motor-Treiber um Motoren anzuschliessen
     * RGB-Led
-    * Groove - Konnektoren
+    * Grove - Konnektoren
     
+
 \colEnd
 
 ## Calliope (2)
 
+
+
+\colA{6cm}
+
+![](pics/calliope-grove.jpg)
+
+\colB{6cm}
+
 * 2018 erste Schulen in Deutschland ausgerüstet
-* Inzwischen deutschsprachiges Lehr-Material verfügbar
-* Erweiterbarkeit nicht mit Steckplatinen möglich
+* Deutschsprachiges Lehr-Material verfügbar
+* Erweiterbarkeit durch Grove-System, keine Steckplatinen
 * Kleinere Community verglichen mit BBC Micro:Bit
 * Software-Features "hinken" hinterher
-* Dafür: Alles in Deutsch, darum schon früh verwendbar in deutsch-sprachigen Schulen
+* Fast Alles in Deutsch => junge Zielgruppe
 * Teurer als BBC Micro-Bit ( 45-50 CHF)
-    
-Hier evt. noch ein Bild von Groove-Konnektoren rein.    
-    
+
+
 \colEnd
 
 
@@ -219,7 +246,11 @@ Hier evt. noch ein Bild von Groove-Konnektoren rein.
 
 \colB{6cm}
 
-
+* Versuch einer chinesischen Makerin, den Calliope für chinesische Verhältnisse zu adaptieren
+* Hardware sehr ähnlich zu Calliope
+* viel grösseres LED-Display
+* Programmierung derzeit "nur" über die Arduino-Programmierumgebung möglich
+* Keinerlei englisch-sprachige Community 
 
 \colEnd
 
@@ -230,11 +261,20 @@ Hier evt. noch ein Bild von Groove-Konnektoren rein.
 
 \colA{6cm}
 
-![](pics/kniwwelino.jpg){height=60%}
+![](pics/kniwwelino.png){height=40%}
+
+![](pics/kniwwelino_ide.png){height=40%}
 
 \colB{6cm}
 
-
+* Initiative aus Belgien
+* Arduino und Block-basierte Entwicklung
+* WIFI-basiert 
+  * umständlicher Start mit WIFI-Koppeln
+  * Wireless Übertragung
+* Wenig Sensoren etc
+* Sehr günstig :  12 €
+* Kaum Community
 
 \colEnd
 
@@ -244,7 +284,7 @@ Hier evt. noch ein Bild von Groove-Konnektoren rein.
 
 
 
-## OxoCard
+## OxoCard v1
 
 \colA{6cm}
 
@@ -256,11 +296,32 @@ Hier evt. noch ein Bild von Groove-Konnektoren rein.
 
 \colB{6cm}
 
-
+* Initiative aus der Schweiz
+* Das hier ist die OXO-Card V1
+* Es gibt eine OXO-Card V2
 
 \colEnd
 
+## OxoCard v2
 
+\colA{6cm}
+
+![oxo-card-v2](pics/oxo-card-v2.png)
+
+\colB{6cm}
+
+- Das hier ist die OXO-Card V2
+  - Inklusive WIFI
+  - Farbige LEDs
+
+* Programmierung via Arduino oder Blockly
+
+- Keinerlei Erfahrung meinerseits
+
+- Community scheint noch überschaubar zu sein
+
+
+\colEnd
 
 
 
