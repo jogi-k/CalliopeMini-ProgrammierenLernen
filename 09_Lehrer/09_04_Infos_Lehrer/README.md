@@ -164,7 +164,7 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 - code your life : Wetterstation
 
-- Leitungstester [Todo.org](http://todo.org/)
+- Leitungstester <https://tuduu.org/lernen/calliope>
 
 - Studie Uni Bremen : <https://www.uni-bremen.de/tzi/data/nachrichten/news/detail/News/mini-computer-bew%C3%A4hrt-sich-in-der-grundschule-1/>
 
@@ -180,7 +180,7 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 - Angebot von AppCamps :(frei, umsonst) [http://www.appcamps.de](http://www.appcamps.de/)
 
-- 
+- Video auf Kika : https://www.kika.de/timster/videos/video45586.html
 
 - Angebot von fobizz.com : (kommerziell) <https://fobizz.com/fortbildung-calliope-mini-im-unterricht/>
 
