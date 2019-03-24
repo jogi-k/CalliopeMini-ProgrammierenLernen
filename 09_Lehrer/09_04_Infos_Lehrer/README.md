@@ -19,37 +19,266 @@
 
 # Allgemeine Infos
 
+## Webseiten (1)
+
+![Calliope-cc](pics/Calliope-cc.png){height=80%}
+
+## Webseiten (2)
+
+![calliope_forum](pics/calliope_forum.png)
+
+## Webseiten (3)
+
+![calliope_Lehrer](pics/calliope_Lehrer.png)
+
+## Webseiten (4)
+
+![Hackster](pics/Hackster.png)
+
+## Webseiten (5)
+
+![Tuduu-org](pics/Tuduu-org.png)
+
+## Webseiten (6)
+
+![Tuduu-org-Klavier](pics/Tuduu-org-Klavier.png)
+
+## Webseiten (7)
+
+![AdventsKalender](pics/AdventsKalender.png)
+
+## Webseiten (8)
+
+![Jogis-Page](pics/Jogis-Page.png)
+
+## Webseiten (9)
 
 
-## Webseiten
 
+* Die Webpage von calliope selbst : <www.calliope.cc>
+  * Viele dort verlinkte Seiten
+  * Website von Hackster.io , <www.hackster.io/calliope-mini>
 
-
-
-
-
+* Die Web-Page von Calliope Saarland: <www.calliope-saarland.de>
+* Die Calliope-Seite von tuduu: <https://tuduu.org/lernen/calliope>
+* Der Calliope Advents-Kalender : <https://www.marcusschütte.com/advent>
+* Die Webpage von diesem Kurs : <www.calliope-jogi.org>
 
 ## Social Media
 
+- Offizieller Twitter-Kanal von Calliope : <https://twitter.com/CalliopeMini>
+- Twitter-Kanal von Calliope Saarland : <https://twitter.com/calliope_saar>
+- Offizielle Twitter-Kanal von Hackster.io : <https://twitter.com/Hacksterio>
+
+![CalliopeTwitter](pics/CalliopeTwitter.png){height=50%}
+
+## Bücher (1)
+
+\colA{6cm}
+
+![](pics/dummies.png){height=80%}
+
+\colB{6cm}
+
+__Für Dummies: Programmieren mit dem Calliope mini __
+
+
+
+* Guter Einstieg
+* Mittlere Qualität
+* Die wichtigsten Themen abgedeckt
+* billig
+
+\colEnd
+
+
+
+## Bücher (2)
+
+\colA{6cm}
+
+![](pics/Calliope_mini_Franzis.png){height=80%}
+
+\colB{6cm}
+
+__Franzis Verlag : Programmieren lernen mit dem Calliope mini __
+
+
+
+- Guter Einstieg
+- Meines Erachtens besere Qualität als das Dummies-Buch
+- Ebenso : Die wichtigsten Themen abgedeckt
+- auch billig
+
+
+
+\colEnd
 
 
 
 
-## Bücher
+
+## Bücher (3)
+
+\colA{6cm}
+
+![Calliope_mini_Vierfarben](pics/Calliope_mini_Vierfarben.png)
+
+\colB{6cm}
+
+__Vierfarben : Calliope mini, Coden, basteln, entdecken__
+
+* Aus meiner Sicht : Das Beste der Bücher
+* Einstieg , aber auch sehr umfassend
+* Das teurste, aber wie geschrieben, subjektiv das Beste der Bücher
+
+\colEnd
 
 
 
 
 
-## Bücher frei / online
+## Bücher (4)
+
+\colA{6cm}
+
+![In_der_Praxis](pics/In_der_Praxis.png)
+
+\colB{6cm}
+
+__Burkhard Kainka: Calliope und Micro:Bit in der Praxis__
+
+* Fortgeschrittenen-Buch
+* Sehr tiefgehende Themen
+* Definitiv nichts für Anfänger
+* "echte" Elektronik-Kenntnisse benötigt 
+
+\colEnd
+
+
+
+## Bücher (5)
+
+\colA{6cm}
+
+![](pics/Programmieren_Supereasy_Scratch_Python.png){height=80%}
+
+\colB{6cm}
+
+__DK-Verlag: Programmieren supereasy, Scratch und Python__
+
+* Stellvertretend für andere Konzepte
+* Ein SEHR gutes Buch zum Einstieg
+* Zuerst Scratch, grafisches Programmieren
+* Zweiter Teil, mit einer richtigen Sprache: Python
+* 
+
+\colEnd
+
+
+
+## Bücher frei/online (1)
+
+\colA{6cm}
+
+![](pics/Das-Calliope-Buch_dpunkt.png)
+
+\colB{6cm}
+
+__dpunkt-Verlag : Das Calliope-Buch __
+
+
+
+* Das erste Calliope Buch überhaupt
+* Das offizielle Buch von calliope selbst
+* Mehrere Autoren, mehrere Projekte
+* Unterschiedlicher Schreibstil
+* Frei verfügbar online : <www.dpunkt.de/calliope>
+* Als gedrucktes Buch : 22.90 € 
+
+\colEnd
 
 
 
 
 
-## Videos
 
 
+## Bücher frei/online (2)
+
+
+
+\colA{6cm}
+
+![Cornelsen_Schueler](pics/Cornelsen_Schueler.png)
+
+\colB{6cm}
+
+__Cornelsen-Verlag : Coden mit dem Calliope mini__
+
+
+
+* 3 Bücher als PDF online verfügbar
+
+  * 2 * Schülermaterial
+  * 1 * Lehrermaterial
+
+* Online hier:  <www.cornelsen.de/calliope>
+
+* Gedruckte Version : je 6.50 € bzw 12.99 € für Lehrer-Material
+
+
+\colEnd
+
+
+
+## Videos (1)
+
+Einführungs-Video von Kindern für Kinder  
+
+Miss Hennipenny : https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA
+
+![MissHennyPenny01](pics/MissHennyPenny01.png){height=60%}
+
+## Videos (2)
+
+![MissHennyPenny02](pics/MissHennyPenny02.png){height=70%}
+
+## Videos (3)
+
+Kurzes Einführungs-Video auf dem KIKA-Kanal:
+
+Video auf Kika : <https://www.kika.de/timster/videos/video45586.html>
+
+
+
+## Videos (4)
+
+Youtube-Kanal eines "Creative Coders"
+
+Sehr viele meist kurze Videos zum Calliope
+
+![creative_coding_01](pics/creative_coding_01.png){height=70%}
+
+
+
+## Videos (5)
+
+![creative_coding_02](pics/creative_coding_02.png){height=70%}
+
+
+
+<https://www.youtube.com/channel/UC7voBbTQLtXHYfVneiq36Ig/videos>
+
+
+
+## Videos (6) Zusammenfassung
+
+Miss Hennipenny : https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA
+
+Video auf Kika : <https://www.kika.de/timster/videos/video45586.html>
+
+Youtube: Creative Coder <https://www.youtube.com/channel/UC7voBbTQLtXHYfVneiq36Ig/videos>
 
 
 
@@ -79,6 +308,8 @@
 
 ## Lehr-Materialen für den Unterricht
 
+https://www.science-on-stage.de/page/display/de/7/7/1442/coding-im-mint-unterricht
+
 
 
 
@@ -87,7 +318,27 @@
 
 
 
+## Weiterführend Offline
 
+__Jugend Hackt, speziell in der Schweiz__:  
+
+https://jugendhackt.org/anmeldung-fuer-jugend-hackt-schweiz/
+
+__CoderDojo Luzer : letzter Sonntag im Monat__:  
+
+<https://coderdojoluzern.ch/>
+
+__CoderDojo Zürich (jeden Sonntag) :__ 
+
+<https://www.meetup.com/de-DE/Coder-Dojo-Zurich/>
+
+__Elektronik, Arduino, Calliope-Meetup Turbine, alle 2-3 Wochen:__
+
+<https://www.meetup.com/de-DE/Arduino-Raspberry-Pi-und-mehr-Innerschwyz/>
+
+
+
+### 
 
 
 
@@ -99,11 +350,6 @@ und da drin:
 
 https://www.science-on-stage.de/page/display/de/7/7/1442/coding-im-mint-unterricht
 
-
-### Jugend Hackt, speziell in der Schweiz
-
-https://jugendhackt.org/anmeldung-fuer-jugend-hackt-schweiz/
-
 ### Einige Infos schon im Google-Drive
 
 Nur um sie nicht im git oder unnötigerweise auf der Homepage zu haben.
@@ -114,35 +360,9 @@ Nur um sie nicht im git oder unnötigerweise auf der Homepage zu haben.
 
 
 
-Weiterführende Links im Zusammenhang mit 
-
-
-
 Weiterführende Themen :
 
-- Coding in Minecraft mit Python
-- RaspBerry Pi
-- Arduino
 - Programmierung des Calliope auch mit Python:  [http://www.tigerjython4kids.ch](http://www.tigerjython4kids.ch/) (unterstützt neu auch den Calliope)
-
-
-
-"Konkurierrende " Konzepte
-
-- Micro:Bit : Zeigen
-- Arduino : Zeigen
-- Kniwellino : Zeigen
-- Sino:bit :  Zeigen
-- Prog Bob : <https://www.bob3.org/de/>
-- ArduEdu : Zeigen
-- Oxocard (alt) : Zeigen
-- 
-
-
-
-Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
-
-
 
 
 
@@ -150,9 +370,9 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 - 
 
-- Projekte auf [calliope.](http://calliope.org/)cc
+- 
 
-- Ebenso die Nächster Seite
+- 
 
 - [code.org ](http://code.org/)
 
@@ -164,7 +384,7 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 - code your life : Wetterstation
 
-- Leitungstester <https://tuduu.org/lernen/calliope>
+- Leitungstester <>
 
 - Studie Uni Bremen : <https://www.uni-bremen.de/tzi/data/nachrichten/news/detail/News/mini-computer-bew%C3%A4hrt-sich-in-der-grundschule-1/>
 
@@ -174,13 +394,9 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 - Und Email gesendet die Lehrer am Wochenende nach dem 30. November
 
-- Video-Zusammenstellung auf Youtube: https://www.youtube.com/channel/UC7voBbTQLtXHYfVneiq36Ig/videos
-
-- Video von [Miss Hennipenny](https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA)
-
 - Angebot von AppCamps :(frei, umsonst) [http://www.appcamps.de](http://www.appcamps.de/)
 
-- Video auf Kika : https://www.kika.de/timster/videos/video45586.html
+- 
 
 - Angebot von fobizz.com : (kommerziell) <https://fobizz.com/fortbildung-calliope-mini-im-unterricht/>
 
@@ -190,7 +406,7 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 - Tüftel-Akademie : (Kurse kosten) <https://tueftelakademie.de/courses/calliope-mini-einfuehrung/>
 
-- Der Advents-Kalender : [https://www.marcusschütte.com/advent](https://www.xn--marcussch14tte-yhb3469j.com/advent)
+- ](https://www.xn--marcussch14tte-yhb3469j.com/advent)
 
 - Open Education Ressources OER bei Tüftel-Akademie : <https://tueftelakademie.de/oer-materialien/>
 
@@ -203,8 +419,6 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 - Wie rechnet ein Computer? Mit der Maus und Lampen  <https://www.youtube.com/watch?v=9l-l_dD6qPQ>
 
 - Kids introducing to Computational Thinking with Python : <https://opensource.com/article/19/2/break-down-stereotypes-python>
-
-- Offizieller Twitter von Calliope : <https://twitter.com/CalliopeMini>
 
 - https://www.heise.de/make/meldung/Werkstattberichte-Neues-aus-den-Fablabs-und-der-Makerszene-4293363.html
 
@@ -237,9 +451,7 @@ Weiterführende Themen/Links für Lehrer im Zusammenhang mit Calliope
 
 Möglichkeiten für Lehrer/Kinder 
 
-- CoderDojo Luzern (jeden letzten Sonntag im Monat) : <https://coderdojoluzern.ch/>
-- CoderDojo Zürich (jeden Sonntag) : <https://www.meetup.com/de-DE/Coder-Dojo-Zurich/>
-- Meetup Turbine ( alle 2-3 Wochen, abwechselnd Mo und Fr ) siehe Homepage Turbine
+- 
 - 
 
 
