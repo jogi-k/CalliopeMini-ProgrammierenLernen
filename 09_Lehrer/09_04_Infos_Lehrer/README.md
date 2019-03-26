@@ -1,60 +1,67 @@
 # Weiterführende Infos Calliope
 
+## Übersicht
+
 * Websites
 * Social Media
 * Bücher
 * Videos
 * Andere Websites, Nicht Calliope 
+* Organisationen, "Hackatons", Codedojo, etc
 
-**Speziell für Lehrer**
+__Speziell für Lehrer__
 
 * MOOC für Lehrer (Massive open online course)
 * Lehr / Lern-Material frei
 * Lehr / Lern-Material kommerziell
-* Organisationen, "Hackatons", Codedojo, etcWebsites für Lehrer
 * Anregungen für Einbindung in Unterricht
 
 
 
-# Allgemeine Infos
-
 ## Webseiten (1)
 
-![Calliope-cc](pics/Calliope-cc.png){height=80%}
+![](pics/Calliope-cc.png){height=80%}
 
 ## Webseiten (2)
 
-![calliope_forum](pics/calliope_forum.png)
+![](pics/calliope_forum.png){height=80%}
+
 
 ## Webseiten (3)
 
-![calliope_Lehrer](pics/calliope_Lehrer.png)
+![](pics/calliope_Lehrer.png){height=80%}
+
 
 ## Webseiten (4)
 
-![Hackster](pics/Hackster.png)
+![](pics/Hackster.png){height=80%}
+
 
 ## Webseiten (5)
 
-![Tuduu-org](pics/Tuduu-org.png)
+![](pics/Tuduu-org.png){height=80%}
+
 
 ## Webseiten (6)
 
-![Tuduu-org-Klavier](pics/Tuduu-org-Klavier.png)
+![](pics/Tuduu-org-Klavier.png){height=80%}
+
 
 ## Webseiten (7)
 
-![AdventsKalender](pics/AdventsKalender.png)
+![](pics/AdventsKalender.png){height=80%}
+
 
 ## Webseiten (8)
 
-![Jogis-Page](pics/Jogis-Page.png)
+![](pics/Jogis-Page.png){height=80%}
+
 
 ## Webseiten (9)
 
 Programmierung Calliope in Python
 
-![TigerJytonKids](pics/TigerJytonKids.png){height=70%}
+![](pics/TigerJytonKids.png){height=70%}
 
 
 
@@ -62,14 +69,14 @@ Programmierung Calliope in Python
 
 ## Webseiten (10) Zusammenfassung
 
-- Die Webpage von calliope selbst : <www.calliope.cc>
+* Die Webpage von calliope selbst : <https://calliope.cc>
 
-* * Viele dort verlinkte Seiten
-  * Website von Hackster.io , <www.hackster.io/calliope-mini>
-* Die Web-Page von Calliope Saarland: <www.calliope-saarland.de>
+  * Viele dort verlinkte Seiten
+  * Website von Hackster.io , <https://www.hackster.io/calliope-mini>
+* Die Web-Page von Calliope Saarland: <https://www.calliope-saarland.de>
 * Die Calliope-Seite von tuduu: <https://tuduu.org/lernen/calliope>
 * Der Calliope Advents-Kalender : <https://www.marcusschütte.com/advent>
-* Die Webpage von diesem Kurs : <www.calliope-jogi.org>
+* Die Webpage von diesem Kurs : <http://www.calliope-jogi.org>
 * Programmierung des Calliope auch mit Python:  <http://www.tigerjython4kids.ch>
 
 ## Social Media
@@ -78,7 +85,7 @@ Programmierung Calliope in Python
 - Twitter-Kanal von Calliope Saarland : <https://twitter.com/calliope_saar>
 - Offizielle Twitter-Kanal von Hackster.io : <https://twitter.com/Hacksterio>
 
-![CalliopeTwitter](pics/CalliopeTwitter.png){height=50%}
+![](pics/CalliopeTwitter.png){height=50%}
 
 ## Bücher (1)
 
@@ -93,7 +100,7 @@ __Für Dummies: Programmieren mit dem Calliope mini __
 
 
 * Guter Einstieg 
-* Mittlere Schreib-Qualität
+* Inhaltlich mittlere Qualität
 * Die wichtigsten Themen abgedeckt
 * billig: 9.99 €
 
@@ -129,7 +136,8 @@ __Franzis Verlag : Programmieren lernen mit dem Calliope mini __
 
 \colA{6cm}
 
-![Calliope_mini_Vierfarben](pics/Calliope_mini_Vierfarben.png)
+![](pics/Calliope_mini_Vierfarben.png){height=80%}
+
 
 \colB{6cm}
 
@@ -151,7 +159,8 @@ __Vierfarben : Calliope mini, Coden, basteln, entdecken__
 
 \colA{6cm}
 
-![In_der_Praxis](pics/In_der_Praxis.png)
+![](pics/In_der_Praxis.png){height=80%}
+
 
 \colB{6cm}
 
@@ -192,48 +201,41 @@ __DK-Verlag: Programmieren supereasy, Scratch und Python__
 
 \colA{6cm}
 
-![](pics/Das-Calliope-Buch_dpunkt.png)
+![](pics/Das-Calliope-Buch_dpunkt.png){height=80%}
+
 
 \colB{6cm}
 
 __dpunkt-Verlag : Das Calliope-Buch __
 
 
-
 * Das erste Calliope Buch überhaupt
 * Das offizielle Buch von calliope selbst
 * Mehrere Autoren, mehrere Projekte
 * Unterschiedlicher Schreibstil
-* Frei verfügbar online : <www.dpunkt.de/calliope>
+* Frei verfügbar online : <http://www.dpunkt.de/calliope>
 * Als gedrucktes Buch : 22.90 € 
 
 \colEnd
 
-
-
-
-
-
-
 ## Bücher frei/online (2)
-
 
 
 \colA{6cm}
 
-![Cornelsen_Schueler](pics/Cornelsen_Schueler.png)
+![](pics/Cornelsen_Schueler.png){height=80%}
+
 
 \colB{6cm}
 
 __Cornelsen-Verlag : Coden mit dem Calliope mini__
 
 
-
 * 3 Bücher als PDF online verfügbar
   * 2 * Schülermaterial
   * 1 * Lehrermaterial
 * Online herunterladen hier: <https://www.calliope.cc/schulen/schulmaterial>
-* Zum Kaufen hier:  <www.cornelsen.de/calliope>
+* Zum Kaufen hier:  <https://www.cornelsen.de/calliope>
 * Gedruckte Version : je 6.50 € bzw 12.99 € für Lehrer-Material
 
 
@@ -245,13 +247,13 @@ __Cornelsen-Verlag : Coden mit dem Calliope mini__
 
 Einführungs-Video von Kindern für Kinder  
 
-Miss Hennipenny : https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA
+Miss Hennipenny : <https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA>
 
-![MissHennyPenny01](pics/MissHennyPenny01.png){height=60%}
+![](pics/MissHennyPenny01.png){height=60%}
 
 ## Videos (2)
 
-![MissHennyPenny02](pics/MissHennyPenny02.png){height=70%}
+![](pics/MissHennyPenny02.png){height=70%}
 
 ## Videos (3)
 
@@ -267,13 +269,13 @@ Youtube-Kanal eines "Creative Coders"
 
 Sehr viele meist kurze Videos zum Calliope
 
-![creative_coding_01](pics/creative_coding_01.png){height=70%}
+![](pics/creative_coding_01.png){height=70%}
 
 
 
 ## Videos (5)
 
-![creative_coding_02](pics/creative_coding_02.png){height=70%}
+![](pics/creative_coding_02.png){height=70%}
 
 
 
@@ -283,13 +285,13 @@ Sehr viele meist kurze Videos zum Calliope
 
 ## Videos (6)
 
-![Rechnen_Maus](pics/Rechnen_Maus.png)
+![](pics/Rechnen_Maus.png){height=70%}
 
 Wie rechnet ein Computer? Sendung mit der Maus mit Lampen  <https://www.youtube.com/watch?v=9l-l_dD6qPQ>
 
 ## Videos (7) Zusammenfassung
 
-Miss Hennipenny : https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA
+Miss Hennipenny : <https://www.youtube.com/channel/UCqA6HPlNNGNMJK9GXzp5WoA>
 
 Video auf Kika : <https://www.kika.de/timster/videos/video45586.html>
 
@@ -299,7 +301,7 @@ Sendung mit der Maus:   <https://www.youtube.com/watch?v=9l-l_dD6qPQ>
 
 ## Andere Websites, nicht Calliope (1)
 
-![](pics/code_org.png)
+![](pics/code_org.png){height=70%}
 
 Code.org : <http://code.org/>
 
@@ -307,7 +309,8 @@ Code.org : <http://code.org/>
 
 ## Andere Websites, nicht Calliope (2)
 
-![hour_of_code](pics/hour_of_code.png)
+![](pics/hour_of_code.png){height=70%}
+
 
 Dort ganz konkret zum Programmieren Lernen/Starten
 
@@ -319,9 +322,9 @@ Hour of Code : <https://hourofcode.com/de/learn>
 
 __Jugend Hackt, speziell in der Schweiz__:  
 
-https://jugendhackt.org/anmeldung-fuer-jugend-hackt-schweiz/
+<https://jugendhackt.org/anmeldung-fuer-jugend-hackt-schweiz/>
 
-__CoderDojo Luzer : letzter Sonntag im Monat__:  
+__CoderDojo Luzern : letzter Sonntag im Monat__ (wenn Zeit: Mentor):  
 
 <https://coderdojoluzern.ch/>
 
@@ -341,17 +344,22 @@ __Elektronik, Arduino, Calliope-Meetup Turbine, alle 2-3 Wochen:__
 
 **MOOC = Massive Open Online Courses**
 
-![openSAP](pics/openSAP.png){height=80%}
+![](pics/openSAP.png){height=80%}
 
 ## MOOC für Lehrer (2)
 
-iMoox
+iMoox auf Heise gesehen:
 
-![KursCodingMakingUnterricht](pics/KursCodingMakingUnterricht.png)
+![](pics/KursCodingMakingUnterricht.png){height=70%}
+
 
 ## MOOC für Lehrer (3)
 
-![iMoox](pics/iMoox.png)
+Angemeldet, Kurs hat am Montag 25.03. begonnen.  
+Leider noch keine Zeit reinzuschauen...
+
+![](pics/iMoox.png){height=70%}
+
 
 
 
@@ -375,42 +383,129 @@ Siehe oben, bei der ganzen Bücher-Zusammenstellung, Cornelsen-Verlag
 
 
 
-## Lehr/Lernmaterial frei
+## Lehr/Lernmaterial frei (1)
 
-- Angebot von AppCamps :(frei, umsonst) [http://www.appcamps.de](http://www.appcamps.de/)
+Angebot von __AppCamps__ : <http://www.appcamps.de>
 
-- Open Education Ressources OER bei Tüftel-Akademie : <https://tueftelakademie.de/oer-materialien/
-
-- [Zusammenstellung Unterichts-Möglichkeiten (NEPO)  ](https://www.roberta-home.de/lehrkraefte/lerneinheitenexperimente/)
-
-  <https://www.roberta-home.de/lehrkraefte/lerneinheitenexperimente
-
-## Lehr-Materialen für den Unterricht
-
-![CodingMintBuch](pics/CodingMintBuch.png)
-
-https://www.science-on-stage.de/page/display/de/7/7/1442/coding-im-mint-unterricht
+![](pics/AppCamps.png){height=70%}
 
 
 
-## Lehr/Lernmaterial kommerziell
-
-- Angebot von fobizz.com : (kommerziell) <https://fobizz.com/fortbildung-calliope-mini-im-unterricht/>
-- Tüftel-Akademie : (Kurse kosten) <https://tueftelakademie.de/courses/calliope-mini-einfuehrung/>
 
 
+## Lehr/Lernmaterial frei (2)
+
+![](pics/AppCampsLehrer.png){height=70%}
+
+## Lehr/Lernmaterial frei (3)
+
+![](pics/AppCampsMaterial.png){height=70%}
+
+## Lehr/Lernmaterial frei (4)
+
+![](pics/AppCampsNepo.png){height=70%}
+
+## Lehr/Lernmaterial frei (5)
+
+Open Education Ressources OER bei Tüftel-Akademie : <https://tueftelakademie.de/oer-materialien/>
+
+![](pics/TueftelAkademieMaterial.png){height=70%}
+
+
+
+## Lehr/Lernmaterial frei (6)
+
+![](pics/RobertaInitiative.png){height=70%}
+
+
+
+<https://www.roberta-home.de/lehrkraefte/lerneinheitenexperimente>
+
+## Lehr/Lernmaterial frei (7)
+
+PHZH :   <https://phzh.ch/mia#calliope>
+
+![](pics/PHZH_01.png){height=70%}
+
+## Lehr/Lernmaterial frei (8)
+
+![](pics/PHZH_02.png){height=70%}
+
+<https://phzh.ch/globalassets/phzh.ch/medienbildung/dokumente/kurs-highlights_calliope-karten.pdf>
+
+
+
+## Lehr/Lernmaterial frei (9)
+
+__Lehrmittel UNI Bremen__
+
+- <http://elib.suub.uni-bremen.de/edocs/00107011-1.pdf>
+- <http://elib.suub.uni-bremen.de/edocs/00107011-1.pdf>
+- <http://elib.suub.uni-bremen.de/edocs/00107010-1.pdf>
+- <http://elib.suub.uni-bremen.de/edocs/00107009-1.pdf>
+- <http://elib.suub.uni-bremen.de/edocs/00107008-1.pdf>
+- <http://elib.suub.uni-bremen.de/edocs/00107006-1.pdf>
+- <http://elib.suub.uni-bremen.de/edocs/00107005-1.pdf>   
+
+
+
+## Lehr/Lernmaterial frei (9)
+
+__Lehrmittel LPM Saarland__
+
+
+
+## Lehr/Lernmaterial frei (10)
+
+__Coding im MINT-Unterricht__
+
+![](pics/CodingMintBuch.png){height=70%}
+
+<https://www.science-on-stage.de/page/display/de/7/7/1442/coding-im-mint-unterricht>
+
+
+
+## Lehr/Lernmaterial frei (11)
+
+* Angebot von __AppCamps__ : <http://www.appcamps.de>
+
+- Open Education Ressources OER bei Tüftel-Akademie : <https://tueftelakademie.de/oer-materialien/>
+- Open Roberta : <https://www.roberta-home.de/lehrkraefte/lerneinheitenexperimente>
+
+- PHZH :  <https://phzh.ch/mia#calliope>
+  - <https://phzh.ch/globalassets/phzh.ch/medienbildung/dokumente/kurs-highlights_calliope-karten.pdf>
+
+- Coding im Mint-Unterricht: <https://www.science-on-stage.de/page/display/de/7/7/1442/coding-im-mint-unterricht>
+
+
+
+## Lehr/Lernmaterial kommerziell (1)
+
+Angebot von fobizz.com : (kommerziell) <https://fobizz.com/fortbildung-calliope-mini-im-unterricht/>
+
+
+
+![](pics/Fobizz.png){height=70%}
+
+
+
+## Lehr/Lernmaterial kommerziell (2)
+
+Tüftel-Akademie :  <https://tueftelakademie.de/courses/calliope-mini-einfuehrung/>
+
+![](pics/TueftelAkademie.png){height=70%}
 
 
 
 ## Erfahrungen von Schulen etc
 
-Vortrag auf dem Chaos Communication Congress: Digitale Bildung in der Schule (Video) 
+Vortrag auf dem Chaos Communication Congress: __Digitale Bildung in der Schule__ (Video):    
 
-https://media.ccc.de/v/34c3-8865-digitale_bildung_in_der_schule#t=1669
+<https://media.ccc.de/v/34c3-8865-digitale_bildung_in_der_schule#t=1669>
 
 
 
-Studie der Universität Bremen über Einsatz des Calliope im Unterricht (Artikel)
+Studie der Universität Bremen über Einsatz des Calliope im Unterricht (Artikel)  
 
 Artikel: <https://www.uni-bremen.de/tzi/data/nachrichten/news/detail/News/mini-computer-bew%C3%A4hrt-sich-in-der-grundschule-1/>
 
@@ -418,9 +513,7 @@ Studie selbst:  <http://nbn-resolving.de/urn:nbn:de:gbv:46-00106848-17>
 
 
 
-
-
-## Ideen für den Unterricht
+## Ideen für den Unterricht (1)
 
 Kunst: 
 
@@ -431,6 +524,8 @@ Musik :
 - Musik-Möglichkeiten, Noten
 - Metronom
 - Klavier : <https://tuduu.org/projekt/calliope-klavier>
+
+## Ideen für den Unterricht (2)
 
 Mathematik:
 
@@ -444,32 +539,22 @@ Sport:
 - Stoppuhr
 - Fangen-Spiel (Treffer reduziert Leben)
 
+## Angebot Herrengasse-Lehrer
 
+Zuschauer/Zuhörer beim neuen Kurs für Kinder
 
-## 
+* ab 10.April
+* jeweils 16-18 Uhr
+* Bitte eigenen Laptop mitbringen, wenn möglich
+* hinterer Tisch
+* Lehrer : Calliope
+* Jogi : Didaktik, Pädagogik
+* Win-Win ...
 
-## ALLES AUS EVERNOTE
+## Lizenz/Copyright-Info
 
+Für alle Texte und Bilder auf diesen Folien gilt:
 
+* Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
 
-Weiterführende Themen :
-
-
-
-- Zürich
-
-  - Zürich Karten : <https://phzh.ch/globalassets/phzh.ch/medienbildung/dokumente/kurs-highlights_calliope-karten.pdf>
-  - Zürich : PHZH : <https://phzh.ch/mia#calliope>
-  - Foto auf Deepthought, PDF auch 
-
-
-​              Bremen (Inhalte auf Google-Drive)
-
-- - <http://elib.suub.uni-bremen.de/edocs/00107011-1.pdf>
-  - <http://elib.suub.uni-bremen.de/edocs/00107011-1.pdf>
-  - <http://elib.suub.uni-bremen.de/edocs/00107010-1.pdf>
-  - <http://elib.suub.uni-bremen.de/edocs/00107009-1.pdf>
-  - <http://elib.suub.uni-bremen.de/edocs/00107008-1.pdf>
-  - <http://elib.suub.uni-bremen.de/edocs/00107006-1.pdf>
-  - <http://elib.suub.uni-bremen.de/edocs/00107005-1.pdf>              
-- LPM Saarland, auch alles auf Google-Drive
