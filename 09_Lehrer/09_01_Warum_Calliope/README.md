@@ -242,8 +242,6 @@ Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Ard
 
 
 
-
-
 \colB{6cm}
 
 * Versuch einer chinesischen Makerin, den Calliope für chinesische Verhältnisse zu adaptieren
@@ -281,9 +279,6 @@ Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Ard
 
 
 
-
-
-
 ## OxoCard v1
 
 \colA{6cm}
@@ -297,6 +292,7 @@ Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Ard
 \colB{6cm}
 
 * Initiative aus der Schweiz
+* Bislang wenig zusätzliches Material
 * Das hier ist die OXO-Card V1
 * Es gibt eine OXO-Card V2
 
@@ -306,7 +302,7 @@ Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Ard
 
 \colA{6cm}
 
-![oxo-card-v2](pics/oxo-card-v2.png)
+![](pics/oxo-card-v2.png)
 
 \colB{6cm}
 
@@ -333,7 +329,13 @@ Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Ard
 
 \colB{6cm}
 
-
+* Initiative aus Bulgarien
+* Basiert auf Arduino
+* sehr viele sinnvolle Sensoren integriert
+* Programmierung mit Arduino-IDE
+* Programmierung über Blöcke
+* sehr günstig, tolle Hardware
+* Englische/Bulgarische Doku
 
 \colEnd
 
@@ -347,10 +349,36 @@ Sehr viele neuere Platinen kommen vom Hersteller mit Unterstützung für die Ard
 
 \colB{6cm}
 
-
+* Robotik-Bausatz (exemplarisch)
+* Ziel Robotik, wenig allgemein 
+* Programmierung Arduino-IDE
+* Programmierung via Blöcke 
+* über 100 CHf
 
 \colEnd
 
 ## Fazit
+
+* Sehr viele Konzepte, SW only und Hardware
+* Entscheidung für Hardware
+* Sehr viele Angebote
+* Sehr tolle Bastel-Plattformen, extrem geeeignet für Fortgeschrittene
+* Für Anfänger und Lehre, Angebot überschaubarer
+* Für Lehre : sicher Micro:Bit der "Gewinner"
+   * Grosse Community
+   * Sehr viel Infos
+* Für Lehre im deutschsprachigen Raum:
+* Calliope der "Gewinner"
+   * Viel Lehrmaterial
+   * Täglich mehr
+   * Grosse Community
+   * ...
+
+## Lizenz/Copyright-Info
+
+Für alle Texte und Bilder auf diesen Folien gilt:
+
+* Autor: Jörg Künstner
+* Lizenz: CC BY-SA 4.0
 
 
