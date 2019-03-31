@@ -66,7 +66,7 @@ Das Wenn-Dann ziehen wir in den Arbeitsbereich in die Dauer-Schleife
 
 Nun können wir mit zwei einfachen Symbolen auf unserem "Display" anzeigen, wie sich das Wenn-Dann verhaält
 
-![Wenn Wahr Symbol](./pics/06_WennWahrSymbol.png){height=60%}
+![Wenn Wahr Symbol](./pics/06_WennWahrSymbol.png){height=50%}
 
 ## Wenn-Dann Ergebnis Wahr
 
@@ -87,14 +87,14 @@ Wir haben ja auch eine farbige Leuchtdiode auf dem Calliope, die soll nun zum Ei
 Anstatt Symbole auf dem 5x5 - roten LED-Display wollen wir die LED in unterschiedlichen Farben leuchten lassen.
 
 Die LED befindet sich auch unter Grundlagen (auch zu erkennen an der Farbe!)
- 
+
 
 ![RGB Led](./pics/09_RGB_Led.png){height=60%}
 
 ## Farbigen RGB-Leucht-Diode in Wenn-Dann
 
 
-![RGB Led In Wenn Wahr](./pics/10_RGB_Led_In_WennWahr.png){height=60%}
+![RGB Led In Wenn Wahr](./pics/10_RGB_Led_In_WennWahr.png){height=40%}
 
 ## Farbigen RGB-Leucht-Diode leuchtet Grün
 
@@ -132,7 +132,7 @@ Damit wird:
 * Zehn ist kleiner als Sechs : 10 < 6 : __Falsch__
 * Zehn ist gleich Zehn : 10 = 10 : __Wahr__
 * Acht ist gleich Neun : 8 = 9 : __Falsch__
- 
+
 
 ## Vergleiche 
 
@@ -145,7 +145,7 @@ und anstelle von "__Wahr__" in die Wenn-Dann reinsetzen
 Nun haben wir einen - __noch sinnlosen__ - Vergleich:
 
 
-![Wenn Dann Vergleich](./pics/13_WennDann_Vergleich.png){height=60%}
+![Wenn Dann Vergleich](./pics/13_WennDann_Vergleich.png){height=50%}
 
 
 ## Vergleich auf > grösser setzen
@@ -162,7 +162,7 @@ Nun nehmen wir zwei Werte in den Vergleich.
 Die Werte sind eigentlich egal, ich habe jetzt trotzdem mal 22 und 21 genommen, das wäre gut, wenn Ihr das auch macht, dann können wir später sehen warum...
 
 
-![Wenn Dann Groesser:True](./pics/15_WennDann_Groesser_True.png){height=60%}
+![Wenn Dann Groesser:True](./pics/15_WennDann_Groesser_True.png){height=50%}
 
 ## Vergleich ergibt grünes LED
 
@@ -193,17 +193,9 @@ __Download Hex-Code:__
 [Hex-code](code/mini-Wenn_Dann_RGB_Gruen.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_01_Auffrischen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_03_TemperaturSensor/index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf dieser Seite gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

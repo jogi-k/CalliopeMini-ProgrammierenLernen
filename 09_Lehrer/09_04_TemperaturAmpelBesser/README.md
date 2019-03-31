@@ -35,7 +35,7 @@ Und die Farben müssen wir natürlich auch noch anpassen.
 Um das Wenn-Dann - Konstrukt in der Programmier-Oberfläche zu erweitern, muss im "Wenn-Dann-Puzzle-Stück" das Zahnrädchen benutzt werden.  
 Das öffnet die Tool (= Werkzeug)-Box des Wenn-Dann-Puzzleteils.
 
- 
+
 ![ToolBox](./pics/01_ToolBox.png){height=60%}
 
 ## Erweiterung in der Programmier-Oberfläche
@@ -84,7 +84,7 @@ Dazu können wir mal versuchen, die Temperatur auf  > 26°C, also z.B. 30°C  ei
 
 Dazu eignet sich die __Schnecke__.   
 Die lässt das Programm im Simulator im Schneckentempo ablaufen und zeigt jeweils durch Hervorheben an, welcher Schritt gerade ausrchgeführt wird.
- 
+
 ## Ein Bug ( ein Fehler) !
 
 ![Bugsuche Schnecke](./pics/05_BugsucheSchnecke.png){height=60%}
@@ -150,9 +150,9 @@ Nun ziehen wir also unsere Vergleichs-Puzzle-Teile und unsere RGB-LED-Farben-Set
 und setzen es wie angedacht wieder zusammen.
 
 ![Neue Struktur Und Geht](./pics/07_NeueStrukturUndGeht.png){height=60%}
- 
+
  Wenn wir nun die Temperatur mit der Maus im Simulator ändern, dann sehen wir, dass die Farb-Anzeige unsere LED wir gewünscht funktioniert.
-  
+
 
 ## Download in der Calliope
 
@@ -199,16 +199,9 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser03.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_04_TemperaturAmpel/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf dieser Seite gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

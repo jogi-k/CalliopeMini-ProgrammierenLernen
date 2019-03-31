@@ -130,17 +130,9 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser01.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_02_Wenn-Dann/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_04_TemperaturAmpel/index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf dieser Seite gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

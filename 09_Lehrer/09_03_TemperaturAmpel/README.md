@@ -18,9 +18,9 @@ Dazu bauen wir das vorher "beiseite" gelegte __Wenn-Dann__ wieder ein.
 ## Verwendung sinnvoller Werte
 
 
- 
+
  Wir möchten im ersten Schritt, "__Alles im Grünen Bereich__" anzeigen, wenn die Temperatur eine __gute__ Temperatur hat.
- 
+
  Dazu sagen wir : Alles was grösser 21 °C ist, ist gut. 
 
 ![ Thermometer ](./pics/thermometer1.png){height=60%}
@@ -119,18 +119,10 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser02.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_03_TemperaturSensor/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_05_TemperaturAmpelBesser/index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf dieser Seite gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
