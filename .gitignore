@@ -10,5 +10,6 @@ makefile
 makefile.newtemplate
 makefile.chap.newtemplate
 makefile.day.newtemplate
+makefile.overall.newtemplate
 *.pdf
 *.html

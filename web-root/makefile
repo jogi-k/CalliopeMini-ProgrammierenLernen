@@ -5,8 +5,8 @@ all: index.html
 
 
 
-index.html: README.md 
-	pandoc -t html README.md kurs_html.md -c pandoc.css -s -o index.html 
+index.html: WEBROOT.md 
+	pandoc -t html WEBROOT.md kurs_html.md -c pandoc.css -s -o index.html 
 
 
 
