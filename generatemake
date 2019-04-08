@@ -9,7 +9,8 @@ echo "texheader   := $(pwd)/header.tex" > makefile.chap.newtemplate
 cat makefile.chap.template >> makefile.chap.newtemplate
 echo "texheader   := $(pwd)/header.tex" > makefile.day.newtemplate
 cat makefile.day.template >> makefile.day.newtemplate
-
+echo "texheader   := $(pwd)/header.tex" > makefile.overall.newtemplate
+cat makefile.overall.template >> makefile.overall.newtemplate
 
 # Step 3: Search all READMEs, there we need the makefile and then execute make
 find . -name "README.md" -exec dirname {}  \;  > directories
@@ -25,3 +26,12 @@ find . -name "level.day" -exec dirname {}  \;  > days
 while read DAY ; do cp makefile.day.newtemplate "$DAY/makefile" ; done < days
 
  
+# Step 7: Overwrite top-level-makefile 
+cp makefile.overall.newtemplate makefile 
+
+# Announce next steps 
+echo "makefiles created"
+echo "Either call generatedocs from here or go to the responsible directory and call make there"
+
+
+
