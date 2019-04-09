@@ -8,13 +8,15 @@ Dies ist die Sammlung von
 * etc ...
 
 für die Kurse in der Turbine Brunnen:  
-<https://www.turbine-brunnen.ch>>
+<https://www.turbine-brunnen.ch>
 
-Die Texte sind alle als Markdown abgespeichert, in allen Unterverzeichnissen jeweils als READM.md.
+Die Texte sind alle als Markdown abgespeichert, in allen Unterverzeichnissen jeweils als README.md.
+Hier auf der Haupt-Übersichts-Seite ist das Gesamt-Verzeichnis in der Datei : GESAMTKURS.md  
 
-Daraus entstehen per '''pandoc''' dann einerseits Folien im PDF-Format mit Hilfe von Latex-Beamer,  
+
+Daraus entstehen per ```pandoc``` dann einerseits Folien im PDF-Format mit Hilfe von Latex-Beamer,  
 andererseits auch direkt HTML-Seiten.  
-Diese werden auf <www.calliope-jogi.org> gehostet.
+Diese werden auf <http://www.calliope-jogi.org> gehostet.
 
 Um aus diesem Repository die Folien / HTM-seiten zu generieren braucht es folgende Tools:
 
@@ -25,10 +27,15 @@ Um aus diesem Repository die Folien / HTM-seiten zu generieren braucht es folgen
 
 Nach dem Clonen des Repos muss im Hauptverzeichnis das Tool:
 
-* '''./generatemake''' aufgerufen werden, das generiert die ganzen Makefiles
-* '''./generatedocs''' aufgerufen werden, das wandert durch die Verzeichnis-Struktur und macht die Folien/HTMLs via make. 
+* ```./generatemake``` aufgerufen werden, das generiert die ganzen Makefiles
+* Anschliessend kann man entweder:
 
-Achtung, ausser 01_Tag1 und 09_Lehrer gibt es dabei für die HTML-Seiten  noch Fehler, das korrigiere ich jeweils in der Vorbereitung für den nächsten Kurstag dann mit...
+    * Auf dem top-levev ```./generatedocs``` aufrufen, das wandert durch die Verzeichnis-Struktur und macht die Folien/HTMLs via make. 
+    * Oder in den jeweiligen Unter-Verzeichnissen einzeln make aufrufen
+
+* Auf Tages-Ebene gibt es noch kein rekursives make, dass muss ich mal umstellen ...
+
+Achtung, ausser 01_Tag1 und 09_Lehrer gibt es dabei für die HTML-Seiten noch Fehler, das korrigiere ich jeweils in der Vorbereitung für den nächsten Kurstag dann mit...
 
  
 
