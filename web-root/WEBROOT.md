@@ -8,3 +8,4 @@
 
 * [Kurs Programmieren für Kinder, Sommer 2018](kurse/2018_Sommer/index.html)
 * [Kurs Programmieren für Lehrer Herrengasse, März 2019](kurse/2019_Lehrer/index.html)
+* [Kurs Programmieren für Kinder, Frühjahr 2019](kurse/2019_Fruehjahr/index.html)
