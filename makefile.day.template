@@ -14,7 +14,7 @@ ${PWD##*/}
 kurs_all.md: makefile 
 	echo "---" > kurs_all.md
 	echo "title: \"${current_dir}\"" >> kurs_all.md
-	echo "subtitle: \"Calliope-Kurs (Lehrer Herrengasse)\"" >> kurs_all.md
+	echo "subtitle: \"Calliope-Kurs Kinder \"" >> kurs_all.md
 	echo "author: Jogi Künstner, Turbine Brunnen" >> kurs_all.md
 	echo "date: Frühjahr 2019" >> kurs_all.md
 
