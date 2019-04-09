@@ -1,12 +1,11 @@
-texheader   := /home/jogi/work/CalliopeMini-ProgrammierenLernen/header.tex
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
 all: index.html
 
 
 
-index.html: README.md kurs_html.md 
-	pandoc -t html kurs_html.md README.md -c pandoc.css -s -o index.html 
+index.html: GESAMTKURS.md kurs_html.md 
+	pandoc -t html kurs_html.md GESAMTKURS.md -c pandoc.css -s -o index.html 
 
 
 
@@ -20,26 +19,9 @@ kurs_all.md: makefile
 	echo "author: Jogi Künstner, Turbine Brunnen" >> kurs_all.md
 	echo "date: Frühjahr 2019" >> kurs_all.md
 
-kurs_1610.md: makefile kurs_all.md
-	cat kurs_all.md > kurs_1610.md
-	echo "output: beamer_presentation" >> kurs_1610.md
-	echo "classoption: \"aspectratio=1610\"" >> kurs_1610.md
-	echo "---"       >> kurs_1610.md
-
-
-kurs_A4.md: makefile kurs_all.md
-	cat kurs_all.md > kurs_A4.md
-	echo "output: beamer_presentation" >> kurs_A4.md
-	echo "classoption: \"aspectratio=141\"" >> kurs_A4.md
-	echo "---"       >> kurs_A4.md
 
 kurs_html.md: makefile kurs_all.md
 	cat kurs_all.md > kurs_html.md
 	echo "---"       >> kurs_html.md
 
-download.md: makefile
-	echo "## Download Folien" > download.md
-	echo " " >> download.md
-	echo "[Download Kursteil: ${current_dir} als DinA4-PDF-Folien](${current_dir}_A4.pdf)<br>" >> download.md
-	echo "[Download Kursteil: ${current_dir} als PDF-Folien im 16:10-Format](${current_dir}_1610.pdf)" >> download.md
 	

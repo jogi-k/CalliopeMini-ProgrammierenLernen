@@ -1,6 +1,6 @@
 # Calliope-Programme zum Programmieren Lernen
     
-![Animierter Calliope](06_Tag4/06_02_Schleifen/pics/01_CalliopeQuadrat.gif)
+![Animierter Calliope](01_CalliopeQuadrat.gif)
 
 Dies ist die Sammlung für den Kurs in der Turbine :  
 __Basteln, Programmieren Lernen und Elektronik Grundlagen mit Calliope-Mini__  
