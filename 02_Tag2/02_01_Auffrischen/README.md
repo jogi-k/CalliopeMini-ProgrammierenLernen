@@ -15,9 +15,9 @@ Wenn am Anfang der Endlosschleife z.B. Zahlen festgelegt werden und diese Zahlen
 
 ## "Ausgegraut"
 
-* Blöcke die nicht funktionieren, weil sie in keiner" Ausführ-Schleife" eingeklickt sind,  sind "ausgegraut ".  
+* Blöcke die nicht funktionieren, weil sie in keiner "Ausführ-Klammer" eingeklickt sind,  sind "ausgegraut ".  
 * Sie werden nicht ausgeführt.
-* Sobald ein Block in einer "Ausführschleife" eingeklickt ist, erhält er seine normale Farbe und wird dann auch ausgeführt.
+* Sobald ein Block in einer "Ausführklammer" eingeklickt ist, erhält er seine normale Farbe und wird dann auch ausgeführt.
 
 ![](./pics/02_Ausgrauen.png){height=50%}
 
@@ -28,8 +28,8 @@ Neben der Endlos/Dauerhaft-Schleife gibt es noch einige andere Möglichkeiten, P
 
 __Gemeinsamkeit__ :
 
-* Alle sind als Klammern dargestellt, sie umklammern die Programm-Blöcke die ausgeführt werden.  
-* Aber Achtung: Nur bei der Dauerhaft-Endlos-Schleifen-Klammer, werden die Programm-Teile dauerhaft aus geführt.  
+* Alle sind als "Klammern" dargestellt, sie umklammern die Programm-Blöcke die ausgeführt werden.  
+* Aber Achtung: Nur bei der Dauerhaft-Endlos-Schleifen-Klammer, werden die Programm-Teile dauerhaft ausgeführt.  
 * Bei allen anderen Start-Möglichkeiten, werden die Programmblöcke nur einmal ausgeführt.
 
 ## Andere Startmöglichkeiten (2)
@@ -67,14 +67,14 @@ __Gemeinsamkeit__ :
 
 \colEnd
 
-## Zeichenkette <=> Zahlen
+## Zeichenfolgen <=> Zahlen
 
-* Beim Ausgeben auf unserem Mini-Bildschirm können wir unterscheiden zwischen Zeichenketten und Zahlen.  
-* Mit Zeichenketten kann man Buchstaben, Wörter oder auch ganze Sätze ausgeben. 
+* Beim Ausgeben auf unserem Mini-Bildschirm können wir unterscheiden zwischen Zeichenfolgen und Zahlen.  
+* Mit Zeichenfolgen kann man Buchstaben, Wörter oder auch ganze Sätze ausgeben. 
 * Man kann auch einzelne Zahlen ausgeben
 * Grosser Unterschied:
      * Mit den Zahlen kann man rechnen
-     * Mit den Zeichenketten kann man nicht rechnen
+     * Mit den Zeichenfolgen kann man nicht rechnen
 
 ![](./pics/06_Zeichen-Zahlen.png){height=30%}
 
@@ -156,15 +156,8 @@ Die Art der Rechnung kann man im Nachhinein auch immernoch durch Klick in das Dr
 
 
 
-## Navigation
-
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../02_02_Elektronik_Spannungsquelle/index.html)
-
-
-
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf dieser Seite/Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

@@ -19,11 +19,12 @@ Dazu lernen wir den Umgang mit Ein und Ausgängen, den so genannten Ports und ve
 ### Die einzelnen Kapitel
 
 * [01 Auffrischen](02_01_Auffrischen/index.html)
-* [02 Elektronik Spannungsquellen](02_02_Elektronik_Spannungsquelle/index.html)
-* [03 Elektronik Verbraucher](02_03_Elektronik_Verbraucher/index.html)
-* [04 Elektronik Stromkreis](02_04_Elektronik_Stromkreis/index.html)
-* [05 Elektronik Action](02_05_Elektronik_Action/index.html)
-* [06 BatterieTester](02_06_BatterieTester/index.html)
+* [02 Auffrischen Do-It](02_02_Auffrischen_DoIt/index.html)
+* [03 Elektronik Spannungsquellen](02_03_Elektronik_Spannungsquelle/index.html)
+* [04 Elektronik Verbraucher](02_04_Elektronik_Verbraucher/index.html)
+* [05 Elektronik Stromkreis](02_05_Elektronik_Stromkreis/index.html)
+* [06 Elektronik Action](02_06_Elektronik_Action/index.html)
+* [07 Externe LEDs](02_07_ExterneLED/index.html)
 
 
 ## Weitere Schritte / Linksammlung 
@@ -44,5 +45,3 @@ Wichtiger ist, dass Ihr den Umgang mit den Ports und den Umgang mit Variablen ve
 * [Homepage des Calliope Mini](https://calliope.cc/)
 * [Schulmaterial zum Calliope Mini](https://calliope.cc/schulen/schulmaterial) Hier findet sich unter anderem ein ganzes Buch im PDF-Format zum Calliope Mini! Das eignet sich einerseits zum Selbst-Lernen andererseits auch als Ideengeber für den restlichen Kurs, Nachmittag 3 und 4 sind noch nicht vollständig ausgearbeitet. Wenn Ihr also etwas zusammen im Kurs in Teil 3 oder 4 machen wollt, dann meldet Euch bei Jogi.
  
-
-
