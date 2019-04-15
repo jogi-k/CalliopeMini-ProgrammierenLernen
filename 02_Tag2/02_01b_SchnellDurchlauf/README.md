@@ -771,7 +771,7 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 \colEnd
 
 
-##  Selection_041.png
+##  Umwandlung in Auf/Ab-Zähler
 
 \colA{6cm}
 
@@ -779,12 +779,13 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colB{6cm}
 
-__Selection_041.png__
+* Alles innerhalb des __dauerhaft__ -Startblocks 
+* herausziehen
 
 \colEnd
 
 
-##  Selection_042.png
+##  Herausgezogen
 
 \colA{6cm}
 
@@ -792,12 +793,13 @@ __Selection_041.png__
 
 \colB{6cm}
 
-__Selection_042.png__
+* Unten ab __zeige Nummer __
+* auch noch wegziehen
 
 \colEnd
 
 
-##  Selection_043.png
+##  Oberer Teil : Mülleiemer 
 
 \colA{6cm}
 
@@ -805,25 +807,14 @@ __Selection_042.png__
 
 \colB{6cm}
 
-__Selection_043.png__
+* den ganzen oberen Teil ab
+* __zeige Nummer__ bis
+* __pausiere ms__ 500 kann direkt in den Müll gezogen werden
 
 \colEnd
 
 
-##  Selection_044.png
-
-\colA{6cm}
-
-![](./pics/Selection_044.png){height=90%}
-
-\colB{6cm}
-
-__Selection_044.png__
-
-\colEnd
-
-
-##  Selection_045.png
+##  Oberer Teil : gelöscht
 
 \colA{6cm}
 
@@ -831,12 +822,14 @@ __Selection_044.png__
 
 \colB{6cm}
 
-__Selection_045.png__
+* der ganze obere Teil wurde in den __Mülleimer__ gezogen
+* der untere Teile ab __zeige Nummer__ wird wieder
+* in den __dauerhaft__ Block eingeklickt
 
 \colEnd
 
 
-##  Selection_046.png
+##  Rausziehen Addition
 
 \colA{6cm}
 
@@ -844,12 +837,12 @@ __Selection_045.png__
 
 \colB{6cm}
 
-__Selection_046.png__
+* Nun wird die __Addition__ nochmal rausgezogen
 
 \colEnd
 
 
-##  Selection_047.png
+##  Variable zurückschieben
 
 \colA{6cm}
 
@@ -862,7 +855,7 @@ __Selection_047.png__
 \colEnd
 
 
-##  Selection_048.png
+##  Variable zurück, Addition : Müll
 
 \colA{6cm}
 
@@ -870,12 +863,14 @@ __Selection_047.png__
 
 \colB{6cm}
 
-__Selection_048.png__
+* Die Variable __Variable1__ ist wieder in 
+* __zeige Nummer__
+* Die __Addition__ kann in den Müll
 
 \colEnd
 
 
-##  Selection_049.png
+##  Addition im Müll
 
 \colA{6cm}
 
@@ -883,12 +878,12 @@ __Selection_048.png__
 
 \colB{6cm}
 
-__Selection_049.png__
+* __Addition__ wird in den __Müll__ geschoben
 
 \colEnd
 
 
-##  Selection_050.png
+##  Variablen anpassen/löschen
 
 \colA{6cm}
 
@@ -896,12 +891,15 @@ __Selection_049.png__
 
 \colB{6cm}
 
-__Selection_050.png__
+* wir wollen nur noch __Variable1__ haben
+* __beim Start__ : den Teil mit Variable2 löschen
+* __wenn geschüttelt__ :den Teil mit Variable2 löschen
+* __wenn Knopf B__ : Variable auf __Variable1__ ändern
 
 \colEnd
 
 
-##  Selection_051.png
+##  Unnötiges löschen
 
 \colA{6cm}
 
@@ -909,12 +907,12 @@ __Selection_050.png__
 
 \colB{6cm}
 
-__Selection_051.png__
+* Alles unnötige kommt in den __Müll__
 
 \colEnd
 
 
-##  Selection_052.png
+##  Nur noch Variable 1
 
 \colA{6cm}
 
@@ -922,12 +920,12 @@ __Selection_051.png__
 
 \colB{6cm}
 
-__Selection_052.png__
+* Nun ist nur noch __Variable1__ benutzt
 
 \colEnd
 
 
-##  Selection_053.png
+##  Umbenennen
 
 \colA{6cm}
 
@@ -935,12 +933,13 @@ __Selection_052.png__
 
 \colB{6cm}
 
-__Selection_053.png__
+* Durch Klick auf das __Dreieich__
+* Kann die Variable __umbenannt__ werden
 
 \colEnd
 
 
-##  Selection_055.png
+##  Neuer Namen: Zaehler
 
 \colA{6cm}
 
@@ -948,12 +947,12 @@ __Selection_053.png__
 
 \colB{6cm}
 
-__Selection_055.png__
+* umbenennen in __Zaehler__
 
 \colEnd
 
 
-##  Selection_056.png
+##  Alle Verwendungen umbenannt
 
 \colA{6cm}
 
@@ -961,12 +960,13 @@ __Selection_055.png__
 
 \colB{6cm}
 
-__Selection_056.png__
+* Durch das Umbenennen sind alle __Variable1__ 
+* umbenannt auf __Zaehler__
 
 \colEnd
 
 
-##  Selection_057.png
+##  Knopf A : eins abziehen
 
 \colA{6cm}
 
@@ -974,12 +974,33 @@ __Selection_056.png__
 
 \colB{6cm}
 
-__Selection_057.png__
+* __ändere Zaehler um -1__
 
 \colEnd
 
 
-##  Selection_058.png
+
+## -1 = eins abziehen
+
+\colA{6cm}
+
+![](pics/Selection_060.png){height=90%}
+
+\colB{6cm}
+
+* bei __ändere Zaehler um__
+* in das Zahlenfeld eine __-1__ eingeben
+* Fertig ist der Auf/Ab-Zähler
+
+\colEnd
+
+
+
+
+
+
+
+##  Speichern
 
 \colA{6cm}
 
@@ -987,33 +1008,9 @@ __Selection_057.png__
 
 \colB{6cm}
 
-__Selection_058.png__
+* Speichern als __Zaehler__
+* vom Download-Ordner auf den __Calliope__ programmieren
 
 \colEnd
 
-
-##  Selection_059.png
-
-\colA{6cm}
-
-![](./pics/Selection_059.png){height=90%}
-
-\colB{6cm}
-
-__Selection_059.png__
-
-\colEnd
-
-
-##  Selection_060.png
-
-\colA{6cm}
-
-![](./pics/Selection_060.png){height=90%}
-
-\colB{6cm}
-
-__Selection_060.png__
-
-\colEnd
 
