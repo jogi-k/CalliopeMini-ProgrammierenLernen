@@ -4,8 +4,8 @@ all: index.html
 
 
 
-index.html: README.md kurs_html.md navigation.md download.md
-	pandoc -t html kurs_html.md README.md navigation.md -c ../pandoc.css -s -o index.html 
+index.html: README.md kurs_html.md 
+	pandoc -t html kurs_html.md README.md -c ../pandoc.css -s -o index.html 
 
 
 ${PWD##*/}

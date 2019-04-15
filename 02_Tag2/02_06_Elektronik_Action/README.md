@@ -81,13 +81,6 @@ Nach dem Kurzschluss, bei dem die Sicherung durchbrennt, ist unser "Calliope", d
 * Kurzschlüsse können auch bei unseren kleinen Spannungen einiges anrichten!
 
 
-## Navigation
-
-* [Zurück ](../02_04_Elektronik_Stromkreis/index.html)
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../02_06_BatterieTester/index.html)
-
-
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
 

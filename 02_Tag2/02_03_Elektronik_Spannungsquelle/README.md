@@ -242,12 +242,6 @@ https://www.youtube.com/watch?v=Je22SgH8TCk
 
 Mehr Links auf der  [Übersicht](../index.html) 
 
-## Navigation
-
-* [Zurück ](../02_01_Auffrischen/index.html)
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../02_03_Elektronik_Verbraucher/index.html)
-
 
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:

@@ -155,12 +155,6 @@ Unser Verbaucher wird wahrscheinlich einfach gar __nicht__ oder nicht ganz wie e
 * Ist die Spannungsquelle zu klein, wir meist nichts passieren, aber auch nichts "funktionieren"
 
 
-## Navigation
-
-* [Zurück ](../02_03_Elektronik_Verbraucher/index.html)
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](..//02_05_Elektronik_Action/index.html)
-
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
 

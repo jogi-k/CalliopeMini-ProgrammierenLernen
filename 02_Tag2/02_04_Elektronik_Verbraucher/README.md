@@ -91,12 +91,6 @@ So wie bei den Spannungs-Quellen, den Wasserfällen, die es in sehr verschiedene
 (https://pixabay.com/de/wasserrad-holz-bach-modell-778801 , CC0 Creative Commons )
 \end{tiny}     
 
-## Navigation
-
-* [Zurück ](../02_02_Elektronik_Spannungsquelle/index.html)
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter ](../02_04_Elektronik_Stromkreis/index.html)
-
 
 ## Lizenz/Copyright-Info
 Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
