@@ -25,6 +25,8 @@ Dazu lernen wir den Umgang mit Ein und Ausgängen, den so genannten Ports und ve
 * [05 Elektronik Stromkreis](02_05_Elektronik_Stromkreis/index.html)
 * [06 Elektronik Action](02_06_Elektronik_Action/index.html)
 * [07 Externe LEDs](02_07_ExterneLED/index.html)
+* [08 PINs](02_08_PINs/index.html)
+
 
 
 ## Weitere Schritte / Linksammlung 
