@@ -38,7 +38,7 @@ Das ist extrem beeindruckend für alle, die das sehen!
 * Wir hängen eine 5V-LED (z.B. mit eingebauten Vorwiderstand) an 3V CR2032
 * Wir hängen einen 5V Motor an eine 1.5 V Batterie
 
- 
+
 ## Was passiert, wenn der Verbraucher eine geringere Spannung hat als die Batterie
 
 * Das ist der Teil, der am meisten Spass macht...
@@ -82,10 +82,10 @@ Nach dem Kurzschluss, bei dem die Sicherung durchbrennt, ist unser "Calliope", d
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+Für alle Bilder auf dieser Seite/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
 
 * Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
 
-  
+
