@@ -1,5 +1,5 @@
 # Calliope-Programme zum Programmieren Lernen
-    
+
 ![Animierter Calliope](01_CalliopeQuadrat.gif)
 
 Dies ist die Sammlung für den Kurs in der Turbine :  
@@ -8,7 +8,7 @@ __Ausgabe für die den Kurs 2 ab April 2019__
 __Frühjahr 2019__  
 
 
-    
+​    
 
 ## Lektionen / Nachmittage
 
@@ -28,16 +28,19 @@ __Frühjahr 2019__
 
 
 
-<!---
-### [Lektion / Nachmittag  2](02_Tag2)
+### [Lektion / Nachmittag  2](02_Tag2/index.html)
 
 * [01: Auffrischen](02_Tag2/02_01_Auffrischen/index.html)
-* [02: Elektronik Spannungsquellen](02_Tag2/02_02_Elektronik_Spannungsquelle/index.html)
-* [03: Elektronik Verbraucher](02_Tag2/02_03_Elektronik_Verbraucher/index.html)
-* [04: Elektronik Stromkreis](02_Tag2/02_04_Elektronik_Stromkreis/index.html)
-* [05: Elektronik Action](02_Tag2/02_05_Elektronik_Action/index.html)
-* [06: BatterieTester](02_Tag2/02_06_BatterieTester/index.html)
+* [02: Auffrischen Do-It](02_Tag2/02_02_Auffrischen_DoIt/index.html)
+* [03: Elektronik Spannungsquellen](02_Tag2/02_03_Elektronik_Spannungsquelle/index.html)
+* [04: Elektronik Verbraucher](02_Tag2/02_04_Elektronik_Verbraucher/index.html)
+* [05: Elektronik Stromkreis](02_Tag2/02_05_Elektronik_Stromkreis/index.html)
+* [06: Elektronik Action](02_Tag2/02_06_Elektronik_Action/index.html)
+* [07: Externe LEDs](02_Tag2/02_07_ExterneLED/index.html)
+* [08: PINs](02_Tag2/02_08_PINs/index.html)
 
+
+<!---
 
 ### [Sommer-Hausaufgabe: Mathetrainer](03_Sommer)
 
@@ -45,7 +48,7 @@ __Frühjahr 2019__
 * [02: Lösung Teil1](03_Sommer/03_02_Teil1_Loesung/index.html)
 * [03: Hinweise Teil 2](03_Sommer/03_03_Teil2_Hinweise/index.html)
 * [04: Lösung Teil2](03_Sommer/03_04_Teil2_Loesung/index.html)
- 
+
 
 ### [Lektion / Nachmittag  3](04_Tag3)
 
@@ -84,8 +87,16 @@ __Frühjahr 2019__
 * [03 Der Lagesensor ](08_Tag5/08_03_LageSensor/index.html)
 * [04 Externer Lautsprecher](08_Tag5/08_04_ExternerLautsprecher/index.html)
 
-
 -->
+
+### Gesamt-Übersicht
+
+
+![](Calliope-Kurs_V2_April_2019.png)
+
+
+
+
 
 ### [Linksammlung](LinkSammlung)
 
