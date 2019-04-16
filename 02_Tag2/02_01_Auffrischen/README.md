@@ -8,7 +8,7 @@ Die Endlos-Schleife, wird wie Ihr Name auch schon sagt, dauerhaft oder endlos au
 
 ![](./pics/01_StartSchleife.png){height=40%}
 
-Sie ist normalerweise das Programm-Teil, in dem man das Programm komplett einhängt. 
+Sie ist normalerweise das Programm-Teil, in den man das Programm komplett einhängt. 
 __Aber Achtung:__
 Wenn am Anfang der Endlosschleife z.B. Zahlen festgelegt werden und diese Zahlen sich weiter unten im Programm ändern, dann werden diese Zahlen beim nächsten Ausführen der Schleife wieder überschrieben. 
 
@@ -21,7 +21,7 @@ Wenn am Anfang der Endlosschleife z.B. Zahlen festgelegt werden und diese Zahlen
 
 ![](./pics/02_Ausgrauen.png){height=50%}
 
- 
+
 ## Andere Startmöglichkeiten (1)
 
 Neben der Endlos/Dauerhaft-Schleife gibt es noch einige andere Möglichkeiten, Programm-Blöcke zu starten/ausgeführen.
@@ -49,7 +49,7 @@ __Gemeinsamkeit__ :
 \colB{6cm}
 
 ![](./pics/04_Puzzleteile.png){height=80%}
- 
+
 \colEnd
 
 ## Arbeitsbereich : Menu
@@ -81,7 +81,7 @@ __Gemeinsamkeit__ :
 
 ## Zahlen = Mathematik
 
-     
+
 Die Rechnungen, die wir benutzen ( Addition und Subtraktion) befinden sich alle unter :   
 __Mathematik__ 
 
@@ -115,7 +115,7 @@ Die Art der Rechnung kann man im Nachhinein auch immernoch durch Klick in das Dr
 
 
 ## Die Entwicklungs-Umgebung  
- 
+
 
 * Unterscheidung __Simulation__ und echter Calliope
 * Der simulierte Calliope ist links in der Entwicklungs-Umgebung

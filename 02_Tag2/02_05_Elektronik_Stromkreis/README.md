@@ -3,8 +3,8 @@
 ## Der Stromkreis (1)
 
 Im Stromkreis   
-   
-   
+
+
 ![](./pics/01_Stromkreis.png){height=60%}
 
 (das ist natürlich kein Stromkreis, das ist ein Kreis) 
@@ -88,7 +88,7 @@ __Zusammenfassung__ :
 * Geschlossener Stromkreis: Verbraucher läuft/Lampe leuchtet 
 * Offener Stromkreis: Verbraucher läuft nicht/Lampe leuchtet nicht
 * Dass eine Lampe leuchtet/nicht leuchtet zeigt man normalerweise in einem elektronischen Bild __NICHT__ an, aber wir können das schon tun...
- 
+
 ## Elemente müssen zusammenpassen
 
 Wenn nun also Spannungs-Lieferant und Verbraucher zusammenkommen ist es sehr wichtig, dass diese zusammenpassen.
@@ -101,7 +101,7 @@ Wir möchten ja weder, dass die zu starke Spannungsquelle unseren Verbraucher ze
 
 
 ![](./pics/09_niagara-falls-218591_1000.jpg){height=60%}
- 
+
 \begin{tiny}
 (https://pixabay.com/de/niagaraf%C3%A4lle-wasserfall-wasserkraft-218591 , CC0 Creative Commons)
 \end{tiny}     
@@ -116,7 +116,7 @@ Wir möchten ja weder, dass die zu starke Spannungsquelle unseren Verbraucher ze
 \colEnd
 
 Würde man versuchen, das kleine Wasserrad an den Niagara-Fällen zu betreiben, würde das Wasserrad das wohl nicht "überleben" 
- 
+
 ## Zu geringe Spannung  (1) 
 
 Ebenso möchten wir natürlich, dass sich unser Verbraucher "bewegt", oder leuchtet oder ...
@@ -156,7 +156,7 @@ Unser Verbaucher wird wahrscheinlich einfach gar __nicht__ oder nicht ganz wie e
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+Für alle Bilder auf diesen Seiten/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

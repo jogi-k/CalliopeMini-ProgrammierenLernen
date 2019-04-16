@@ -17,32 +17,32 @@ Sie verbrauchen den Strom, den die Batterie liefert.
 Beispiele - für unsere Zwecke - von Verbrauchern:
 
 ##  Eine kleines Birnchen.
- 
-![Fahrrad-Birnchen](pics/01_Birnchen.png){height=60%} 
+
+![](pics/01_Birnchen.png){height=60%} 
 
 ## Eine einzelne LED.
- 
+
 \colA{6cm}
-![LED](pics/02_LED.png){height=60%} 
+![](pics/02_LED.png){height=60%} 
 
 \colB{6cm}
-![LED](pics/03_LED.png){height=60%}
+![](pics/03_LED.png){height=60%}
 
 \colEnd
 
 ## Ein kleiner Servo-Motor
- 
-![Servo](pics/04_ServoMotor.jpeg){height=60%} 
-   
+
+![](pics/04_ServoMotor.jpeg){height=60%} 
+
 ## Ein kleiner Motor
- 
-![Motor](pics/04c_Motor.jpg){height=60%} 
+
+![](pics/04c_Motor.jpg){height=60%} 
 
 
 ## Ein "grässlicher" Summer 
 
 
-![Summer](pics/04b_Summer.jpg){height=60%} 
+![](pics/04b_Summer.jpg){height=60%} 
 
 ## Auch zwei Anschlüsse 
 
@@ -57,11 +57,11 @@ Manchmal funktioniert etwas einfach nicht, wenn man es falsch herum anschliesst,
 So wie bei den Spannungs-Quellen, die es in sehr unterschiedlichen Grössen gibt, muss man auch bei den Verbrauchern auf die Spannungs-Angaben und auf die Grössen achten.
 Diese Lampen hier:
 
-![Lampen ](pics/05_Lampen.png){height=60%} 
+![](pics/05_Lampen.png){height=60%} 
 
 sind ausgelegt für Spannungen von 220 V (Achtung, Steckdose!) bis herunter zu 3 V. 
 
- 
+
 ## Vergleich mit Wasser
 
 Um auch hier wieder den Vergleich mit Wasser zu bringen, können wir uns die Verbraucher als Wasser-Räder vorstellen.
@@ -69,23 +69,23 @@ Um auch hier wieder den Vergleich mit Wasser zu bringen, können wir uns die Ver
 So wie bei den Spannungs-Quellen, den Wasserfällen, die es in sehr verschiedenen Grössen gibt, gibt es eben auch Wasser-Räder in sehr unterschiedlichen Grössen.
 
 ## Ein sehr grosses Wasserrad 
- 
- 
-  ![Grosses Wasserrad ](pics/japan-826639_1000.jpg){height=60%} 
+
+
+  ![](pics/japan-826639_1000.jpg){height=60%} 
 
 \begin{tiny}
 (https://pixabay.com/de/japan-waterwheel-826639 , CC0 Creative Commons )
 \end{tiny}     
 
 ## Ein normales Wasserrad  
-  ![Grosses Wasserrad ](pics/mill-2909252_1000.jpg){height=60%} 
+  ![](pics/mill-2909252_1000.jpg){height=60%} 
 
 \begin{tiny}
-(https://pixabay.com/de/m%C3%BChle-wasserrad-alt-wasserkraft-2909252 CC0 Creative Commons )
+(https://pixabay.com/de/mhle-wasserrad-alt-wasserkraft-2909252 CC0 Creative Commons )
 \end{tiny}     
 
 ## Ein kleines Wasserrädchen  
-  ![kleines Wasserrad ](pics/waterwheel-778801_1000.jpg){height=60%} 
+  ![](pics/waterwheel-778801_1000.jpg){height=60%} 
 
 \begin{tiny}
 (https://pixabay.com/de/wasserrad-holz-bach-modell-778801 , CC0 Creative Commons )
@@ -93,7 +93,7 @@ So wie bei den Spannungs-Quellen, den Wasserfällen, die es in sehr verschiedene
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+Für alle Bilder und Texte auf diesen Seiten/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
 
 * Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

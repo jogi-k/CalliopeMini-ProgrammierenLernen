@@ -4,18 +4,18 @@
 
 ## Nochmals: Spannungen (1)
 
-Der Grund, warum wir uns überhaupt in den letzen Minuten/letzte halbe Stunde mit Elektronik-/Elektrotechnik-Grundlagen beschäftigt haben ist folgender:
+Der Grund, warum wir uns überhaupt in den letzen Minuten/letzte halbe Stunde mit Elektronik-/Elektrotechnik-Grundlagen beschäftigt haben, ist folgender:
 
 Der Calliope hat schon sehr viele Dinge (die wir auch noch genauer anschauen werden) auf dem Board. Aber manchmal reicht das nicht und man will etwas an den Calliope anschliessen.
 
-Und damit man dabei weder den Calliope noch das was man anschliesst, zerstört, haben wir ein paar Basis-Dinge gelernt.
+Und damit man dabei weder den Calliope, noch das was man anschliesst, zerstört, haben wir ein paar Basis-Dinge gelernt.,
 
 ## Nochmals: Spannungen (2)
 
-- Wenn Spannung von Lieferant und Verbraucher nicht übereintsimmen, dann funktioniert es nicht.
+- Wenn Spannung von Lieferant und Verbraucher nicht übereinstimmen, dann funktioniert es nicht.
 - Wenn die Spannung vom Lieferanten höher ist als das, was der Verbraucher "verträgt", dann muss damit gerechnet werden, dass der Verbraucher kaputtgeht.
 - Wenn die Spannung vom Lieferant kleiner ist, als das was der Verbraucher braucht/verträgt, dann ist i.A. der Schaden klein, es funktioniert einfach nicht!
-- Wenn man an den falschen Stellen Kabel zusammenbringt, dann verursacht man enen Kurzschluss.
+- Wenn man an den falschen Stellen Kabel zusammenbringt, dann verursacht man einen Kurzschluss.
 - Ein Kurzschluss führt dazu, dass viel Strom fliesst, was im guten Fall nur die Batterie erwärmt, im schlechten Fall geht dabei der Calliope kaputt oder die Batterie wird zu warm und fängt Feuer!
 
 __Also Vorsicht !__
@@ -120,7 +120,7 @@ So sieht unsere Ampel aus. Sie hat drei LEDs, die einzeln geschaltet werden kön
 
 
 
-## Volsständige Ampel mit Krokos
+## Vollständige Ampel mit Krokos
 
 ![](pics/P1110316.JPG){height=80%}
 
@@ -178,7 +178,7 @@ Da sieht die Ampel-Schaltung ein kleines bisschen anders aus:
 
 ## Lizenz/Copyright-Info
 
-Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
+Für alle Bilder auf diesen Seite/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
 
 - Autor: Jörg Künstner
 - Lizenz: CC BY-SA 4.0
