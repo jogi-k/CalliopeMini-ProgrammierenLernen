@@ -1,9 +1,9 @@
-# "Sommerferien-Hausaufgabe"
+# "Ferien-Hausaufgabe"
 
 ## Worum gehts
 
-Über die Sommerferien/am Ende der Sommerferien sollte noch eine kleine Auffrischungs-Aufgabe gelöst werden, deren Endprodukt dann auch gleich noch zum Auffrischen für die Schule dienen könnte...
- 
+Über die Ferien soll noch eine kleine Auffrischungs-Aufgabe gelöst werden, deren Endprodukt dann auch gleich noch zum Auffrischen für die Schule dienen könnte...
+
 ## Der "Kleines-Einmal-Eins" - Trainer.
 
 Beim Drücken des linken Knopfes soll Euch eine Multiplikations-Aufgabe aus dem kleinen Einmal-Eins gestellt werden, die Ihr dann selbst im Kopf lösen sollt.   
