@@ -54,16 +54,9 @@ Die meisten Tipps stehen schon in der Aufgabe selbst, hier nochmal die Menus, di
 
 
 
-## Navigation
-
-
-* [Hoch zur Übersicht](../index.html)  
-* [weiter zu Teil1 Lösung](../03_02_Teil1_Loesung/index.html)  
-
-
-
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Seiten/Folien gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
+
