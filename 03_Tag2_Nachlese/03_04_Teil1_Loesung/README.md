@@ -272,16 +272,10 @@ Der Zufallszahlen-Generator erzeugt zwischen 0 ... irgendwas, wir wollen 1 ... 1
 
 
 
-## Navigation
-
-* [zurück zu Teil2 Hinweise](../03_01_Teil1_Hinweise/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [weiter zu Teil2 Hinweise](../03_03_Teil2_Hinweise/index.html)  
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Seiten/Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

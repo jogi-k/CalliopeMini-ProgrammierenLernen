@@ -13,7 +13,7 @@
 ## Teil2, die Hinweise
 
 * Das meiste, was hier gemacht werden muss, wurde gerade auch schon in Teil 1 gemacht, darum hier nur zwei Hinweise:
-* Abfragen auf Knopf B gibt es nicht direkt im Menu, das muss man sich aus dem Menu mit Knopf A holen und dann per Drop-Down-Menu umstellen
+* Abfragen auf Knopf B gibt es nicht direkt im Menu, das muss man sich aus dem Menu mit Knopf A holen und dann per Drop-Down-Menu (das kleine Dreieck) umstellen
 
 ## Abfragen im Menu Eingabe
 
@@ -50,16 +50,8 @@
 * Auch das befindet sich im __Menu Mathematik__
 
 
-## Navigation
-
-* [zurückweiter zu Teil1 Lösung](../03_02_Teil1_Loesung/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [weiter zu Teil2 Lösung](../03_04_Teil2_Loesung/index.htmlm)  
-
-
-
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Seiten/Folien gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
