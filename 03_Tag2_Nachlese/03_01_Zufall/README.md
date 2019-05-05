@@ -102,6 +102,8 @@ __Benennen__ (zum Beispiel Wuerfel)
 
 ## Variable auf Arbeitsfläche
 
+Wir ziehen aus dem Menu Variablen "ändere Platzhalter" auf die Arbeitsfläche
+
 ![](pics/Selection_015.png){height=40%}
 
 richtige Variable __Wuerfel__ benutzen (am Dreieck auswählen)
@@ -148,9 +150,7 @@ Wir ziehen das auf den Arbeitsbereich:
 
 ![](pics/Selection_021.png){height=40%}
 
-
-
-und ändern die Variable:
+und ändern die Variable auf __Wuerfel__:
 
 ![](pics/Selection_022.png){height=40%}
 
@@ -190,7 +190,7 @@ und die 0 damit ersetzen
 
 Im Simulator kann man diesen Würfel nun ausprobieren  
 
-Mit der Maus über die Ecken fahren simuliert schütteln
+Mit der Maus über die Ecken fahren simuliert Schütteln
 
 
 
