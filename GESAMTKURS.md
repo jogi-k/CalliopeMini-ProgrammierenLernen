@@ -40,16 +40,18 @@ __Frühjahr 2019__
 * [08: PINs](02_Tag2/02_08_PINs/index.html)
 
 
+
+### [Ferien-Hausaufgabe: Mathetrainer](03_Tag2_Nachlese)
+
+* [01: Zufallszahlen Würfel](03_Tag2_Nachlese/03_01_Zufall/index.html)
+* [02: Die Aufgabe:Mathetrainer](03_Tag2_Nachlese/03_02_Die_Aufgabe/index.html)
+* [03: Hinweise Teil 1](03_Tag2_Nachlese/03_03_Teil1_Hinweise/index.html)
+* [04: Lösung Teil1](03_Tag2_Nachlese/03_04_Teil1_Loesung/index.html)
+* [05: Hinweise Teil 2](03_Tag2_Nachlese/03_05_Teil2_Hinweise/index.html)
+* [06: Lösung Teil2](03_Tag2_Nachlese/03_06_Teil2_Loesung/index.html)
+
+
 <!---
-
-### [Sommer-Hausaufgabe: Mathetrainer](03_Sommer)
-
-* [01: Hinweise Teil 1](03_Sommer/03_01_Teil1_Hinweise/index.html)
-* [02: Lösung Teil1](03_Sommer/03_02_Teil1_Loesung/index.html)
-* [03: Hinweise Teil 2](03_Sommer/03_03_Teil2_Hinweise/index.html)
-* [04: Lösung Teil2](03_Sommer/03_04_Teil2_Loesung/index.html)
-
-
 ### [Lektion / Nachmittag  3](04_Tag3)
 
 * [01: Auffrischen Variablen](04_Tag3/04_01_Auffrischen/index.html)
