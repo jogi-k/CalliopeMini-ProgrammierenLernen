@@ -1,4 +1,4 @@
-# Wiederholung / Auffrischen 
+# Wiederholung / Auffrischen Variablen
 
 
 ## Platzhalter / Variablen 
@@ -18,19 +18,19 @@ In der Programmierung sagt man:
 Vorstellen kann man sich das auch als Zuruf mit dem Megaphon:   
 Hey Du, __Variable_A__, merk Dir doch bitte mal die __2__!
 
-![Megaphon](./pics/Megaphon.jpg){height=60%}
+![](./pics/Megaphon.jpg){height=60%}
 
 ## Zuweisung an eine Variable
 
 Oder man stellt sich die Variable als Obstkorb vor, der mit Äpfeln "belegt" wird:
 
 Korb_A :
-![Korb_A_leer.png](./pics/Korb_A_leer.png){height=60%}
+![](./pics/Korb_A_leer.png){height=60%}
 
 ## Zuweisung an eine Variable
 
 Belege den Korb_A mit 2:
-![Korb_A_2_Apfel_Hand.png](./pics/Korb_A_2_Apfel_Hand.png){height=60%}
+![](./pics/Korb_A_2_Apfel_Hand.png){height=60%}
 
 ## Zuweisung an eine Variable
 
@@ -42,7 +42,7 @@ Zuweisung an __Variable_A__, die Variable steht auf der linken Seite des Gleichh
 
 Die Zuweisung an eine Variable in unsere Calliope-Programmier-Sprache sieht so aus:
 
-![Zuweisung ](./pics/Variable_A_belegen.png){height=60%}
+![](./pics/Variable_A_belegen.png){height=10%}
 
 
 ## Abfrage/Benutzen einer Variable
@@ -50,7 +50,7 @@ Die Zuweisung an eine Variable in unsere Calliope-Programmier-Sprache sieht so a
 So wie man sich vorher die Zuweisung mit einem Megaphon vorstellen kann, so kann man sich das Auslesen/Benutzen der Variable vorstellen, dass man mit einem altmodischen Hör-Rohr fragt:  
 Hey Du, __Variable_A__, was war es, was Du Dir vorher merken solltest? Sag es mir doch bitte.
 
-![Hoerrohr.jpg](./pics/Hoerrohr.jpg){height=60%}
+![](./pics/Hoerrohr.jpg){height=60%}
 
 
 ## Abfrage/Benutzen einer Variable
@@ -58,7 +58,7 @@ Hey Du, __Variable_A__, was war es, was Du Dir vorher merken solltest? Sag es mi
 Oder man stellt sich vor, wie man in den Obstkorb reinschaut, wieviele Äpfel denn dort drin sind, man __fragt__ die __Belegung ab__:
 
 Was ist der Inhalt von Korb_A :
-![Korb_A_2_Apfel_Auge.png](./pics/Korb_A_2_Apfel_Auge.png){height=60%}
+![](./pics/Korb_A_2_Apfel_Auge.png){height=60%}
 
 ## Abfrage/Benutzen einer Variable
 
@@ -72,13 +72,13 @@ In einer "normalen" Programmiersprache wird das üblicherweise z.B. so dargestel
 
 * Variable_B = __Variable_A__ 
    
-   * Der Wert der Variable: __Variable_A__ wird erfragt, sie steht auf der rechten Seite des Gleichheitszeichens.
+    * Der Wert der Variable: __Variable_A__ wird erfragt, sie steht auf der rechten Seite des Gleichheitszeichens.
 
 ## Abfrage/Benutzen einer Variable
 
 In unserer grafischen Calliope-Programmiersprache wird das Benutzen der Variable einfach durch das Puzzleteil mit der Variable dargestellt:
 
-![Benutzung ](./pics/Variable_A_benutzen.png){height=40%}
+![](./pics/Variable_A_benutzen.png){height=15%}
 
 ## Abfrage/Benutzen einer Variable
 
@@ -91,7 +91,7 @@ Dieses einzelne Puzzleteil kann man dann irgendwo anstatt festen Werten einklick
     * die __Variable_B__ wird mit dem selben Wert belegt.
 
  
- * ![Benutzung ](./pics/Variable_A_benutzen_in_Zuweisung.png){height=20%}
+* ![](./pics/Variable_A_benutzen_in_Zuweisung.png){height=10%}
 
 
 ## Ein paar Rechnungen
@@ -130,7 +130,7 @@ __Korb_B = 1__
 
 __Korb_C = Korb_A + Korb_B__
 
-![Korb_C  = Korb_A + Korb_B](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=60%}
+![](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=60%}
 
 
 
@@ -155,11 +155,11 @@ __Korb_C = Korb_A + Korb_B__
 
 __Korb_B = Korb_B + 1__
 
-![Korb_B = Korb_B + 1](./pics/Call_Korb_B_eq_Korb_B_plus_1.png){height=40%}
+![](./pics/Call_Korb_B_eq_Korb_B_plus_1.png){height=40%}
 
 oder andere Möglichkeit, die auch leider einfach mit dem Setzen einer Variable zu verwechseln ist:
 
-![Korb_B erhöhen um 1](./pics/Call_Korb_B_inc_1.png){height=20%}
+![](./pics/Call_Korb_B_inc_1.png){height=20%}
 
  
 ## Was enthält nun Korb C? 
@@ -172,7 +172,7 @@ __NEIN!__
 Die Berechnung wurde vorher ausgeführt.  
 Das Ergebnis ändert sich nicht mehr.  
 Der Korb C enthält immer noch die 3.  
-Wir schauen nochmal nach :-) ![Korb_C mit 3 Apfel und Auge ](./pics/Korb_C_3_Apfel_Auge.png){height=20%}  
+Wir schauen nochmal nach :-) ![](./pics/Korb_C_3_Apfel_Auge.png){height=20%}  
 
 ## Korb A erhöhen um 1
 
@@ -180,11 +180,11 @@ Ebenso können wir nun natürlich Korb A um eins erhöhen
 
 __Korb_A = Korb_A + 1__
 
-![Korb_A = Korb_A + 1](./pics/Call_Korb_A_eq_Korb_A_plus_1.png){height=40%}
+![](./pics/Call_Korb_A_eq_Korb_A_plus_1.png){height=40%}
 
 oder andere Möglichkeit, die auch leider einfach mit dem Setzen einer Variable zu verwechseln ist:
 
-![Korb_A erhöhen um 1](./pics/Call_Korb_A_inc_1.png){height=20%}
+![](./pics/Call_Korb_A_inc_1.png){height=20%}
 
 
 ## Korb A erhöhen um 1
@@ -222,7 +222,7 @@ __Korb C = Korb A + Korb B__
 
 ist der vorherige Inhalt von Korb C egal! Er wird quasi vorher ausgeleert! 
    
- Also sieht unsere Korb-Rechnung nun so aus: 
+Also sieht unsere Korb-Rechnung nun so aus: 
 
 ## Antwort : Korb C = Summe Korb A + B 
  
@@ -236,69 +236,7 @@ ist der vorherige Inhalt von Korb C egal! Er wird quasi vorher ausgeleert!
 
 Und in Calliope-Rechnung sieht das ganz wieder genau gleich wie vorher aus:
 
-![Korb_C  = Korb_A + Korb_B](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=40%}
-
-## Mathematik 1
-
-Ich denke mit der mathematischen Formel beim letzten Mal, das ging etwas zu schnell...
-
-Darum hier nochmal ein paar Details dazu :
-
-__Allerwichtigst__ : Die Formel selbst braucht Ihr nicht zu verstehen, es geht nur darum eine - für Euch unbekannte - Formel in Programm-Code umzusetzen.
-
-
-## Mathematik 2
-
-Nochmal die Formel vom letzten Nachmittag:  
- 
-* ```Spannung in Millivolt = erhaltener Wert * 32 / 10```
-
-Um das in zwei Schritten umsetzen zu können, benutzen wir einen Hilfswert, wir brechen die Berechnung auf   
-Teil 1 der obigen Formel, vor dem "Geteilt durch"-Strich:
-
-* ```Hilfswert  = erhaltener Wert * 32```   
-
-Teil 2 der obigen Formel , das Teilen durch 10:   
-
-* ```Spannung in Millivolt = Hilfswert  / 10```    
-
-
-## Mathematik 3
-
-
-Diese mathematische Formel kann man nun recht einfach auch in zwei Schritten im Calliope umsetzen:
-
-![Berechnung mit Hilfswert am Calliope](./pics/Call_Berechnung_mit_Hilfsvariable.png){height=30%}
-
-
-Diese Berechnung sieht nun um einiges einfacher aus, als die Darstellung von der letzten Stunde:
-
-![Berechnung ohne Hilfswert am Calliope](./pics/Call_Berechnung_ohne_Hilfsvariable.png){height=30%}
-
-
-## Spannung / Verbraucher 1
-
-Hier nur die wichtigsten Dinge bezüglich Spannung / Verbraucher vom letzten Nachmittag:
-
-* Die Steckdose ist __tabu__ ! 
-* Unsere Spannungs-Bereiche liegen zwischen 1.5 Volt und ca 12 Volt, die Steckdose hat __220 Volt__
-* Der Calliope arbeitet normalerweise mit 3.3 Volt
-* Die Grösse einer Batterie sagt __NICHTS__ über ihre Spannung aus!
-
-## Spannung / Verbraucher 2
-
-* Spannung von Lieferant (Batterie) und Verbraucher (z.B. LED etc) müssen übereinstimmen
-* Bei Nichtübereinstimmung kann etwas kaputt gehen, wenn es dumm läuft ist das der Calliope
-* Kurzschluss heisst der Pluspol und der Minus-Pol eines Spannungs-Lieferanten werden zusammengehalten/"kurzgeschlossen"
-* Beim Kurzschluss geht üblicherweise etwas kaputt, wenn es dumm läuft, ist das der Calliope.
-
-
- 
-## Navigation
-
-
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_02_Wenn-Dann/index.html)  
+![](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=40%}
 
 
 
