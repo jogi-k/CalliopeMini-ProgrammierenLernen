@@ -83,7 +83,7 @@ Nun können wir das zuerst im Simulator ausprobieren, indem wir die Temperatur �
 Dazu können wir mal versuchen, die Temperatur auf  > 26°C, also z.B. 30°C  einzustellen und dann das Programm anschauen / beobachten.
 
 Dazu eignet sich die __Schnecke__.   
-Die lässt das Programm im Simulator im Schneckentempo ablaufen und zeigt jeweils durch Hervorheben an, welcher Schritt gerade ausrchgeführt wird.
+Die lässt das Programm im Simulator im Schneckentempo ablaufen und zeigt jeweils durch Hervorheben an, welcher Schritt gerade ausgeführt wird.
  
 ## Ein Bug ( ein Fehler) !
 
@@ -199,16 +199,10 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser03.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_04_TemperaturAmpel/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Bilder auf diesen Folien/Seiten gilt:
 
 *  Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
