@@ -155,11 +155,11 @@ Mit dem kleinen Dreieck beim Vergleich können wir nun denn kleiner-Vergleich au
 
 ![Wenn Dann Groesser](./pics/14_WennDann_Groesser.png){height=60%}
 
-## Vergleich auf sinnvole Werte
+## Vergleich auf sinnvolle Werte
 
 Nun nehmen wir zwei Werte in den Vergleich.
 
-Die Werte sind eigentlich egal, ich habe jetzt trotzdem mal 22 und 21 genommen, das wäre gut, wenn Ihr das auch macht, dann können wir später sehen warum...
+Die Werte sind eigentlich egal, ich habe 22 und 21 genommen, das wäre gut, wenn Ihr das auch macht, dann können wir später sehen warum...
 
 
 ![Wenn Dann Groesser:True](./pics/15_WennDann_Groesser_True.png){height=60%}
@@ -193,18 +193,11 @@ __Download Hex-Code:__
 [Hex-code](code/mini-Wenn_Dann_RGB_Gruen.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_01_Auffrischen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_03_TemperaturSensor/index.html)  
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Bilder auf diesen Folien/Seiten gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
