@@ -119,18 +119,12 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser02.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_03_TemperaturSensor/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_05_TemperaturAmpelBesser/index.html)  
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
 
-*  Autor: Jörg Künstner
+Für alle Bilder auf diesen Folien/Seiten gilt:
+
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
