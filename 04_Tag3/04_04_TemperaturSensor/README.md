@@ -77,7 +77,7 @@ Die Ausgabe kann noch etwas verbessert werden:
 
 ## Verbesserung der Anzeige
 
-Mit einem vereinfachten "__°C__" als Symbol und ein paar Delays und Bildschirmlöschen (das ist alles im Menu Grundlagen, zum Teil in "...Mehr" ) gibt die Anzeige dann schon was her.
+Mit einem vereinfachten "__°C__" als Symbol und ein paar "warte ms" und Bildschirmlöschen (das ist alles im Menu Grundlagen, zum Teil in "...Mehr" ) gibt die Anzeige dann schon was her.
 
 
 ![Verbesserte Anzeige](./pics/07_BessereAnzeige.png){height=60%}
@@ -130,18 +130,10 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser01.hex)
 
 
-## Navigation
-
-
-* [Zurück](../04_02_Wenn-Dann/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../04_04_TemperaturAmpel/index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Bilder auf diesen Folien/Seiten gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
