@@ -28,11 +28,12 @@ Und zum Abschluss verwenden wir das gewonnene Wissen um Temperatur, Wenn-Dann un
 
 ### Die einzelnen Kapitel
 
-* [01 Auffrischen: Variablen und Obstkörbe](04_01_Auffrischen/index.html)
-* [02 Etwas Logik: Wenn-Dann ](04_02_Wenn-Dann/index.html)
-* [03 Der Temperatur-Sensor](04_03_TemperaturSensor/index.html)
-* [04 Die RGB-Led, eine Temperatur-Ampel](04_04_TemperaturAmpel/index.html)
-* [05 Bessere Temperatur-Ampel/Fehlersuche](04_05_TemperaturAmpelBesser/index.html)
+* [01 Auffrischen: Variablen und Obstkörbe](04_01_Auffrischen_Variablen/index.html)
+* [02 Auffrischen: Ports / externe LED](04_02_Auffrischen_Ampel/index.html)
+* [03 Etwas Logik: Wenn-Dann ](04_03_Wenn-Dann/index.html)
+* [04 Der Temperatur-Sensor](04_04_TemperaturSensor/index.html)
+* [05 Die RGB-Led, eine Temperatur-Ampel](04_05_TemperaturAmpel/index.html)
+* [06 Bessere Temperatur-Ampel/Fehlersuche](04_06_TemperaturAmpelBesser/index.html)
 
 
 
