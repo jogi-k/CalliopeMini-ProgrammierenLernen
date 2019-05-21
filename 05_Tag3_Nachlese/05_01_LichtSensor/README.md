@@ -65,9 +65,9 @@ Da öffnet sich dann ein kleines Menu, in dem wir eine andere Variable benutzen 
 was wir aber gar nicht wollen, sondern wir wollen wirklich die Variable __AktuelleTemperatur__ umbenennen.  
 Dazu klicken wir also im Menu auf __Variable umbenennen__ 
 
-Nun öffnet sich ein Fenster, in dem wir die Variable umbenennen können, mein Vorschlag wäre : __AktuelleLichtstaerke__  
+Nun öffnet sich ein Fenster, in dem wir die Variable umbenennen können: __AktuelleLichtstaerke__  
 
-![](./pics/05_VariableUmbenennen.png){height=60%}
+![](./pics/05_VariableUmbenennen.png){height=50%}
 
 ## Alle Verwendungen umbenannt
 
@@ -92,16 +92,17 @@ Darum räumen wir den ganzen Rest zur Seite.
 
 __ACHTUNG__: Nicht löschen, nur zur Seite ziehen
 
-![](./pics/07_FreiRaeumen.png){height=60%}
+![](./pics/07_FreiRaeumen.png){height=70%}
 
 ## Sinnvolles Programm
 
-Nun haben wir also ein sinnvolles Programm, das wir zuerst im Simulator testen können (mit der Maus auf den kleinen Licht-Regler und dort das Licht ändern)  
+Sinnvolles Programm => im Simulator testen
+(mit der Maus auf den kleinen Licht-Regler und dort das Licht ändern)  
 
 ![](./pics/08_lichtMessen.png){height=60%}
 
-Wenn das zu unserer Zufriedenheit funktioniert, dann können wir es in den Calliope hochladen.  
-__ACHTUNG__: Wie vohin geschrieben, solten wir dem Programm einen sinnvolleren Namen geben, z.B. __LichtMesser01__
+Wenn das funktioniert, dann in den Calliope hochladen.  
+__ACHTUNG__: Bitte einen sinnvolleren Namen geben, z.B. __LichtMesser01__
 
 
 ## JavaScript-Code
@@ -110,6 +111,13 @@ __ACHTUNG__: Wie vohin geschrieben, solten wir dem Programm einen sinnvolleren N
  <summary>Java-Script-Code</summary>
 
 ```js
+
+let AktuelleLichtstaerke = 0
+basic.forever(() => {
+    AktuelleLichtstaerke = input.lightLevel()
+    basic.showNumber(AktuelleLichtstaerke)
+    basic.pause(500)
+})
 
 ```
 </details>
