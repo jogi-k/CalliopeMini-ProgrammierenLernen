@@ -22,7 +22,7 @@ Beim Abdecken des Calliope mit der Hand fallen die Werte dann sehr schnell auf c
 
 Nun bauen wir das vorher "zur Seite geschobene" Wenn-Dann-Konstrukt wieder ein und hängen es unten in unser Programm rein.  
 
-![Wenn-Dann](./pics/01_WennDann.png){height=60%}
+![](./pics/01_WennDann.png){height=60%}
 
 ## Wiedereinbau Wenn-Dann 
 
@@ -30,7 +30,7 @@ Der Rest (zeige LEDs und pausieren etc) ist "Müll",
 das brauchen wir wirklich nicht und können es zurück ins Menu schieben, 
 was ja gleichzeitig der Müll-Eimer ist, wenn man irgendwelche Puzzle-Teile aus dem Arbeits-Bereich rauszieht.
 
-![Rest kann weg](./pics/02_Benutzt_RestMuell.png){height=60%}
+![](./pics/02_Benutzt_RestMuell.png){height=60%}
 
 
 ## Tool/Werkzeug-Box bei Wenn-Dann
@@ -46,7 +46,7 @@ Wir wollen
 
 Zur Änderung des Wenn-Dann-Konstrukts öffnen wir wieder die Werkzeugbox durch das kleine Zahnrädchen.
 
-![Wenn-Dann Werkzeug](./pics/03_WennDannWerkzeug.png){height=60%}
+![](./pics/03_WennDannWerkzeug.png){height=60%}
 
 ## Tool/Werkzeug-Box bei Wenn-Dann
 
@@ -54,21 +54,21 @@ Zur Änderung des Wenn-Dann-Konstrukts öffnen wir wieder die Werkzeugbox durch 
 * Diesmal schieben wir von rechts nach links, das heisst wir machen unser Programm-Konstrukt viel kleiner
 * Wir brauchen weder das __SonstWenn__ noch das __Sonst__
 
-![Miniatur](./pics/04_Miniatur.png){height=60%}
+![](./pics/04_Miniatur.png){height=60%}
 
 ## Tool/Werkzeug-Box bei Wenn-Dann
 
 Wenn wir das alles in unserer kleinen Werkzeugbox geschoben haben, 
 sieht unser Ergebnis in gross so aus: 
 
-![Ergebnis in gross](./pics/05_ErgebnisInGross.png){height=60%}
+![](./pics/05_ErgebnisInGross.png){height=60%}
 
 
 ## Tool/Werkzeug-Box bei Wenn-Dann
 
 Wenn wir nun noch die jetzt überflüssig gewordenen Teile "entsorgen", dann haben wir ein kompaktes Zwischenprogramm:
 
-![Zwischen-Programm](./pics/06_ZwischenProgramm.png){height=60%}
+![](./pics/06_ZwischenProgramm.png){height=60%}
 
 ## Musik/Alarmton 
 
@@ -76,7 +76,7 @@ Das Menu Musik habt Ihr sicher alle schon gefunden, trotzdem hier nochmal der Hi
 
 Töne und Melodien befinden sich im Menu Musik:  
 
-![Menu Musik](./pics/07_MenuMusik.png){height=60%}
+![](./pics/07_MenuMusik.png){height=60%}
 
 ## Musik/Alarmton 
 
@@ -84,7 +84,7 @@ Wir können uns unseren Alarmton entweder aus einer Melodie direkt holen, oder a
 Für unsere Alarm-Anlage wollen wir das beispielhaft aus einzelnen Tönen zusammenbauen:    
 wir wollen ein __Martinshorn__, eine Polizeisirene nachbilden.
 
-![EinzelToene](./pics/08_EinzelToene.png){height=60%}
+![](./pics/08_EinzelToene.png){height=60%}
 
 ## Musik/Alarmton 
 
@@ -92,13 +92,13 @@ Dafür wird laut Wikipedia eine Quint empfohlen, zum Beispiel ein A und das näc
 Im Beispiel nehmen wir hier das mittlere A und das hohe D, aber da kann natürlich jeder für sich experimentieren.  
 __BITTE__ : Macht die Lautsprecher an Euren Laptops leise, wenn jetzt alle gleichzeitig eine Sirene bauen...
 
-![MartinsHorn](./pics/09_MartinsHorn.png){height=60%}
+![](./pics/09_MartinsHorn.png){height=60%}
 
 ## Musik/Alarmton 
 
 Wenn man die Tonfolge aus den beiden Tönen dreimal kopiert ergibt sich schon ein schöner Martinshorn-Klang:
 
-![MartinsHorn](./pics/10_MartinsHorn_3.png){height=60%}
+![](./pics/10_MartinsHorn_3.png){height=60%}
 
 ## Musik/Alarmton 
 
@@ -107,7 +107,7 @@ Das könne wir nun in den aktiven Bereich des Programms reinschieben und dann m�
 Bei meinen Messungen ergaben sich - wie gesagt - sinnvolle Werte um die 90  
 
 
-![Lichtstaerke anpassen](./pics/11_LichtstaerkeAnpassen.png){height=60%}
+![](./pics/11_LichtstaerkeAnpassen.png){height=60%}
 
 ## Musik/Alarmton 
 
@@ -117,13 +117,13 @@ Nun können wir noch die inzwischen unnötige Pause rausmachen:
 aber unser Programm läuft ja erst nach dem Töne machen weiter)  
 
 
-![Pause Raus](./pics/12_PauseRaus.png){height=60%}
+![](./pics/12_PauseRaus.png){height=60%}
 
 ## Das finale Programm 
 
 So sieht nun unser finales Programm aus:   
 
-![finales Programm](./pics/13_FinalesProgramm.png){height=60%}
+![](./pics/13_FinalesProgramm.png){height=60%}
 
 
 ## Das finale Programm 
@@ -162,16 +162,8 @@ __Download Hex-Code__
 [Hex-code](code/mini-LichtMesser02.hex)
 
 
-## Navigation
-
-
-* [Zurück zum Lichtsensor](../05_01_LichtSensor/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-
-
-
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Bilder auf diesen Folien/Seite gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
