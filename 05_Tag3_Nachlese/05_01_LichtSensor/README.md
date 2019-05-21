@@ -17,7 +17,7 @@ Auch diesen finden wir im Menu Eingabe.
 
 ## Sensor/Eingang/Input => Licht
 
-![LichtSensor-Menu](./pics/01_LichtSensorMenu.png){height=60%}
+![](./pics/01_LichtSensorMenu.png){height=60%}
 
 Diese Input-Variable ziehen wir uns einfach mal auf die Arbeitsfläche, damit wir sie zur Verfügung haben.
 
@@ -27,7 +27,7 @@ Diese Input-Variable ziehen wir uns einfach mal auf die Arbeitsfläche, damit wi
 Nun haben wir die __momentan unbenutzte__ Input-Variable  __Lichtstärke__ auf dem Arbeitsbereich rumliegen.
 
 
-![LichtSensor auf Arbeitsflaeche](./pics/02_LichtSensorArbeitsflaeche.png){height=60%}
+![](./pics/02_LichtSensorArbeitsflaeche.png){height=60%}
 
 
 ## Austausch Temperatur gegen Licht
@@ -35,7 +35,7 @@ Nun haben wir die __momentan unbenutzte__ Input-Variable  __Lichtstärke__ auf d
 Diese __tauschen__ wir nun in unserem Programm gegen die Temperatur-Input-Variable aus.  
 Wir ziehen die __Temperatur__ aus dem Programm raus in die Arbeitsfläche und klicken dafür die __Lichtstärke__ in das Programm ein
 
-![LichtSensor Drin](./pics/03_LichtSensorrDrin.png){height=60%}
+![](./pics/03_LichtSensorrDrin.png){height=60%}
 
 
 ## Variable umbenennen
@@ -57,7 +57,7 @@ Also benennen wir die Variable __AktuelleTemperatur__ in __AktuelleLichtstaerke_
 
 Dazu klicken wir auf das kleine Dreieck neben __AktuelleTemperatur__ mitten in unserem Programm
 
-![Variable Umbenennen](./pics/04_VariableUmbenennen.png){height=60%}
+![](./pics/04_VariableUmbenennen.png){height=60%}
 
 ## Variable umbenennen
 
@@ -67,12 +67,14 @@ Dazu klicken wir also im Menu auf __Variable umbenennen__
 
 Nun öffnet sich ein Fenster, in dem wir die Variable umbenennen können, mein Vorschlag wäre : __AktuelleLichtstaerke__  
 
-![Variable Umbenennen](./pics/05_VariableUmbenennen.png){height=60%}
+![](./pics/05_VariableUmbenennen.png){height=60%}
 
 ## Alle Verwendungen umbenannt
 
 Hier sehen wir jetzt auch gleich den Vorteil:  
-Dadurch dass wir die Variable umbenannt haben, wurden __ALLE__ Vorkommen dieser Variable im ganzen Programm ersetzt ![06_VariableUmbenannt.png](./pics/06_VariableUmbenannt.png){height=60%}
+Dadurch dass wir die Variable umbenannt haben, wurden __ALLE__ Vorkommen dieser Variable im ganzen Programm ersetzt 
+
+![](./pics/06_VariableUmbenannt.png){height=60%}
 
 ## Programm noch aufräumen
 
@@ -90,13 +92,13 @@ Darum räumen wir den ganzen Rest zur Seite.
 
 __ACHTUNG__: Nicht löschen, nur zur Seite ziehen
 
-![Freiräumen](./pics/07_FreiRaeumen.png){height=60%}
+![](./pics/07_FreiRaeumen.png){height=60%}
 
 ## Sinnvolles Programm
 
 Nun haben wir also ein sinnvolles Programm, das wir zuerst im Simulator testen können (mit der Maus auf den kleinen Licht-Regler und dort das Licht ändern)  
 
-![licht Messen](./pics/08_lichtMessen.png){height=60%}
+![](./pics/08_lichtMessen.png){height=60%}
 
 Wenn das zu unserer Zufriedenheit funktioniert, dann können wir es in den Calliope hochladen.  
 __ACHTUNG__: Wie vohin geschrieben, solten wir dem Programm einen sinnvolleren Namen geben, z.B. __LichtMesser01__
@@ -117,17 +119,11 @@ __Download Hex-Code__
 [Hex-code](code/mini-TemperaturMesser01.hex)
 
 
-## Navigation
-
-
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter zum SchubladenAlarm](../05_02_SchubladenAlarm/index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
 
-*  Autor: Jörg Künstner
+Für alle Bilder auf diesen Folien/Seiten gilt:
+
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
