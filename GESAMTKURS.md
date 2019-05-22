@@ -51,14 +51,14 @@ __Frühjahr 2019__
 * [06: Lösung Teil2](03_Tag2_Nachlese/03_06_Teil2_Loesung/index.html)
 
 
-<!---
 ### [Lektion / Nachmittag  3](04_Tag3)
 
-* [01: Auffrischen Variablen](04_Tag3/04_01_Auffrischen/index.html)
-* [02: Wenn - Dann - Ansonsten](04_Tag3/04_02_Wenn-Dann/index.html)
-* [03: Temperatur-Sensor](04_Tag3/04_03_TemperaturSensor/index.html)
-* [04: RGB-Leuchtdiode / Temperatur-Ampel](04_Tag3/04_04_TemperaturAmpel/index.html)
-* [05: verbesserte Temperatur-Ampel/Fehlersuche](04_Tag3/04_05_TemperaturAmpelBesser/index.html)
+* [01: Auffrischen Variablen](04_Tag3/04_01_Auffrischen_Variablen/index.html)
+* [02: Auffrischen Ampel](04_Tag3/04_02_Auffrischen_Ampel/index.html)
+* [03: Wenn - Dann - Ansonsten](04_Tag3/04_03_Wenn-Dann/index.html)
+* [04: Temperatur-Sensor](04_Tag3/04_04_TemperaturSensor/index.html)
+* [05: RGB-Leuchtdiode / Temperatur-Ampel](04_Tag3/04_05_TemperaturAmpel/index.html)
+* [06: verbesserte Temperatur-Ampel/Fehlersuche](04_Tag3/04_06_TemperaturAmpelBesser/index.html)
 
 ### ["Hausaufgabe": Schubladen-Alarmanlage](05_Tag3_Nachlese)
 
@@ -66,6 +66,7 @@ __Frühjahr 2019__
 * [Der SchubladenAlarm](05_Tag3_Nachlese/05_02_SchubladenAlarm/index.html)
 
 
+<!---
 ### [Lektion / Nachmittag  4](06_Tag4)
 
 
