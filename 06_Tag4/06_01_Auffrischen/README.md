@@ -5,7 +5,14 @@
 * Variablen genauer angeschaut, 
 * vor allem den Unterschied zwischen Belegung einer Variablen und Benutzung einer Variablen, 
 * sowohl vom Verständnis als auch in unserer Programmier-Oberfläche
-* für Details bitte [hier schauen](../../04_Tag3/04_01_Auffrischen/index.html)
+* für Details bitte [hier schauen](../../04_Tag3/04_01_Auffrischen_Variable/index.html)
+
+## LED-Ampel 
+
+* Wir haben uns auch nochmals das Vorgehen zur LED-Ampel genauer angeschaut, 
+* vor allem die Umwandlung von einer Ampel-Schaltung mit drei Schaltern 
+* in eine Ampel-Schaltung mit Calliope und Software 
+* für Details bitte [hier schauen](../../04_Tag3/04_02_Auffrischen_Ampel/index.html)
 
 ## Wenn-Dann
 
@@ -27,14 +34,14 @@
      * __ansonsten wenn__ 
      * __ansonsten__ 
 
-* für Details bitte [hier schauen](../../04_Tag3/04_02_Wenn-Dann/index.html)
+* für Details bitte [hier schauen](../../04_Tag3/04_03_Wenn-Dann/index.html)
 
 
 ## Temperatur-Sensor
 
 * Auslesen des Temperatur-Sensors, Speichern des aktuellen Temperatur-Wertes in einer Variablen
 * Entscheidung (siehe oben) etwas zu tun, wenn eine bestimmte Temperatur überschritten wird.
-* für Details bitte [hier schauen](../../04_Tag3/04_03_TemperaturSensor/index.html)
+* für Details bitte [hier schauen](../../04_Tag3/04_04_TemperaturSensor/index.html)
 
 
 ## RGB-LED
@@ -42,7 +49,7 @@
 * Ansteuern der RGB-LED mit einfachen Farben
 * Ansteuern geht auch die einzelnen Farbanteile selbst mischen
 * Dazu kann man auch die Schleifen verwenden, die lernen wir heute kennen. 
-* für Details bitte [hier schauen, erst in der zweiten Hälfte](../../04_Tag3/04_02_Wenn-Dann/index.html)
+* für Details bitte [hier schauen, erst in der zweiten Hälfte](../../04_Tag3/04_03_Wenn-Dann/index.html)
 
 
 
@@ -54,18 +61,10 @@
 
 
 
-## Navigation
-
-
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../06_02_Schleifen/index.html)  
-
-
-
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Bilder auf diesen Folien/Seiten gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
 
