@@ -5,7 +5,7 @@
 DC steht für __D__ irect __C__ urrent und heisst Gleichstrom. ( AC steht für __A__ lternate __C__ urrent und heisst Wechselstrom. Die australische Musikgruppe AC/DC heisst also eigentlich Wechselstrom/Gleichstrom) 
 
 
-Ein __DC__-Motor funktioniert prinzipiell wie am letzten Nachmittag beschrieben :
+Ein __DC__-Motor funktioniert prinzipiell wie gerade beschrieben :
 
 * Ein elektrischer Magnet zieht einen Permanent-Magnet an.  
 * Sobald der Permanent-Magnet in die Nähe des elektrischen Magneten kommt, schaltet dieser ab und der etwas weiter entfernte Elektro-Magnet wird eingeschaltet.  
@@ -163,7 +163,7 @@ Dazu bauen wir das Programm um:
 Wenn wir nun unser Programm im Arbeits-Bereich entsprechend abändern, sieht das nun so aus:
 
 
-![ Motor Programm Vor / Rück  ](./pics/10_MotorProgramm_VorRueck.png){height=60%}
+![ Motor Programm Vor / Rück  ](./pics/10_MotorProgramm_VorRueck.png){height=50%}
 
 Auch dieses Programm können wir leider im Simulator nicht nutzen und müssen wir das Programm auf den Calliope runterladen und dort ausprobieren.
 
@@ -193,19 +193,13 @@ __Download Hex-Code__
 [Hex-code](code/mini-DC_Motor_VorRueck.hex)
 
 
-## Navigation
-
-
-* [Zurück](../08_01_Auffrischen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../08_03_LageSensor/index.html)  
-
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
 
-*  Autor: Jörg Künstner
+Für alle Bilder auf diesen Folien/Seiten gilt:
+
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
  
