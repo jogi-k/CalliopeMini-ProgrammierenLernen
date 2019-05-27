@@ -52,7 +52,7 @@ So kann man sich das vorstellen:
 * Der Dauer-Magnet bewegt sich in Richtung Elektro-Magnet
 * Die Achse dreht sich mit
 * Wenn der Dauer-Magnet den Elektro-Magnet erreicht hat, schaltet sich der Elektro-Magnet ab
-* Der Elektro-Magnet eine viertels Umdrehung weiter schaltet sich ein
+* Der Elektro-Magnet eine viertels Umdrehung (90°) weiter schaltet sich ein
 * Er zieht den Dauer-Magneten an
 * usw. ... usw. 
 
@@ -135,19 +135,13 @@ Das hier ist ein Servo-Motor, er hat drei Anschlüsse,
 
 ## Was wir uns anschauen
 
-Wir schauen uns heute und beim nächsten Mal die Ansteuerung von von Servos und von normalen DC-Motoren (mit Getriebe) an.
-
-## Navigation
-
-
-* [Zurück](../06_02_Schleifen/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../06_04_Servos/index.html)  
+Wir schauen uns heute die Ansteuerung von normalen DC-Motoren (mit Getriebe) an.  
+Und beim nächsten Mal schauen wir uns evt. die Ansteuerung von Servo-Motoren (Servos) an.
 
 
 
 ## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf diesen Folien gilt, soweit nicht anders unter dem Bild gekennzeichnet:
+Für alle Texte und Bilder auf diesen Folien/Seiten gilt, soweit nicht anders unter dem Bild gekennzeichnet:
 
 * Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0

@@ -2,8 +2,8 @@
 
 ## Was sind Schleifen
 
-* Frage : Wofür braucht man Schleifen?  
-* Antwort : Immer dann, wenn man etwas gleiches wiederholen will!
+* __Frage__ : Wofür braucht man Schleifen?  
+* __Antwort__ : Immer dann, wenn man etwas gleiches wiederholen will!
 
 Beispiel : Man möchte beim Einschalten 5 mal ein Gesicht blinken lassen
 
@@ -129,9 +129,9 @@ ob man das mit einer Schleife den Computer erledigen lassen könnte.
 
 ## Ursprungs-Frage
 
-- Frage : Wofür braucht man Schleifen? 
+- __Frage__ : Wofür braucht man Schleifen? 
 
-- Antwort 2 : Immer dann, wenn man etwas sehr ähnliches wiederholen will, wobei sich dabei bestimmte Dinge ändern können, die vom Schleifendurchlauf abhängen.
+- __Antwort 2__ : Immer dann, wenn man etwas sehr ähnliches wiederholen will, wobei sich dabei bestimmte Dinge ändern können, die vom Schleifendurchlauf abhängen.
   - Also beim __ersten__ Schleifendurchlauf wird etwas mit einer __1__ gemacht
   - Beim __zweiten__ Durchlauf wird etwas mit einer __2__ gemacht 
   - usw. usw.
@@ -193,7 +193,7 @@ Wenn wir diese Schleife benutzen und unser Programm entsprechend umgestalten, si
 \colEnd
 
 ## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf dieser Seite gilt:
+Für alle Texte und Bilder auf diesen Folien/Seiten gilt:
 
 * Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
