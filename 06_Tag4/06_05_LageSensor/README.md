@@ -75,6 +75,18 @@ und wenn wir nun die entsprechenden Befehle von oben nach unten schieben, dann k
 
 ![ Lage-Sensor benutzt ](./pics/07_Lagesensoren_in_Nutzung.png){height=75%}
 
+## Runterladen in Calliope
+
+Dieses Programm können wir nun auch in den Calliope laden.
+
+Achtung: Zumindest bei manchen Kombinationen von Calliope und Computer (und 
+vermutlich angeschlossenem Computer-Ladegerät) hat der Lage-Sensor __NICHT__ richtig funktioniert.
+
+==> 
+
+Bitte steckt in diesem Fall das USB - Kabel aus und betreibt Euren Calliope nur über Batterie.
+
+
 
 ## JavaScript-Code
 
@@ -101,19 +113,11 @@ __Download Hex-Code__
 
 
 
-## Navigation
-
-
-* [Zurück](../08_02_DC_Motoren/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-* [Weiter](../08_04_ExternerLautsprecher/index.html)  
-
-
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
+Für alle Bilder auf diesen Folien/Seiten gilt:
 
-*  Autor: Jörg Künstner
+* Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
 
  
