@@ -66,14 +66,13 @@ __Frühjahr 2019__
 * [Der SchubladenAlarm](05_Tag3_Nachlese/05_02_SchubladenAlarm/index.html)
 
 
-<!---
 ### [Lektion / Nachmittag  4](06_Tag4)
 
-
-* [01: Auffrischen](06_Tag4/06_01_Auffrischen/index.html)
-* [02: Schleifen](06_Tag4/06_02_Schleifen/index.html)
-* [03: Motoren Übersicht](06_Tag4/06_03_Motoren/index.html)
-* [04: Servo-Motoren](06_Tag4/06_04_Servos/index.html)
+* [01 Auffrischen: Logik und Wenn-Dann](06_Tag4/06_01_Auffrischen/index.html)
+* [02 Schleifen-Programmierung  ](06_Tag4/06_02_Schleifen/index.html)
+* [03 Motoren Übersicht](06_Tag4/06_03_Motoren/index.html)
+* [04 Ansteuerung von DC-Motoren](06_Tag4/06_04_DC_Motoren/index.html)
+* [05 Lagesensor](06_Tag4/06_05_LageSensor/index.html)
 
 
 ### ["Hausaufgabe": Schleifen ](07_Tag4_Nachlese)
@@ -82,6 +81,7 @@ __Frühjahr 2019__
 * [Ein paar Schleifen-Anwendungen](07_Tag4_Nachlese/index.html)
 
 
+<!---
 ### [Lektion / Nachmittag  5](08_Tag5)
 
 
