@@ -1,7 +1,7 @@
 ## Navigation
 
 
-* [Zurück](../06_02_Schleifen/index.html)  
+* [Zurück zu Schleifen](../06_02_Schleifen/index.html)  
 * [Hoch zur Übersicht](../index.html)  
-* [Weiter](../06_04_Servos/index.html)  
+* [Weiter zu DC-Motoren](../06_04_DC_Motoren/index.html)  
 
