@@ -10,9 +10,11 @@ Heute wiederholen wir als erstes nochmal kurz das Gelernte vom letzten Nachmitta
 
 Wir vertiefen nochmal, wie das mit dem Schleifen-Programmieren funktioniert hat.
 
-Daran anschliessend schauen wir uns an, wie man einen normalen DC-Motor, also nicht einen Servo-Motor, am Calliope anschliesst und wie man den programmiert.
+Daran anschliessend schauen wir uns nochmal an, wie man einen normalen DC-Motor ansteuert.
 
 Um den Motor durch Kippen des Calliope ansteuern zu können, betrachten wir noch die einfachen Funktionen des Lage-Sensors an.
+
+Dann schauen wir, wie wir Informationen zwischen zwei Calliopes via Kurzstrecken-Funk austauschen können 
 
 Und schlussendlich lernen wir noch, wir die Eltern oder Geschwister  etwas ärgern können :-) :  
 Wir lernen, wie man einen externen Lautsprecher an den Calliope anschliessen kann, so dass alle unsere musikalischen Experimente die ganze Familie beschallen...
@@ -20,7 +22,8 @@ Wir lernen, wie man einen externen Lautsprecher an den Calliope anschliessen kan
 
 ### Die einzelnen Kapitel
 
-* [01 Auffrischen: Schleifen / Servo-Motoren](08_01_Auffrischen/index.html)
-* [02 Ansteuerung von DC-Motoren ](08_02_DC_Motoren/index.html)
+* [01 Auffrischen: Schleifen ](08_01_Auffrischen/index.html)
+* [02 Auffrischen Motor](08_02_Motoren_Auffrischen/index.html)
 * [03 Der Lagesensor ](08_03_LageSensor/index.html)
-* [04 Externer Lautsprecher](08_04_ExternerLautsprecher/index.html)
+* [04 Funkübertragung](08_04_Funkuebertragung/index.html)
+* [05 Externer Lautsprecher](08_05_ExternerLautsprecher/index.html)
