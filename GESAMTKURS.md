@@ -81,22 +81,19 @@ __Frühjahr 2019__
 * [Ein paar Schleifen-Anwendungen](07_Tag4_Nachlese/index.html)
 
 
-<!---
 ### [Lektion / Nachmittag  5](08_Tag5)
 
 
-* [01 Auffrischen: Schleifen / Servo-Motoren](08_Tag5/08_01_Auffrischen/index.html)
-* [02 Ansteuerung von DC-Motoren ](08_Tag5/08_02_DC_Motoren/index.html)
+* [01 Auffrischen: Schleifen ](08_Tag5/08_01_Auffrischen/index.html)
+* [02 Auffrischen Motor](08_Tag5/08_02_Motoren_Auffrischen/index.html)
 * [03 Der Lagesensor ](08_Tag5/08_03_LageSensor/index.html)
-* [04 Externer Lautsprecher](08_Tag5/08_04_ExternerLautsprecher/index.html)
-
--->
+* [04 Funkübertragung](08_Tag5/08_04_Funkuebertragung/index.html)
+* [05 Externer Lautsprecher](08_Tag5/08_05_ExternerLautsprecher/index.html)
 
 ### Gesamt-Übersicht
 
 
 ![](Calliope-Kurs_V2_April_2019.png)
-
 
 
 
