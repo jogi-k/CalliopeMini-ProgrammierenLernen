@@ -93,7 +93,7 @@ __Frühjahr 2019__
 ### Gesamt-Übersicht
 
 
-![](Calliope-Kurs_V2_April_2019.png)
+![](Calliope-Kurs_V2_April_2019_final.png)
 
 
 
