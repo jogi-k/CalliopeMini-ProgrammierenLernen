@@ -96,10 +96,11 @@ __Frühjahr 2019__
 ![](Calliope-Kurs_V2_April_2019_final.png)
 
 
-
+<!--
 
 ### [Linksammlung](LinkSammlung)
 
 
 ### [Unsortierte Ideen](Sammlung)
+-->
 
