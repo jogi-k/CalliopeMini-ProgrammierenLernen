@@ -45,3 +45,9 @@ Schaut Euch doch die "Hausaufgabe" an, da wird als neues Eingangs-Element der Li
 [Auf zur Schubladen-Alarm-Anlage](../05_Tag3_Nachlese/index.html)
 
 
+## Navigation
+
+* [Zurück zu Tag 2 Hausaufgabe](../03_Tag2_Nachlese/index.html)
+* [Hoch zur Übersicht](../index.html)
+* [Weiter zu Tag 3 Hausaufgabe (Schubladen-Alarm-Anlage)](../05_Tag3_Nachlese/index.html)
+

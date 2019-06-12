@@ -39,3 +39,11 @@
 * [Homepage des Calliope Mini](https://calliope.cc/)
 * [Schulmaterial zum Calliope Mini](https://calliope.cc/schulen/schulmaterial) Hier findet sich unter anderem ein ganzes Buch im PDF-Format zum Calliope Mini! Das eignet sich einerseits zum Selbst-Lernen andererseits auch als Ideengeber für den restlichen Kurs, Nachmittag 3 und 4 sind noch nicht vollständig ausgearbeitet. Wenn Ihr also etwas zusammen im Kurs in Teil 3 oder 4 machen wollt, dann meldet Euch bei Jogi.
 
+
+
+## Navigation
+
+* [Zurück zu Tag 1](../01_Tag1/index.html)
+* [Hoch zur Übersicht](../index.html)
+* [Weiter zu Tag 2 Hausaufgaben](../03_Tag2_Nachlese/index.html)
+

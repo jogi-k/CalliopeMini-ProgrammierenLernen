@@ -54,4 +54,8 @@ Schliesslich lernen wir, was PlatzhalterVariablen sind, wie man auf Tastendrück
    
     * Hier findet sich unter anderem ein ganzes Buch im PDF-Format zum Calliope Mini! 
 
+## Navigation
+
+* [Hoch zur Übersicht](../index.html)
+* [Weiter zu Tag 2](../02_Tag2/index.html)
 

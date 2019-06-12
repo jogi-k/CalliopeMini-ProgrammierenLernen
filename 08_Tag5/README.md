@@ -27,3 +27,12 @@ Wir lernen, wie man einen externen Lautsprecher an den Calliope anschliessen kan
 * [03 Der Lagesensor ](08_03_LageSensor/index.html)
 * [04 Funkübertragung](08_04_Funkuebertragung/index.html)
 * [05 Externer Lautsprecher](08_05_ExternerLautsprecher/index.html)
+
+
+
+
+## Navigation
+
+* [Zurück zu Tag 4 Hausuafgaben (Schleifen)](../07_Tag4_Nachlese/index.html)
+* [Hoch zur Übersicht](../index.html)
+
