@@ -1,0 +1,2 @@
+find . -maxdepth 2 -name "*.pdf"  | sort > pdfs.txt
+pdftk `cat pdfs.txt` output GesamtKursFruehjahr2019.pdf

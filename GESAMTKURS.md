@@ -8,7 +8,10 @@ __Ausgabe für die den Kurs 2 ab April 2019__
 __Frühjahr 2019__  
 
 
-​    
+## Download Gesamtkurs als Folien
+ 
+[Kurs CalliopeMini-ProgrammierenLernen als PDF-Folien](CalliopeMini-ProgrammierenLernen.pdf)
+
 
 ## Lektionen / Nachmittage
 
