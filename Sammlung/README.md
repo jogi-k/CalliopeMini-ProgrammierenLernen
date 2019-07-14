@@ -21,6 +21,26 @@
 
 ## Deployment auf die PCs
 
+## Derzeit (July 2019)
+
+FAIME-CD mit Standard-User calliope
+
+Anschliessend (sollte man scripten):
+
+- vi /etc/hostname => calliopeX
+- usermod -l calliopeX calliope
+- usermod -m -d /home/calliopeX calliopeX
+- groupmod -n calliopeX calliope
+- Keyboard umstellen
+- Zeitzone umstellen
+- Firefox auf Desktop
+- Desktop Background
+- Startpage Firefox = makecode.calliope
+
+
+
+
+
 ### FOG :
      Siehe https://wiki.fogproject.org/wiki/index.php?title=FOG_Client
      und http://www.linux-magazin.de/ausgaben/2012/01/fog/3/
