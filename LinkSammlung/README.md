@@ -35,10 +35,7 @@
 * [Wie unterscheiden sich Parallel- und Serienschaltung?](https://www.simplyscience.ch/teens-wissen/articles/wie-unterscheiden-sich-parallel-und-serienschaltung.html)
  
 
-## Links zum Erstellen / Umgebung etc
-
-* http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
-* https://kofler.info/folien-mit-pandoc-erstellen/
+## Sonstiges
 
 Analog messen mit Calliope: 
 
@@ -46,4 +43,16 @@ Analog messen mit Calliope:
 * Paper : https://cbrell.de/blog/measure-voltage-with-the-calliope-mini-gamification/
 
 Wetterstation mit Calliope : https://calliope.cc/content/3-schulen/1-schulmaterial/wetterstation.pdf
+
+Coding Detectives bei Heise:
+
+* https://www.heise.de/newsticker/meldung/Coding-Detectives-Digitale-Kompetenz-fuer-Schueler-4296707.html
+
+
+
+
+## Links zum Erstellen / Umgebung etc
+
+* http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
+* https://kofler.info/folien-mit-pandoc-erstellen/
 
