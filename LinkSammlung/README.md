@@ -56,3 +56,15 @@ Coding Detectives bei Heise:
 * http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
 * https://kofler.info/folien-mit-pandoc-erstellen/
 
+* remark.js
+* pandoc
+
+Einige zusätzliche Tools:
+https://www.thelinuxrain.com/articles/presentations-in-a-browser
+Zusätrzlich Pandoc aml schauen, beamer-template:
+https://bl.ocks.org/lmullen/c3d4c7883f081ed8692a
+Markdown Preview enhanced, für atom / VS-Code
+
+https://github.com/shd101wyy/markdown-preview-enhanced
+
+
