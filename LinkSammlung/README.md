@@ -49,6 +49,38 @@ Coding Detectives bei Heise:
 * https://www.heise.de/newsticker/meldung/Coding-Detectives-Digitale-Kompetenz-fuer-Schueler-4296707.html
 
 
+Python :
+https://calliopemini.wordpress.com/2017/07/31/calliope-in-python-programmieren/comment-page-1/
+
+Official Calliope Github :
+https://github.com/calliope-mini/
+
+Grove-Sensoren:
+https://calliopemini.wordpress.com/2017/03/16/getestete-grove-sensoren/
+
+Warum Calliope:
+Preisvergleich
+https://calliopemini.wordpress.com/2017/11/02/preisvergleich-calliope-mini-vs-arduino-uno-und-microbit/amp/
+
+MINT Zirkel:
+http://www.mint-zirkel.de/2017/09/spielerisch-programmieren-lernen-mit-open-roberta-und-dem-calliope-mini/
+
+Sammlung von Unterichts-Materialien
+https://appcamps.de/2017/09/01/ueberblick-calliope-mini-unterlagen/
+
+Offizielle Unterlagen von Cornelsen für die Schulen
+https://calliope.cc/schulen/schulmaterial
+
+Einige Projekte:
+https://www.hackster.io/calliope-mini/projects?sort=trending&page=2
+
+   Konkret ein Auto:
+   https://www.hackster.io/53937/calliope-mini-ferngesteuertes-auto-6fa93f
+
+
+Anke Domscheit Berg: fertigung und einige Links:
+http://ankedomscheitberg.de/?p=3171
+
 
 
 ## Links zum Erstellen / Umgebung etc
