@@ -34,3 +34,16 @@
 * [Was ist eine elektronische Schaltung](https://www.simplyscience.ch/teens-wissen/articles/was-ist-eine-elektronische-schaltung.html)
 * [Wie unterscheiden sich Parallel- und Serienschaltung?](https://www.simplyscience.ch/teens-wissen/articles/wie-unterscheiden-sich-parallel-und-serienschaltung.html)
  
+
+## Links zum Erstellen / Umgebung etc
+
+* http://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
+* https://kofler.info/folien-mit-pandoc-erstellen/
+
+Analog messen mit Calliope: 
+
+* Video : https://www.youtube.com/watch?v=_Gu618SM7AA
+* Paper : https://cbrell.de/blog/measure-voltage-with-the-calliope-mini-gamification/
+
+Wetterstation mit Calliope : https://calliope.cc/content/3-schulen/1-schulmaterial/wetterstation.pdf
+
