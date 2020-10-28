@@ -4,6 +4,22 @@
 
 Aufruf von <https://makecode.calliope.cc>
 
+## Neues Projekt 
+
+Zuerst muss ein neues Projekt angelegt werden durch Klicken auf das PLUS-Symbol
+
+
+![Neues Projekt](pics/SimulatorEdit_00.png){ height=60% }
+
+
+## Namen vergeben 
+
+Gebt dem neuen Projekt einen sinnvollen Namen, z.B. HALLO
+
+
+![Namen vergeben](pics/SimulatorEdit_01.png){ height=60% }
+
+
 
 ## Der Arbeits-Bereich 
 

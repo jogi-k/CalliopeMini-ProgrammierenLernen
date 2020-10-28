@@ -8,8 +8,6 @@ Das Paket enthaelt
 * Ein Micro-USB-Kabel
 * Ein Batterie-Fach
 * 2 Batterien
-* ~~2 Krokodil-Klemmen~~
-* ~~2 LEDs~~ (war früher mit dabei...)
 * Eine Anleitung
 
 

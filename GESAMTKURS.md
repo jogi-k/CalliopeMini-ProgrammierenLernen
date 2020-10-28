@@ -4,14 +4,14 @@
 
 Dies ist die Sammlung für den Kurs in der Turbine :  
 __Basteln, Programmieren Lernen und Elektronik Grundlagen mit Calliope-Mini__  
-__Ausgabe für die den Kurs 2 ab April 2019__  
-__Frühjahr 2019__  
+__Ausgabe für den Kurs ab Oktober 2020__  
+__Herbst 2020__  
 
-
+<!--
 ## Download Gesamtkurs als Folien
  
 [Kurs CalliopeMini-ProgrammierenLernen als PDF-Folien](CalliopeMini-ProgrammierenLernen.pdf)
-
+-->
 
 ## Lektionen / Nachmittage
 
@@ -29,7 +29,7 @@ __Frühjahr 2019__
 * [10: Zaehler](01_Tag1/01_10_Zaehler/index.html)
 * [11: Gespeicherte HexFiles laden](01_Tag1/01_11_HexFiles_Simulator/index.html)
 
-
+<!--
 
 ### [Lektion / Nachmittag  2](02_Tag2/index.html)
 
@@ -92,6 +92,8 @@ __Frühjahr 2019__
 * [03 Der Lagesensor ](08_Tag5/08_03_LageSensor/index.html)
 * [04 Funkübertragung](08_Tag5/08_04_Funkuebertragung/index.html)
 * [05 Externer Lautsprecher](08_Tag5/08_05_ExternerLautsprecher/index.html)
+
+-->
 
 ### Gesamt-Übersicht
 

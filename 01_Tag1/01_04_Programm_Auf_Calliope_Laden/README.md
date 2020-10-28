@@ -2,7 +2,7 @@
 
 ## Simulator 
 
-Bislang haben alles "nur" im Browser gesehen, Code und Simulator.
+Bislang haben wir alles "nur" im Browser gesehen, Code und Simulator.
 Nun wollen wir aber unseren ersten Code auf dem Calliope laufen lassen.
 
 ## Namen vergeben
@@ -10,6 +10,10 @@ Nun wollen wir aber unseren ersten Code auf dem Calliope laufen lassen.
 Dazu müssen wir als erstes unserem ersten Programm einen sinnvollen Namen geben:
 
 ![Namen wählen](pics/01_NameWaehlen.png){ height=60% }
+
+(Das haben wir in der neuen Version des Editors schon beim Anlegen gemacht) 
+
+
 
 ## Speichern (1)
 
@@ -29,7 +33,7 @@ Die meisten Browser sind so konfiguriert, dass die Dateien in einem Ordner namen
 
 ## Speicher-Ort finden (1)
 
-Da wir das aber nicht sicher wissen, kann man auch den Browser anweisen, einen zum Ort der heruntergeladenen Dateiein zu führen.
+Da wir das aber nicht sicher wissen, kann man auch den Browser anweisen, einen zum Ort der heruntergeladenen Dateien zu führen.
 
 ![Download-Button](pics/04_DownloadButton.png){ height=60% }
 
@@ -62,6 +66,13 @@ und an einen USB-Port des Computers erscheint der Calliope Mini als USB-Speicher
 
 ![Mini erscheint als USB-Laufwerk](pics/07_Mini_Erscheint.png){ height=70% }
 
+## Calliope Mini Rev 2.0 anstecken
+
+wer einen Calliope Mini Rev 2.0 hat, da sieht das Bild anders aus:
+
+![Mini erscheint als USB-Laufwerk](pics/07a_Mini_und_Flash_Erscheint.png){ height=50% }
+
+Das sehen wir uns weiter hinten noch genauer an, jetzt ignorieren die Rev 2.0-Besitzer das **FLASH** 
 
 ## HEX-Datei auf den Mini laden (1)
 
@@ -115,6 +126,42 @@ Wenn das Programm fertig geflasht ist,
 * wird nun ausgeführt
 
 ![Das Programm läuft](pics/10_ProgrammLaeuft.jpg){ height=50% }
+
+## Unterschied Calliope Mini Rev 1.3 und 2.0 (1)
+
+Wer einen Rev 2.0 Calliope hat, da sieht das Bild beim Anstecken des Calliope Mini an den PC wie oben schon geschrieben ja etwas anders aus:
+
+![Mini erscheint als USB-Laufwerk](pics/07a_Mini_und_Flash_Erscheint.png){ height=70% }
+
+## Unterschied Calliope Mini Rev 1.3 und 2.0 (2)
+
+![FLASH Inhalt ](pics/11_Der_neue_Calliope_Rev2.png){ height=70% }
+
+## Unterschied Calliope Mini Rev 1.3 und 2.0 (3)
+
+![FLASH Inhalt ](pics/13_Flash_vs_Mini_02.png){ height=70% }
+
+## Unterschied Calliope Mini Rev 1.3 und 2.0 (4)
+
+* Der Calliope Rev 2.0 hat zusätzlich zum MINI-Speicher noch einen FLASH-Speicher.
+
+* Auf diesen kann man bis zu 25 Programme laden
+
+* Achtung : Namen nur max **8** Zeichen und in **GROSS**-Buchstaben (auch .HEX!) 
+
+* Dateien werden alphabetisch / numerisch sortiert 
+
+* Sortierung muss man sich merken 
+
+* Löschen 01DICE.HEX rutscht ALLE Programme einen Platz nach vorne!
+
+* Auswahl eines Programmes: 
+
+  * Reset - Taste lange drücken 
+  * dann mit A / B vorwärts rückwärts
+  * A und B wählt aus 
+  * Achtung vorheriges Programm in MINI wird damit überschrieben!
+
 
 
 
