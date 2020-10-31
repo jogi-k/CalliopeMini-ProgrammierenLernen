@@ -78,9 +78,9 @@ Man kann die Zuweisungen irgendwann beim Programm-Start machen und erst viel sp�
 
 Beim Benennenn der Variablen sollte man ein paar Dinge beachten:
 
-* Variablen dürfen __keine Leerzeichen__ enthalten
+* Variablen sollten __keine Leerzeichen__ enthalten
 * Variablen dürfen Zahlen enthalten, aber __nicht mit Zahlen anfangen__.
-* Variablen sollten __keine Sonderzeichen__ enthalten, dazu zählen auch ä,ö und ü (ersetzen durch ae,oe und ue) 
+* Variablen sollten __keine Sonderzeichen__ enthalten, dazu zählen auch ä,ö und ü (ersetzen durch ae,oe und ue) , ebenso kein Bindestrich/Minus-Zeichen
 
 Darum wird aus unserer Rechnung oben:
 

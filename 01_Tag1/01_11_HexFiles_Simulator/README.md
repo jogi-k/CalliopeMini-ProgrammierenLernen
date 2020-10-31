@@ -17,6 +17,10 @@
 
 ![Importieren](pics/02_Importieren.png){height=50%}
 
+## Datei Importieren
+
+![Importieren](pics/02a_Import_Menu.png){height=50%}
+
 ## Durchsuchen
 
 ![Durchsuchen](pics/03_Durchsuchen.png){height=40%}
