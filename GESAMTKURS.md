@@ -26,7 +26,7 @@ __Herbst 2020__
 * [07: Platzhalter/Variablen](01_Tag1/01_07_Platzhalter/index.html)
 * [08: BeimStart](01_Tag1/01_08_BeimStart/index.html)
 * [09: Tasten-Eingabe](01_Tag1/01_09_TastenEingabe/index.html)
-* [10: Zaehler](01_Tag1/01_10_Zaehler/index.html)
+* [10: Taschenrechner](01_Tag1/01_10_Taschenrechner/index.html)
 * [11: Gespeicherte HexFiles laden](01_Tag1/01_11_HexFiles_Simulator/index.html)
 
 <!--

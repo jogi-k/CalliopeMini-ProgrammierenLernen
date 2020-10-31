@@ -6,10 +6,14 @@
 
 ### Zusammenfassung 
 
-Heute lernen wir den Calliope Mini selbst kennen, was man alles schon mit ihm machen kann, ohne überhaupt zu programmieren.
-Dann schauen wir uns an, wie man im Browser erste einfache Programme zusammenklickt und damit die 5x5 - Led-Matrix ansteuert,
-Dazu probieren wir die ersten Ergebnisse zuerst im Simulator aus und sehen dann anschliessend wie wir die in unseren Calliope Mini bekommen.
-Schliesslich lernen wir, was PlatzhalterVariablen sind, wie man auf Tastendrücke reagiert und bauen uns daraus einen einfachen "Taschenrechner".   
+* Heute lernen wir den Calliope Mini selbst kennen
+* was man alles schon mit ihm machen kann, ohne überhaupt zu programmieren.
+* Dann schauen wir uns an, wie man im Browser erste einfache Programme zusammenklickt und damit die 5x5 - Led-Matrix ansteuert,
+* Dazu probieren wir die ersten Ergebnisse zuerst im Simulator aus 
+* und sehen dann anschliessend wie wir die in unseren Calliope Mini bekommen.
+* Schliesslich lernen wir, was PlatzhalterVariablen sind, 
+* wie man auf Tastendrücke reagiert 
+* und bauen uns daraus einen einfachen "Taschenrechner".   
 
 ### Die einzelnen Kapitel
 

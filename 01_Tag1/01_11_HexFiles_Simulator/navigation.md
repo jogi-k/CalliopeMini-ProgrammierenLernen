@@ -2,6 +2,6 @@
 ## Navigation
 
 
-* [Zurück zu 01_10_Zaehler](../01_10_Zaehler/index.html)  
+* [Zurück zu 01_10_Taschenrechner](../01_10_Taschenrechner/index.html)  
 * [Hoch zur Übersicht](../index.html)  
 
