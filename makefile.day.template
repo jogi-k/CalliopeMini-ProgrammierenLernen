@@ -1,24 +1,78 @@
 mkfile_path := $(abspath $(lastword $(MAKEFILE_LIST)))
 current_dir := $(notdir $(patsubst %/,%,$(dir $(mkfile_path))))
-all: index.html
+all: index.html 00_1610.pdf 00_A4.pdf ENDE_1610.pdf ENDE_A4.pdf ${current_dir}_A4.pdf  ${current_dir}_1610.pdf
 
 
 
-index.html: README.md kurs_html.md 
-	pandoc -t html kurs_html.md README.md -c ../pandoc.css -s -o index.html 
+index.html: README.md kurs_html.md download.md ENDE.md 
+	pandoc -t html kurs_html.md download.md README.md ENDE.md -c ../pandoc.css -s -o index.html 
 
+00_1610.pdf : README.md kurs_1610.md $(texheader) 
+	pandoc -t beamer -H $(texheader) kurs_1610.md README.md  -o 00_1610.pdf 
+
+00_A4.pdf : README.md kurs_A4.md  $(texheader) 
+	pandoc -t beamer -H $(texheader) kurs_A4.md README.md  -o 00_A4.pdf 
+
+ENDE_1610.pdf : ENDE.md $(texheader) makefile 
+	@echo "---"       > ENDE_temp_1610.md
+	@echo "output: beamer_presentation" >> ENDE_temp_1610.md
+	@echo "classoption: \"aspectratio=1610\"" >> ENDE_temp_1610.md
+	@echo "---"       >> ENDE_temp_1610.md
+	@cat ENDE.md >> ENDE_temp_1610.md
+	pandoc -t beamer -H $(texheader) ENDE_temp_1610.md  -o ENDE_1610.pdf 
+
+ENDE_A4.pdf : ENDE.md $(texheader) makefile
+	@echo "---"       > ENDE_temp_A4.md
+	@echo "output: beamer_presentation" >> ENDE_temp_A4.md
+	@echo "classoption: \"aspectratio=1610\"" >> ENDE_temp_A4.md
+	@echo "---"       >> ENDE_temp_A4.md
+	@cat ENDE.md >> ENDE_temp_A4.md
+	pandoc -t beamer -H $(texheader) ENDE_temp_A4.md  -o ENDE_A4.pdf 
+
+${current_dir}_A4.pdf : ENDE_A4.pdf 00_A4.pdf  
+	@find . -maxdepth 2 -name "*_A4.pdf"  | sort > pdfs_A4.txt
+	@grep -v ${current_dir}_A4.pdf pdfs_A4.txt > pdfs_A4.doit
+	@pdftk `cat pdfs_A4.doit` output ${current_dir}_A4.pdf
+	@rm pdfs_A4.txt pdfs_A4.doit
+       
+${current_dir}_1610.pdf : ENDE_1610.pdf 00_1610.pdf  
+	@find . -maxdepth 2 -name "*_1610.pdf"  | sort > pdfs_1610.txt
+	@grep -v ${current_dir}_1610.pdf pdfs_1610.txt > pdfs_1610.doit
+	@pdftk `cat pdfs_1610.doit` output ${current_dir}_1610.pdf
+	@rm pdfs_1610.txt pdfs_1610.doit
 
 ${PWD##*/}
 
 
 kurs_all.md: makefile 
-	echo "---" > kurs_all.md
-	echo "title: \"${current_dir}\"" >> kurs_all.md
-	echo "subtitle: \"Calliope-Kurs Kinder \"" >> kurs_all.md
-	echo "author: Jogi Künstner, Turbine Brunnen" >> kurs_all.md
-	echo "date: Herbst 2020" >> kurs_all.md
+	@echo "---" > kurs_all.md
+	@echo "subtitle: \"${current_dir}\"" >> kurs_all.md
+	@echo "title: \"Calliope-Kurs Kinder \"" >> kurs_all.md
+	@echo "author: Jogi Künstner, Turbine Brunnen" >> kurs_all.md
+	@echo "date: Herbst 2020" >> kurs_all.md
 
 
 kurs_html.md: makefile kurs_all.md
-	cat kurs_all.md > kurs_html.md
-	echo "---"       >> kurs_html.md
+	@cat kurs_all.md > kurs_html.md
+	@echo "---"       >> kurs_html.md
+
+
+kurs_1610.md: makefile kurs_all.md
+	@cat kurs_all.md > kurs_1610.md
+	@echo "output: beamer_presentation" >> kurs_1610.md
+	@echo "classoption: \"aspectratio=1610\"" >> kurs_1610.md
+	@echo "---"       >> kurs_1610.md
+
+
+
+kurs_A4.md: makefile kurs_all.md
+	@cat kurs_all.md > kurs_A4.md
+	@echo "output: beamer_presentation" >> kurs_A4.md
+	@echo "classoption: \"aspectratio=141\"" >> kurs_A4.md
+	@echo "---"       >> kurs_A4.md
+
+download.md: makefile
+	@echo "## Download Folien" > download.md
+	@echo " " >> download.md
+	@echo "[Download Kursteil: ${current_dir} als DinA4-PDF-Folien](${current_dir}_A4.pdf)<br>" >> download.md
+	@echo "[Download Kursteil: ${current_dir} als PDF-Folien im 16:10-Format](${current_dir}_1610.pdf)" >> download.md

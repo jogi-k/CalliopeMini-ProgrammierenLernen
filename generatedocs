@@ -4,7 +4,7 @@
 
 # Step 5: Goto the directories found and execute make
 while read DIRECTORY ; do
-    pushd "$DIRECTORY" && make  
+    pushd "$DIRECTORY" && make -j 8 
     popd
 done < directories 
 

@@ -13,14 +13,14 @@ echo "texheader   := $(pwd)/header.tex" > makefile.overall.newtemplate
 cat makefile.overall.template >> makefile.overall.newtemplate
 
 # Step 3: Search all READMEs, there we need the makefile and then execute make
-find . -name "README.md" -exec dirname {}  \;  > directories
+find . -name "README.md" -exec dirname {}  \; | sort  > directories.temp
 
 # Step 4: Copy makefiles to the directories found
-while read DIRECTORY ; do cp makefile.chap.newtemplate "$DIRECTORY/makefile" ; done < directories 
+while read DIRECTORY ; do cp makefile.chap.newtemplate "$DIRECTORY/makefile" ; done < directories.temp 
 
 
 # Step 5: Search all level.day - Files  there we need the modified makefile 
-find . -name "level.day" -exec dirname {}  \;  > days
+find . -name "level.day" -exec dirname {}  \; | sort  > days
 
 # Step 6: Copy makefiles to the directories found
 while read DAY ; do cp makefile.day.newtemplate "$DAY/makefile" ; done < days
@@ -28,6 +28,14 @@ while read DAY ; do cp makefile.day.newtemplate "$DAY/makefile" ; done < days
  
 # Step 7: Overwrite top-level-makefile 
 cp makefile.overall.newtemplate makefile 
+
+# Step 8: change order of directory-levels : Grep away the days and append them at the end...
+grep -v -x -f days directories.temp > directories
+cat days >> directories
+rm directories.temp 
+
+# Step 9 : Cleanup
+rm *.newtemplate
 
 # Announce next steps 
 echo "makefiles created"

@@ -84,8 +84,3 @@ Rechts der Arbeits-Bereich zum Bearbeiten/Programmieren
 * Das Programm ist in Calliope-Computer-Sprache übersetzt und in den Simulator geladen
 
 
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf dieser Folien gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

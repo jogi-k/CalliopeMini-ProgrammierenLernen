@@ -164,10 +164,3 @@ Wer einen Rev 2.0 Calliope hat, da sieht das Bild beim Anstecken des Calliope Mi
 
 
 
-
-
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf diesen Folien gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

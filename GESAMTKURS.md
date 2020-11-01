@@ -15,6 +15,11 @@ __Herbst 2020__
 
 ## Lektionen / Nachmittage
 
+* [01: Tag 1, Kennenlernen, Simulator, Variablen, etc](01_Tag1/index.html)
+
+
+<!--
+
 ### [Lektion / Nachmittag  1](01_Tag1/index.html)
 
 * [01: Auspacken, Einschalten](01_Tag1/01_01_Auspacken-Einschalten/index.html)
@@ -29,7 +34,6 @@ __Herbst 2020__
 * [10: Taschenrechner](01_Tag1/01_10_Taschenrechner/index.html)
 * [11: Gespeicherte HexFiles laden](01_Tag1/01_11_HexFiles_Simulator/index.html)
 
-<!--
 
 ### [Lektion / Nachmittag  2](02_Tag2/index.html)
 

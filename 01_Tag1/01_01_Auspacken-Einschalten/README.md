@@ -88,9 +88,3 @@ Wir lernen später, was wir damit anfangen, können.
 
 Merkt Euch einfach an dieser Stelle, dass es hier das Programm zum Herunterladen gibt.
 
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf diesen Folien gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-

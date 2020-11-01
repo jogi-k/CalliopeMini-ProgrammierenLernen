@@ -79,10 +79,3 @@ basic.forever(() => {
 __Download Hex-Code__
 
 [Hex-code](code/mini-LedAnzeigenMitPause.hex)
-
-
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf diesen Folien:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

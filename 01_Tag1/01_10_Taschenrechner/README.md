@@ -211,19 +211,3 @@ basic.forever(function () {
 
 [Hex-code](code/mini-Taschenrechner.hex)
 
-## Navigation
-
-
-* [Zurück](../01_08_TastenEingabe/index.html)  
-* [Hoch zur Übersicht](../index.html)  
-
-
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
-
-*  Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-
-
