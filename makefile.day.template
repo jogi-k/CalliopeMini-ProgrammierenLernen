@@ -20,6 +20,7 @@ ENDE_1610.pdf : ENDE.md $(texheader) makefile
 	@echo "---"       >> ENDE_temp_1610.md
 	@cat ENDE.md >> ENDE_temp_1610.md
 	pandoc -t beamer -H $(texheader) ENDE_temp_1610.md  -o ENDE_1610.pdf 
+	@rm ENDE_temp_1610.md
 
 ENDE_A4.pdf : ENDE.md $(texheader) makefile
 	@echo "---"       > ENDE_temp_A4.md
@@ -28,6 +29,7 @@ ENDE_A4.pdf : ENDE.md $(texheader) makefile
 	@echo "---"       >> ENDE_temp_A4.md
 	@cat ENDE.md >> ENDE_temp_A4.md
 	pandoc -t beamer -H $(texheader) ENDE_temp_A4.md  -o ENDE_A4.pdf 
+	@rm ENDE_temp_A4.md
 
 ${current_dir}_A4.pdf : ENDE_A4.pdf 00_A4.pdf  
 	@find . -maxdepth 2 -name "*_A4.pdf"  | sort > pdfs_A4.txt
