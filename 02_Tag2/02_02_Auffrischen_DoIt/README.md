@@ -179,7 +179,7 @@ __Knopf B : Zeige LEDs__
 
 * da wir __ALLES__ gesichert haben
 * und wissen wie wir das wieder herstellen können
-* (Siehe Tag 1 __Kapitel 11__
+* (Siehe Tag 1 __Kapitel 11__)
 * Können wir das __ALLES__
 * in den __Mülleimer__ ziehen 
 
@@ -257,7 +257,8 @@ __Variable in Arbeitsbereich__
 
 
 
-![](pics/Selection_061.png)
+![](pics/Selection_061.png){height=90%}
+
 
 \colB{6cm}
 
@@ -285,7 +286,8 @@ __Speichern Variable 1__
 
 \colA{6cm}
 
-![](pics/Selection_062.png)
+![](pics/Selection_062.png){height=90%}
+
 
 
 
@@ -301,7 +303,8 @@ __zeige Zeichenfolge aus Menu__
 
 
 
-![](pics/Selection_063.png)
+![](pics/Selection_063.png){height=90%}
+
 
 
 
@@ -343,7 +346,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_065.png)
+![](pics/Selection_065.png){height=90%}
+
 
 
 
@@ -405,7 +409,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_066.png)
+![](pics/Selection_066.png){height=90%}
+
 
 
 
@@ -434,7 +439,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_067.png)
+![](pics/Selection_067.png){height=90%}
+
 
 \colB{6cm}
 
@@ -450,7 +456,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_068.png)
+![](pics/Selection_068.png){height=90%}
+
 
 \colB{6cm}
 
@@ -467,7 +474,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_069.png)
+![](pics/Selection_069.png){height=90%}
+
 
 \colB{6cm}
 
@@ -483,7 +491,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_070.png)
+![](pics/Selection_070.png){height=90%}
+
 
 \colB{6cm}
 
@@ -498,7 +507,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_071.png)
+![](pics/Selection_071.png){height=90%}
+
 
 \colB{6cm}
 
@@ -514,7 +524,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_072.png)
+![](pics/Selection_072.png){height=90%}
+
 
 \colB{6cm}
 
@@ -530,7 +541,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colA{6cm}
 
-![](pics/Selection_073.png)
+![](pics/Selection_073.png){height=90%}
+
 
 \colB{6cm}
 
@@ -850,7 +862,8 @@ __Variable umbenennen mit Dreieck rechts des Variablen-Namens__
 
 \colB{6cm}
 
-__Selection_047.png__
+* Die Variable vorne "nehmen"
+* und in __zeige Nummer__ einrasten
 
 \colEnd
 
@@ -933,7 +946,7 @@ __Selection_047.png__
 
 \colB{6cm}
 
-* Durch Klick auf das __Dreieich__
+* Durch Klick auf das __Dreieck__
 * Kann die Variable __umbenannt__ werden
 
 \colEnd

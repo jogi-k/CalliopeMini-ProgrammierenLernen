@@ -155,8 +155,3 @@ Unser Verbaucher wird wahrscheinlich einfach gar __nicht__ oder nicht ganz wie e
 * Ist die Spannungsquelle zu klein, wir meist nichts passieren, aber auch nichts "funktionieren"
 
 
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Seiten/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
-
-*  Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

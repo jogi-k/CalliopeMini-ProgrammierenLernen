@@ -91,10 +91,3 @@ So wie bei den Spannungs-Quellen, den Wasserfällen, die es in sehr verschiedene
 (https://pixabay.com/de/wasserrad-holz-bach-modell-778801 , CC0 Creative Commons )
 \end{tiny}     
 
-
-## Lizenz/Copyright-Info
-Für alle Bilder und Texte auf diesen Seiten/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-

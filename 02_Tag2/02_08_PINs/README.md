@@ -56,11 +56,3 @@ __Achtung!__ Ihr müsst den Minus-Pol oben links __und__ einen der vier programm
 ![](pics/Calliope_Ausgepackt_Ports.png){height=70%}
 
 
-
-## Lizenz/Copyright-Info
-
-Für alle Bilder auf diesen Seite/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
-
-- Autor: Jörg Künstner
-- Lizenz: CC BY-SA 4.0
-

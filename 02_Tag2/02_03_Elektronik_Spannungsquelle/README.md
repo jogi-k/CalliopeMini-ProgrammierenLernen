@@ -243,8 +243,3 @@ https://www.youtube.com/watch?v=Je22SgH8TCk
 Mehr Links auf der  [Übersicht](../index.html) 
 
 
-## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
-
-*  Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

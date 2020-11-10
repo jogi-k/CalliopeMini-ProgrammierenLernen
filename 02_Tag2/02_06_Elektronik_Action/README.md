@@ -81,11 +81,6 @@ Nach dem Kurzschluss, bei dem die Sicherung durchbrennt, ist unser "Calliope", d
 * Kurzschlüsse können auch bei unseren kleinen Spannungen einiges anrichten!
 
 
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Seite/Folien, soweit nicht unter dem Bild anders gekennzeichnet,  gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 
 
 
