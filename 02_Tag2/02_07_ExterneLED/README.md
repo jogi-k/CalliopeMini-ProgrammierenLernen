@@ -46,6 +46,17 @@ Wenn man die Anschlüsse auf dem Calliope etwas genauer anschaut, dann sieht man
 Wichtig ist an dieser Stelle:  
 Die __Pins__ kann man vom Programm aus sowohl als __Ausgang__ schalten, d.h. wir können z.B, eine LED ein und ausschalten, als auch  kann man die __Pins__ als __Eingang__ schalten, sprich man kann vom Programm aus abfragen, ob von aussen eine Spannung angelegt wurde, ob der Eingang mit dem Finger berührt wurde und ähnliches.
 
+## Pins als Ausgang oder Eingang II
+
+### Ausgang
+* Pin als __AUSGANG__ : Calliope __schaltet__ etwas ein und aus, z.B. eine __LED__
+* In der Fachsprache : Calliope __schaltet__ einen __Aktor__
+
+### Eingang
+
+* Pin als __EINGANG__ : Calliope __reagiert__ auf eine Änderung, z.B. einen __Taster/Schalter__ 
+* In der Fachsprache : Calliope __reagiert__ auf einen __Sensor__ 
+
 ## Externe LED ansteuern
 
 Wir werden nun LEDs an die Anschlüsse anschliessen und schauen, ob wir die LEDs selbst ansteueren können.
@@ -169,7 +180,9 @@ Wir trennen Rot auf
 
 ![](pics/ampel8.png){height=80%}
 
-Wir bauen Schalter ein (S0 - S2)
+Wir bauen Schalter ein (S0 - S2)  
+(Beim Computer wird meist bei 0 anstatt bei 1 angefangen zu zählen...)
+
 
 
 ## Ohne Calliope 9
@@ -257,7 +270,7 @@ Schalter S2 einschalten : Grün
 
 ## Wie die Ampel funktioniert
 
-* Alle Schalter aus => Alle Lampen aus
+* Alle Schalter aus $\Rightarrow$ Alle Lampen aus
 * S0 = 0 : Rot aus
 * S0 = __1__ : Rot __ein__
 * S1 = 0 : Gelb aus
@@ -272,16 +285,16 @@ Schalter S2 einschalten : Grün
 \colA{7cm}
 
 * Alle Lampen aus
-* Rot ein => __Ampel Rot (1)__
+* Rot ein  $\Rightarrow$ __Ampel Rot (1)__
 * Rotzeit abwarten (z.B. 5 sek) 
-* Gelb ein => __Ampel Rot-Gelb (2)__
+* Gelb ein $\Rightarrow$ __Ampel Rot-Gelb (2)__
 * Rot-Gelbzeit warten (z.B. 1 sek) 
 * Rot aus
 * Gelb aus
-* Grün ein => __Ampel Grün (3)__
+* Grün ein $\Rightarrow$ __Ampel Grün (3)__
 * Grünzeit warten (z.B. 5 sek)
 * Grün aus 
-* Gelb ein => __Ampel Gelb (4)__
+* Gelb ein $\Rightarrow$ __Ampel Gelb (4)__
 * Gelbzeit warten (z.B. 1 sek)
 * Wieder von vorne
 
@@ -298,32 +311,32 @@ Schalter S2 einschalten : Grün
 \colA{6cm}
 
 * Alle Lampen aus
-* Rot ein => __Ampel Rot__
+* Rot ein $\Rightarrow$ __Ampel Rot__
 * Rotzeit abwarten (z.B. 5 sek) 
-* Gelb ein => __Ampel Rot-Gelb__
+* Gelb ein $\Rightarrow$ __Ampel Rot-Gelb__
 * Rot-Gelbzeit warten (z.B. 1 sek) 
 * Rot aus
 * Gelb aus
-* Grün ein => __Ampel Grün__
+* Grün ein $\Rightarrow$ __Ampel Grün__
 * Grünzeit warten (z.B. 5 sek)
 * Grün aus 
-* Gelb ein => __Ampel Gelb__
+* Gelb ein $\Rightarrow$ __Ampel Gelb__
 * Gelbzeit warten (z.B. 1 sek)
 * Wieder von vorne
 
 \colB{6cm}
 
-* S0,S1,S2 =0 => Lampen aus
-* S0=1  => __Ampel Rot__
+* S0,S1,S2 =0 $\Rightarrow$ Lampen aus
+* S0=1  $\Rightarrow$ __Ampel Rot__
 * Rotzeit abwarten (z.B. 5 sek) 
-* S1=1  => __Ampel Rot-Gelb__
+* S1=1  $\Rightarrow$ __Ampel Rot-Gelb__
 * Rot-Gelbzeit warten (z.B. 1 sek) 
 * S0=0
 * S1=0
-* S2=1 => __Ampel Grün__
+* S2=1 $\Rightarrow$ __Ampel Grün__
 * Grünzeit warten (z.B. 5 sek)
 * S2=0 
-* S1=1 => __Ampel Gelb__
+* S1=1 $\Rightarrow$ __Ampel Gelb__
 * Gelbzeit warten (z.B. 1 sek)
 * Wieder von vorne
 
@@ -336,17 +349,17 @@ Schalter S2 einschalten : Grün
 
 \colA{7cm}
 
-* S0,S1,S2 =0 => Lampen aus
-* S0=1  => __Ampel Rot (1)__
+* S0,S1,S2 =0 $\Rightarrow$ Lampen aus
+* S0=1  $\Rightarrow$ __Ampel Rot (1)__
 * Rotzeit abwarten (z.B. 5 sek) 
-* S1=1   => __Ampel Rot-Gelb (2)__
+* S1=1   $\Rightarrow$ __Ampel Rot-Gelb (2)__
 * Rot-Gelbzeit warten (z.B. 1 sek) 
 * S0=0
 * S1=0
-* S2=1 => __Ampel Grün (3)__
+* S2=1 $\Rightarrow$ __Ampel Grün (3)__
 * Grünzeit warten (z.B. 5 sek)
 * S2=0 
-* S1=1 => __Ampel Gelb (4)__
+* S1=1 $\Rightarrow$ __Ampel Gelb (4)__
 * Gelbzeit warten (z.B. 1 sek)
 * Wieder von vorne
 
@@ -381,17 +394,17 @@ Durch den Calliope
 
 \colA{7cm}
 
-* S0,S1,S2 =0 => Lampen aus
-* S0=1  => __Ampel Rot (1)__
+* S0,S1,S2 =0 $\Rightarrow$ Lampen aus
+* S0=1  $\Rightarrow$ __Ampel Rot (1)__
 * Rotzeit abwarten (z.B. 5 sek) 
-* S1=1   => __Ampel Rot-Gelb (2)__
+* S1=1   $\Rightarrow$ __Ampel Rot-Gelb (2)__
 * Rot-Gelbzeit warten (z.B. 1 sek) 
 * S0=0
 * S1=0
-* S2=1 => __Ampel Grün (3)__
+* S2=1 $\Rightarrow$ __Ampel Grün (3)__
 * Grünzeit warten (z.B. 5 sek)
 * S2=0 
-* S1=1 => __Ampel Gelb (4)__
+* S1=1 $\Rightarrow$ __Ampel Gelb (4)__
 * Gelbzeit warten (z.B. 1 sek)
 * Wieder von vorne
 
@@ -403,23 +416,6 @@ Durch den Calliope
 \colEnd
 
 
-
-## Ersetzen Software : Schalter S durch Pin P
-
-\colA{7cm}
-
-* Das Bild auf der rechten Seite
-* ist das Programm vom letzten Mal
-* es entspricht fast der Anweisung mit den Schaltern 
-* Im Programm setzen wir unten Grün auf aus
-* In der Schalt-Anweisung:
-* Schalten wir oben __ALLE__ aus
-
-\colB{5cm}
-
-![](./pics/Selection_001_new.png){height=80%}
-
-\colEnd
 
 
 ## Anschluss LEDs (1)
