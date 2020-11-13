@@ -154,10 +154,3 @@ Die Art der Rechnung kann man im Nachhinein auch immernoch durch Klick in das Dr
 
 ![](./pics/11_Mini_USB-Stick.png){height=70%}
 
-
-
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf dieser Seite/Folien gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
