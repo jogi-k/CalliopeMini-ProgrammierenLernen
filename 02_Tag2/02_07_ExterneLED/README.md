@@ -57,12 +57,16 @@ Die __Pins__ kann man vom Programm aus sowohl als __Ausgang__ schalten, d.h. wir
 * Pin als __EINGANG__ : Calliope __reagiert__ auf eine Änderung, z.B. einen __Taster/Schalter__ 
 * In der Fachsprache : Calliope __reagiert__ auf einen __Sensor__ 
 
-## Externe LED ansteuern
+## Externe LED ansteuern I
 
 Wir werden nun LEDs an die Anschlüsse anschliessen und schauen, ob wir die LEDs selbst ansteueren können.
 
 ![](pics/Calliope_Ausgepackt_Ports.png){height=50%}
 
+## Externe LED ansteuern II
+
+
+![](pics/Calliope_Ausgepackt_Ports_II.png){height=70%}
 
 
 ## Die Ampel

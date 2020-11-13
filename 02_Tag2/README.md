@@ -3,11 +3,15 @@
 
 ## Lektion / Nachmittag  2
 
-### Zusammenfassung 
+### Zusammenfassung I
 
 * Heute wiederholen wir als erstes das, was wir am ersten Nachmittag gelernt haben, es ist doch eine Fülle an neuen Sachen, die es zu erfahren gibt.   
 * Sowohl mit dem Computer gibt es einiges zu erkunden (als kleine Info für Euch und Eure Eltern: Auf den Computern arbeiten wir mit Linux, darum sind manche Dinge ein klein bisschen anders als Ihr es vielleicht von zu Hause - mit wahrscheinlich Windows 10, hoffentlich nicht WIndows 7 oder XP - gewohnt seid...). 
 * Als auch natürlich mit dem Calliope Mini und der Programmierumgebung (komplett im Browser) gibt es sehr viel neues zu entdecken.
+
+
+### Zusammenfassung II
+
 * Dann schauen wir uns an, was Spannungs-Lieferanten und was Spannungs-Verbraucher sind, lernen, dass wir nur mit Batterien arbeiten und dass wir die Finger von der Steckdose lassen.  
 * Und dabei lernen wir, dass zwar die Batterien normalerweise für uns nicht gefährlich sind, dass sie aber sehr wohl Verbraucher zerstören können.  
 * __Achtung__: Selbst mit den kleinen Batterien können wir - wenn wir einen Kurzschluss machen - uns die Finger verbrennen, da sie sehr heiss werden können!  
