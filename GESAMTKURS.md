@@ -9,14 +9,15 @@ __Herbst 2020__
 
 <!--
 ## Download Gesamtkurs als Folien
- 
+
 [Kurs CalliopeMini-ProgrammierenLernen als PDF-Folien](CalliopeMini-ProgrammierenLernen.pdf)
 -->
 
 ## Lektionen / Nachmittage
 
-* [01: Tag 1, Kennenlernen, Simulator, Variablen, etc](01_Tag1/index.html)
-
+* [Do, 29.Okt : Tag 1, Kennenlernen, Simulator, Variablen, etc](01_Tag1/index.html)
+* [Do, 12.Nov : Tag 2, Elektronik, externe LEDs, Ampel, PINs abfragen etc](02_Tag2/index.html)
+* Do, 19.Nov : Tag 3, Wenn / Dann, RGB-Led, Temperatur-Sensor
 
 <!--
 
@@ -102,7 +103,7 @@ __Herbst 2020__
 ### Gesamt-Übersicht
 
 
-![](Calliope-Kurs_V2_April_2019_final.png)
+![](Calliope-Kurs_V3_Herbst_2020.png)
 
 
 <!--
