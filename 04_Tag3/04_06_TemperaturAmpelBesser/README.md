@@ -7,9 +7,9 @@
 Nun wollen wir die Temperatur-Ampel etwas verbessern.
 
 * Wir legen einen grünen Bereich zwischen grösser als 21 °C und bis 25 °C fest
-* Wenn die Temperatur kleiner/gleich 21 °C ist, soll das Licht blau sein, es ist uns zu kalt (blau wie am Wasserhahn)
-* Wenn die Temperatur in unserem "grünen" Bereich ist, dass soll natürlich auch die LED grün leuchten
-* Wenn die Temperatur  grösser als 25 °C ist, dann soll die LED rot leuchten (rot wie am Wasserhahn)
+* __Wenn__ die Temperatur kleiner/gleich 21 °C ist, __dann__ soll das Licht blau sein, es ist uns zu kalt (blau wie am Wasserhahn)
+* __Wenn__ die Temperatur in unserem "grünen" Bereich ist, __dann__ soll natürlich auch die LED grün leuchten
+* __Wenn__ die Temperatur  grösser als 25 °C ist, __dann__ soll die LED rot leuchten (rot wie am Wasserhahn)
 
 
 ## Echter grüner Bereich
@@ -32,35 +32,13 @@ Und die Farben müssen wir natürlich auch noch anpassen.
 
 ## Erweiterung in der Programmier-Oberfläche
 
-Um das Wenn-Dann - Konstrukt in der Programmier-Oberfläche zu erweitern, muss im "Wenn-Dann-Puzzle-Stück" das Zahnrädchen benutzt werden.  
-Das öffnet die Tool (= Werkzeug)-Box des Wenn-Dann-Puzzleteils.
-
+Um das Wenn-Dann - Konstrukt in der Programmier-Oberfläche zu erweitern, muss im "Wenn-Dann-Puzzle-Stück" das (+) benutzt werden.  
  
 ![ToolBox](./pics/01_ToolBox.png){height=60%}
 
 ## Erweiterung in der Programmier-Oberfläche
 
-Leider merkt man bei diesen Spezialitäten, dass die Programmier-Oberfläche noch nicht an allen Stellen vom Englischen ins Deutsche übersetzt wurde, dann hier kommen plötzlich:
-
-* __if__ anstatt __wenn__
-* __else if__ anstatt __sonst wenn__ 
-* __else__ anstatt __sonst__
-  
-
-![ToolBox Offen](./pics/02_ToolBoxOffen.png){height=60%}
-
-## Erweiterung in der Programmier-Oberfläche
-
-Die Benutzung ist hier auch etwas gewöhnungs-bedürftig:  
-
-* Um unser "Wenn-Dann"-Konstrukt um ein zusätzliches __sonst wenn__ zu erweitern zieht man das __else if__ oben in der Toolbox von der linken Hälfte auf die rechte Hälfte rüber, zwischen das __if__ und das __else__.  
-* Dies führt unten zu Erweiterung der Wenn-Dann-Abfrage um eine __Ansonsten Wenn__ - Konstruktion.
-* Mann kann auch durchaus noch mehrere dieser __else if__ einbauen, wenn man noch mehr Fälle unterscheiden will.
-* Für unsere Zwecke reicht allerdings dieses eine.
-
-## Erweiterung in der Programmier-Oberfläche
-
-![Toolbox Miniatur](./pics/03_ToolboxMiniatur.png){height=60%}
+![Toolbox Miniatur](./pics/03_ElseIf.png){height=60%}
 
 
 ## Einbau der zusätzlichen Abfragen
@@ -73,7 +51,6 @@ Nun können wir also in die zusätzlichen Abfragen unsere weiteren Überprüfung
 
 Nun können wir das zuerst im Simulator ausprobieren, indem wir die Temperatur ändern und die Farbe der LED beobachten.
 
-
 ## Ein Bug ( ein Fehler) !
 
 * Es geht nicht!  
@@ -82,9 +59,46 @@ Nun können wir das zuerst im Simulator ausprobieren, indem wir die Temperatur �
 
 Dazu können wir mal versuchen, die Temperatur auf  > 26°C, also z.B. 30°C  einzustellen und dann das Programm anschauen / beobachten.
 
-Dazu eignet sich die __Schnecke__.   
-Die lässt das Programm im Simulator im Schneckentempo ablaufen und zeigt jeweils durch Hervorheben an, welcher Schritt gerade ausgeführt wird.
+Dazu eignet sich der __Käfer__.   
+
+## De"bug"ging
  
+![Debugging](./pics/04a_Debugging.png){height=70%}
+
+
+## Ein Bug ( ein Fehler ) !
+
+* Ein Programmier-Fehler
+* auch "Bug" genannt
+* Bug ist english und heisst Käfer / Fliege
+* Was hat das mit Programmieren zu tun?
+
+## Ein Röhren-Computer
+
+
+
+![Röhrencomputer](./pics/Roehrencomputer.jpg){height=70%}
+\begin{tiny}
+( By Heinz Reutersberg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=80182474 )
+\end{tiny}   
+
+
+## Elektronen-Röhre
+
+![Elekronen-Roehre](./pics/Solton_BV60_Bassamp.jpg){height=70%}
+
+\begin{tiny}
+( By Christopher Schirner, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=53326983 )
+\end{tiny}   
+
+## Der erste Bug jemals gefunden
+
+![Erster Computer Bug](./pics/First_Computer_Bug_1945.jpg){height=70%}
+
+\begin{tiny}
+( U.S. Naval Historical Center Online Library Photograph NH 96566-KN )
+\end{tiny}   
+
 ## Ein Bug ( ein Fehler) !
 
 ![Bugsuche Schnecke](./pics/05_BugsucheSchnecke.png){height=60%}
@@ -194,6 +208,8 @@ basic.forever(() => {
 ```
 </details>
 
+## Download HEX-Datei
+
 __Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser03.hex)
@@ -201,8 +217,3 @@ __Download Hex-Code__
 
 
 
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-*  Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

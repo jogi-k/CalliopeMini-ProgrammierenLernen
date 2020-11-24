@@ -39,9 +39,9 @@ Das heisst: Wir müssen unsere Wenn-Dann-Konstruktion so umbauen, dass folgender
 ## Verwendung sinnvoller Werte
 
 * Nun ergeben auch die vorhin "ganz willkürlich gewählten" Werte 22 und 21 etwas Sinn...
-* Wir ersetzen die konstante 22 in der Wenn-Dann-Abfrage durch die jetztige Temeperatur.
-* Diese befindet sich in der Variable __AktuelleTemperatur__
-* Dazu holen wir uns die Variable __AktuelleTemperatur__ aus dem Menu Variablen
+* Wir ersetzen die konstante 22 in der Wenn-Dann-Abfrage durch die jetztige Temperatur.
+* Diese befindet sich in der Variable ___AktuelleTemperatur___
+* Dazu holen wir uns die Variable ___AktuelleTemperatur___ aus dem Menu Variablen
 
 ## Verwendung sinnvoller Werte
 
@@ -61,7 +61,7 @@ Damit lässt sich im Simulator schon mal ausprobieren, wie unsere Temperatur-Amp
 ## Benutzung im Simulator
 
 Beim Starten ist im Simulator die Temperatur immer 21 °C, das ist nach unseren Wünschen genau die Grenze. 
-Erst wenn die __AktuelleTemperatur__ grösser als 21 °C ist, dann wird die Anzeige grün.
+Erst wenn die ___AktuelleTemperatur___ grösser als 21 °C ist, dann wird die Anzeige grün.
 Das können wir im Simulator ausprobieren und dann natürlich auch wieder in den Calliope laden um es in der richtigen Hardware mit echten Werten zu testen.
 
 
@@ -114,17 +114,10 @@ basic.forever(() => {
 ```
 </details>
 
+## Download HEX-Datei
+
 __Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser02.hex)
 
-
-
-
-## Lizenz/Copyright-Info
-
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 

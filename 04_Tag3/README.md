@@ -4,7 +4,7 @@
    
 ## Lektion / Nachmittag  3
 
-### Zusammenfassung 
+### Zusammenfassung I 
 
 Heute wiederholen wir als erstes nochmal das Gelernte vom letzten Nachmittag vor den Ferien, insbesondere schauen wir uns nochmal __SEHR__ genau an, 
 
@@ -15,6 +15,8 @@ Heute wiederholen wir als erstes nochmal das Gelernte vom letzten Nachmittag vor
 * mit Obst-Körben 
     * die mit Äpfeln gefüllt werden 
     * und deren Apfel-Füllstand angeschaut wird
+
+### Zusammenfassung II 
 
 Im Anschluss daran schauen wir uns zuerst ein sehr wichtiges Kapitel beim Programmieren an:  
 Die __Wenn-Dann-Ansonsten__ - Konstruktion sicherlich das wichtigste Element überhaupt beim Programmieren!  
@@ -35,19 +37,4 @@ Und zum Abschluss verwenden wir das gewonnene Wissen um Temperatur, Wenn-Dann un
 * [05 Die RGB-Led, eine Temperatur-Ampel](04_05_TemperaturAmpel/index.html)
 * [06 Bessere Temperatur-Ampel/Fehlersuche](04_06_TemperaturAmpelBesser/index.html)
 
-
-
-## Weitere Schritte  
-
-
-Schaut Euch doch die "Hausaufgabe" an, da wird als neues Eingangs-Element der Licht-Messer verwendet und dann mit Hilfe einer __Wenn-Dann__ - Konstruktion und Ton-Ausgabe eine kleine Schubladen-Alarm-Anlage gebaut.  
-
-[Auf zur Schubladen-Alarm-Anlage](../05_Tag3_Nachlese/index.html)
-
-
-## Navigation
-
-* [Zurück zu Tag 2 Hausaufgabe](../03_Tag2_Nachlese/index.html)
-* [Hoch zur Übersicht](../index.html)
-* [Weiter zu Tag 3 Hausaufgabe (Schubladen-Alarm-Anlage)](../05_Tag3_Nachlese/index.html)
 

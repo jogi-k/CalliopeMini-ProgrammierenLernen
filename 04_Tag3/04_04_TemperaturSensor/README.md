@@ -4,7 +4,7 @@
 ## Sensor/Eingang/Input
 
 
-Neben vielen anderen Sensoren/Eingängen, ein paar davon haben wir schon kennengelernt, hat der Calliope auch einen Temperatur-Sensor.
+Neben vielen anderen Sensoren/Eingängen, ein paar davon haben wir schon kennengelernt, hat der Calliope auch einen __Temperatur-Sensor__.
 
 Diesen wollen wir nun als sinnvollen Eingangs-Wert für unsere Wenn-Dann Abfrage benutzen.
 
@@ -27,14 +27,14 @@ Das Menu Eingabe
 
 ![Menu Input](./pics/01_InputMenu.png){height=50%}
 
-enthält eine Spezial-Variable, eine Input-Variable, namenes __Temperatur__.
-Um diese sinnvoll weiter zu verwenden, legen wir Menu __Variablen__ eine eigene Variable an, die wir zum Beispiel __AktuelleTemperatur__ nennen.
+enthält eine Spezial-Variable, eine Input-Variable, namens __Temperatur__.
+Um diese sinnvoll weiter zu verwenden, legen wir Menu __Variablen__ eine eigene Variable an, die wir zum Beispiel ___AktuelleTemperatur___ nennen.
 
 
 
 ## Variable anlegen 
 
-Nun legen wir uns wieder eine neue Variable namens __AktuelleTemperatur__  an.
+Nun legen wir uns wieder eine neue Variable namens ___AktuelleTemperatur___  an.
 
 
 ![Variable anlegen](./pics/02_VariableAnlegen.png){height=60%}
@@ -46,7 +46,7 @@ Nun legen wir uns wieder eine neue Variable namens __AktuelleTemperatur__  an.
 
 ## Temperatur auslesen 
 
-Nun belegen wir also die neu angelegte Variable __AktuelleTemperatur__   mit der Temperatur, wie sie aus dem Eingabe-Menu kommt.
+Nun belegen wir also die neu angelegte Variable ___AktuelleTemperatur___   mit der Temperatur, wie sie aus dem Eingabe-Menu kommt.
 
 
 ![Variable zuweisen](./pics/04_TemperaturAuslesen.png){height=60%}
@@ -125,15 +125,9 @@ basic.forever(() => {
 ```
 </details>
 
+## Download HEX-Datei
+
 __Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser01.hex)
-
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 

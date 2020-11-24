@@ -238,11 +238,3 @@ Und in Calliope-Rechnung sieht das ganz wieder genau gleich wie vorher aus:
 
 ![](./pics/Call_Korb_C_eq_Korb_A_plus_Korb_B.png){height=40%}
 
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
-
-*  Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-

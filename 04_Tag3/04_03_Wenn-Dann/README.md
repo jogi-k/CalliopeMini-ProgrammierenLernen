@@ -4,7 +4,7 @@
 ## Weltmeisterschaft / Fussball-Wetten / Vergleiche
 
 
-* Wer hat die Fussball-Weltmeisterschaft geschaut?   
+* Wer hat vor 2 Jahren schaut Fussball-WM geschaut?   
 * Wer hat dabei Wetten gemacht" ?  
 * **Wenn** die Schweiz ein Tor mehr schiesst als Deutschland, 
 * **dann** bekomme ich von Dir zwei zusätzliche Panini-Bilder?  
@@ -192,12 +192,4 @@ __Download Hex-Code:__
 
 [Hex-code](code/mini-Wenn_Dann_RGB_Gruen.hex)
 
-
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 
