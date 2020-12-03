@@ -112,12 +112,3 @@ __Download Hex-Code__
 [Hex-code](code/mini-DC_Motor_LageSensoren.hex)
 
 
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-
- 

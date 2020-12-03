@@ -47,8 +47,8 @@ Wir ziehen die __Temperatur__ aus dem Programm raus in die Arbeitsfläche und kl
 Bei der Programmierung ist fast nichts schlimmer, als Variablen-Namen, die falsch benannt sind.
 
 * Das haben wir jetzt aber gerade gemacht, wir haben ein Programm geschrieben,  
-* welches die __Lichtstärke__ misst u
-* nd diese in einer Variable namens __AktuelleTemperatur__ ablegt   
+* welches die __Lichtstärke__ misst
+* und diese in einer Variable namens __AktuelleTemperatur__ ablegt   
 * und anschliessend damit weiterarbeitet!  
 
 ## Variable umbenennen
@@ -125,13 +125,4 @@ basic.forever(() => {
 __Download Hex-Code__
 
 [Hex-code](code/mini-TemperaturMesser01.hex)
-
-
-
-## Lizenz/Copyright-Info
-
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 

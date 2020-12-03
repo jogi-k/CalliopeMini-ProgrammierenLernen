@@ -12,7 +12,7 @@ Beim Abdecken des Calliope mit der Hand fallen die Werte dann sehr schnell auf c
 * Diese soll auf der gemessenen Helligkeit basieren.  
 * In der geschlossenen Schublade ist es dunkel
 * Das heisst niedere Messwerte
-* Wenn die Schublade geöffnet wird, dann wird (ausser in einem dunklen Zimmer...) in der Schublade hell
+* Wenn die Schublade geöffnet wird, dann wird es (ausser in einem dunklen Zimmer...) in der Schublade hell
 * Das heisst hohe Messwerte
 * Wir wollen also ab einem bestimmten Messwert, den Ihr Euch basierend auf den gerade gemachten Messungen selbst ausdenken könnt, etwas tun
 * Wir wollen einen kleinen Alarmton auslösen
@@ -42,32 +42,23 @@ Wir wollen
 * die Vergleiche sind wahrscheinlich noch falsch, 25 und 21 waren Temperatur-Vergleichswerte
 * Wir wollen die Reaktion ändern, wir wollen keine LED-Farbe ändern, sondern einen Ton produzieren.
 
-## Tool/Werkzeug-Box bei Wenn-Dann
+## Wenn-Dann Ansonsten aendern
 
-Zur Änderung des Wenn-Dann-Konstrukts öffnen wir wieder die Werkzeugbox durch das kleine Zahnrädchen.
+Zur Änderung des Wenn-Dann-Konstrukts löschen wir einfach die beiden überflüssigen Teile
+
+* Wir brauchen weder das __SonstWenn__ noch das __Sonst__
 
 ![](./pics/03_WennDannWerkzeug.png){height=60%}
 
-## Tool/Werkzeug-Box bei Wenn-Dann
+## Aufraeumen
 
-* Dort schieben wir wieder in der Miniatur-Version. 
-* Diesmal schieben wir von rechts nach links, das heisst wir machen unser Programm-Konstrukt viel kleiner
-* Wir brauchen weder das __SonstWenn__ noch das __Sonst__
-
-![](./pics/04_Miniatur.png){height=60%}
-
-## Tool/Werkzeug-Box bei Wenn-Dann
-
-Wenn wir das alles in unserer kleinen Werkzeugbox geschoben haben, 
-sieht unser Ergebnis in gross so aus: 
+Wenn wir nun noch die jetzt überflüssig gewordenen Teile "entsorgen" 
 
 ![](./pics/05_ErgebnisInGross.png){height=60%}
 
+## Zwischenergebnis
 
-## Tool/Werkzeug-Box bei Wenn-Dann
-
-Wenn wir nun noch die jetzt überflüssig gewordenen Teile "entsorgen", dann haben wir ein kompaktes Zwischenprogramm:
-
+dann haben wir ein kompaktes Zwischenprogramm:
 ![](./pics/06_ZwischenProgramm.png){height=60%}
 
 ## Musik/Alarmton 
@@ -160,10 +151,3 @@ basic.forever(() => {
 __Download Hex-Code__
 
 [Hex-code](code/mini-LichtMesser02.hex)
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seite gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0

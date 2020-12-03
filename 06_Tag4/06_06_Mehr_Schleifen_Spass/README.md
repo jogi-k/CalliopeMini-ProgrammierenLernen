@@ -351,16 +351,9 @@ Schaut einmal zur Nachlese, zu den Hausaufgaben, da dürft Ihr dieses Bildschirm
 
 ## Navigation
 
+TODO: passt nicht mehr, wohin damit?
 
 * [Zurück](../06_01_Auffrischen/index.html)  
 * [Hoch zur Übersicht](../index.html)  
 * [Weiter](../06_03_Motoren/index.html)  
-
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf dieser Seite gilt:
-
-*  Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 

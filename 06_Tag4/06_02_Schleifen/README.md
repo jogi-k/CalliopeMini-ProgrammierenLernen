@@ -192,9 +192,4 @@ Wenn wir diese Schleife benutzen und unser Programm entsprechend umgestalten, si
 
 \colEnd
 
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 

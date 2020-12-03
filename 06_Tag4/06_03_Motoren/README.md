@@ -136,14 +136,5 @@ Das hier ist ein Servo-Motor, er hat drei Anschlüsse,
 ## Was wir uns anschauen
 
 Wir schauen uns heute die Ansteuerung von normalen DC-Motoren (mit Getriebe) an.  
-Und beim nächsten Mal schauen wir uns evt. die Ansteuerung von Servo-Motoren (Servos) an.
-
-
-
-## Lizenz/Copyright-Info
-Für alle Texte und Bilder auf diesen Folien/Seiten gilt, soweit nicht anders unter dem Bild gekennzeichnet:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 
 
