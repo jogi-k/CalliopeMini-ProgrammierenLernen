@@ -48,10 +48,10 @@ Je nach Verwendungszweck kann man an den Calliope entweder
 So sehen die beiden Möglichkeiten zum Anschluss von zwei oder einem Motor aus:
 
 ## Zwei Motoren
-![](./pics/Calliope_mini_1.0_pinout_fin_2Mot.jpg){height=90%}
+![](./pics/Calliope_mini_1.3_pinout_fin_2Mot.jpg){height=90%}
 
 ## Ein Motor
-![](./pics/Calliope_mini_1.0_pinout_fin_1Mot.jpg){height=90%}
+![](./pics/Calliope_mini_1.3_pinout_fin_1Mot.jpg){height=90%}
 
 ## Pfostenstecker 
 

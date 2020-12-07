@@ -18,8 +18,9 @@ __Herbst 2020__
 * [Do, 29.Okt : Tag 1, Kennenlernen, Simulator, Variablen, etc](01_Tag1/index.html)
 * [Do, 12.Nov : Tag 2, Elektronik, externe LEDs, Ampel, PINs abfragen etc](02_Tag2/index.html)
 * [Do, 19.Nov : Tag 3, Wenn / Dann, RGB-Led, Temperatur-Sensor](04_Tag3/index.html)
-* "Hausaufgabe": Schubladen-Alarmanlage
-* Do, 03.Dez : Tag 4, Schleifen, Motoren-Ansteuerung, Lagesensor
+* ["Hausaufgabe": Schubladen-Alarmanlage](05_Tag3_Nachlese/index.html)
+* [Do, 03.Dez : Tag 4, Schleifen, Motoren-Ansteuerung, Lagesensor](06_Tag4/index.html)
+* ["Hausaufgabe": Schleifen ](07_Tag4_Nachlese/index.html)
 
 <!--
 

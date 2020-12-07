@@ -10,7 +10,7 @@
 
 
 ## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
+Für alle Bilder auf diesen Folien/Seiten (sofern nicht anders angegeben) gilt:
 
 * Autor: Jörg Künstner
 * Lizenz: CC BY-SA 4.0
