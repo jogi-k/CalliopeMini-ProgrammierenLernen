@@ -222,13 +222,3 @@ Mögliche Lösung
 
  ![](pics/Selection_016.png){height=80%}
 
-
-
-## Lizenz / Copyright
-
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-
- 

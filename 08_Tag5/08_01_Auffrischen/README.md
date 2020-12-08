@@ -117,7 +117,7 @@ Wenn wir diese Schleife benutzen und unser Programm entsprechend umgestalten, si
 * Seht Ihr einen Unterschied?
 
 
-## Warum diese Änderung 
+## Warum diese Aenderung 
 
 * Wir sehen kaum einen Unterschied
 * Aber wir haben nur 25 anstatt 255 Schleifendurchläufe
@@ -143,7 +143,7 @@ Wenn wir diese Schleife benutzen und unser Programm entsprechend umgestalten, si
 
 
 
-# Hausaufgabe 2 : Display füllen
+# Hausaufgabe 2 : Display fuellen
 
 ## Zeichen X Wert Y Wert 
 
@@ -186,7 +186,7 @@ Damit kann man einzelne LEDs auf unserem 5 x 5 LED-Bildschirm einschalten.
 
 * Auch hier wieder - wie oft beim Programmieren : es geht bei 0 los !
 
-## Eine Zeile füllen  
+## Eine Zeile fuellen  
 
 * Nun beschränken wir uns also auf eine Zeile in unserer LED-Anzeige
 * Wir zeichnen einen Punkt nach dem anderen
@@ -214,7 +214,7 @@ Damit kann man einzelne LEDs auf unserem 5 x 5 LED-Bildschirm einschalten.
 
 
 
-## Nächster Versuch, Ganzer Bildschirm
+## Naechster Versuch, Ganzer Bildschirm
 
 * Nun können wir also mit einer Schleife eine Zeile füllen, durch die Index-Schleife wird die Zeile __spaltenweise__ gefüllt
 * Wir wollen aber immnoch den ganzen Bildschirm einzeln mit LEDs füllen.
@@ -243,14 +243,14 @@ Damit kann man einzelne LEDs auf unserem 5 x 5 LED-Bildschirm einschalten.
 
 
 
-## Fünf fast identische Codestücke
+## Fuenf fast identische Codestuecke
 
 Was wir aber immer noch haben, sind 5 fast gleich aussehende Schleifen.  Und diese 5-fache Wiederholung wollen wir nun durch eine zweite, verschachtelte Schleife ersetzen.
 
 ![ Zwei verschachtelte Schleifen](./pics/05_ZweiVerschachtelteSchleifen.png){height=60%}
 
  
-## "Böser" Auftrag-Geber 
+## "Boeser" Auftrag-Geber 
 
 \colA{6cm}
 
@@ -264,7 +264,7 @@ Nehmt an, Ihr hättet die Schleife noch nicht kennengelernt, und hättet die Auf
 \colEnd
 
 
-## "Böser" Auftrag-Geber 2
+## "Boeser" Auftrag-Geber 2
 
 Nun kommt der Auftrag-Geber und möchte nun doch lieber anstatt zeilenweise den Bildschirm zu füllen, diesen spaltenweise gefüllt haben.
 
@@ -275,15 +275,8 @@ Wollt Ihr es versuchen?
  
  Ich würde lieber die Variante mit den Schleifen nehmen und dort nur die zwei Schleifen bzw die beiden Index-Variable vertauschen!
  
-## "Böser" Auftrag-Geber 3
+## "Boeser" Auftrag-Geber 3
 
 ![ Zwei verschachtelte Schleifen](./pics/06_ZweiVerschachtelteSchleifen.png){height=60%}
  
-
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
 

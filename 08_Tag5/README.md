@@ -16,7 +16,7 @@ Um den Motor durch Kippen des Calliope ansteuern zu können, betrachten wir noch
 
 Dann schauen wir, wie wir Informationen zwischen zwei Calliopes via Kurzstrecken-Funk austauschen können 
 
-Und schlussendlich lernen wir noch, wir die Eltern oder Geschwister  etwas ärgern können :-) :  
+Und schlussendlich lernen wir noch, wie wir die Eltern oder Geschwister etwas ärgern können :-) :  
 Wir lernen, wie man einen externen Lautsprecher an den Calliope anschliessen kann, so dass alle unsere musikalischen Experimente die ganze Familie beschallen...
 
 
@@ -28,11 +28,4 @@ Wir lernen, wie man einen externen Lautsprecher an den Calliope anschliessen kan
 * [04 Funkübertragung](08_04_Funkuebertragung/index.html)
 * [05 Externer Lautsprecher](08_05_ExternerLautsprecher/index.html)
 
-
-
-
-## Navigation
-
-* [Zurück zu Tag 4 Hausuafgaben (Schleifen)](../07_Tag4_Nachlese/index.html)
-* [Hoch zur Übersicht](../index.html)
 

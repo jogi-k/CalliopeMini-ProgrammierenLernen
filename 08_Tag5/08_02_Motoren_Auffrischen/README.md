@@ -11,10 +11,10 @@ Je nach Verwendungszweck kann man an den Calliope entweder
 So sehen die beiden Möglichkeiten zum Anschluss von zwei oder einem Motor aus:
 
 ## Zwei Motoren
-![](./pics/Calliope_mini_1.0_pinout_fin_2Mot.jpg){height=90%}
+![](./pics/Calliope_mini_1.3_pinout_fin_2Mot.jpg){height=90%}
 
 ## Ein Motor
-![](./pics/Calliope_mini_1.0_pinout_fin_1Mot.jpg){height=90%}
+![](./pics/Calliope_mini_1.3_pinout_fin_1Mot.jpg){height=90%}
 
 ## Motor-Programmierung für Calliope
 
@@ -56,13 +56,5 @@ Also müssen wir das Programm auf den Calliope runterladen und dort ausprobieren
 
 ## Zusätzliche Batterie 
 
-![](./pics/Calliope_mini_1.0_pinout_fin_1Mot_Batt.jpg){height=90%}
+![](./pics/Calliope_mini_1.3_pinout_fin_1Mot.jpg){height=90%}
 
-## Lizenz/Copyright-Info
-
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-
- 

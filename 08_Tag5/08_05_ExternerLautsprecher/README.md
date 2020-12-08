@@ -28,25 +28,25 @@ Diese zusätzliche Batterie
 Die zusätzliche Batterie wird an den beiden rechten Pins angeschlossen, ganz aussen Plus, daneben Minus.
 
 Auf dem offiziellen Bild des Calliope sieht man das ganz gut:
- 
+
 Quelle Bild nächste Seite : 
 
-https://calliope-mini.github.io/assets/v10/img/Calliope_mini_1.0_pinout_fin.jpg:
- 
+https://calliope-mini.github.io/assets/v10/img/Calliope_mini_1.3_pinout_fin.jpg:
+
 ## Offizielles Bild  
 
-![](pics/Calliope_mini_1.0_pinout_fin.jpg){height=95%}
+![](pics/Calliope_mini_1.3_pinout_fin.jpg){height=95%}
 
 ## Detail-Auschnitt
- 
- Hier nochmal ein Ausschnitt daraus, mit den Anschlüssen farbig gekennzeihnet:
+
+ Hier nochmal ein Ausschnitt daraus, mit den Anschlüssen für die Batterie farbig gekennzeihnet:
 
  ![Ausschnitt ](pics/01_ZusatzBatterie.png){height=60%}
- 
+
 ## Und in Betrieb
 
 In Betrieb sieht das dann so aus:
- 
+
 ![Anschluss Calliope](pics/Anschluss_Calliope.jpg){height=60%}
 
 
@@ -55,7 +55,7 @@ In Betrieb sieht das dann so aus:
 Der eingebaute Lautsprecher am Calliope ist schon sehr klein und sehr leise.  
 
 An die Leiste kann man auch einen externen Lautsprecher anschliessen.
- 
+
 Dabei kann man entweder einen kleinen, sogenannten Passiv-Lautsprecher anschliessen, dieser braucht keine zusätzliche Stromversorgung.
 
 Oder aber man kann einen sogenannten Aktiv-Lautsprecher anschliessen, das sind die Lautsprecher, wie man sie auch von Computern kennt, diese haben eine zusätzliche Strom-Versorgung.
@@ -63,7 +63,7 @@ Oder aber man kann einen sogenannten Aktiv-Lautsprecher anschliessen, das sind d
 ## Ein alter Passiv-Lautsprecher
 
 ![Lautsprecher](pics/03_Lautsprecher.png){height=60%}
-   
+
 
 ## Klinken-Anschluss
 
@@ -88,14 +88,5 @@ Anschluss auf dem offiziellen Calliope-Schaltbild:
 __ACHTUNG__ :  
 
 Da der Lautsprecher die gleichen Anschlüsse wie die Motoren verwendet, kann man nicht beides gleichzetig in einem Programm machen. Man muss sich also entscheiden, ob man mit seinem Calliope Musik abspielen will, oder ob man Motoren ansteuern will.
- 
 
 
-
-## Lizenz/Copyright-Info
-Für alle Bilder auf diesen Folien/Seiten gilt:
-
-* Autor: Jörg Künstner
-* Lizenz: CC BY-SA 4.0
-
- 
