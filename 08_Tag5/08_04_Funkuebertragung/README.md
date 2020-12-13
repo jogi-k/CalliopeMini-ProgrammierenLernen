@@ -6,33 +6,33 @@
 
 Im Menu Funk findet sich: 
 
-![](pics/Selection_001.png){height=70%}
+![](pics/01_Menu_Funk.png){height=70%}
 
 
 ## Zahlen Funken
 
 Wir senden und empfangen zuerst mal Zahlen
 
-![](pics/Selection_002.png){height=70%}
+![](pics/02_Zahlen_Funken.png){height=70%}
 
 
 ## Simpler Sender/Empfänger
 
-![](pics/Selection_003.png){height=70%}
+![](pics/03_SimplerSender.png){height=70%}
 
 ## Simulator kann auch Funk
 
 * Sobald man den Knopf A drückt
 * merkt das der Simulator und blendet einen zweiten Calliope ein
 
-![](pics/Selection_004.png){height=70%}
+![](pics/04_Simulator_Funk.png){height=70%}
 
 ## Zwei simulierte Calliopes 
 
 * Nun sind zwei simulierte Calliopes zu sehen 
 * Und der obere ist am Funken 
 
-![](pics/Selection_005.png){height=70%}
+![](pics/05_Zwei_Calliopes.png){height=70%}
 
 
 ## Nochmal Knopf drücken
@@ -40,7 +40,7 @@ Wir senden und empfangen zuerst mal Zahlen
 * Nun muss man nochmal Knopf A drücken
 * damit der andere Calliope das empfangen kann
 
-![](pics/Selection_006.png){height=70%}
+![](pics/06_Nochmal_Knopf.png){height=70%}
 
 
 
@@ -50,13 +50,13 @@ Wir senden und empfangen zuerst mal Zahlen
 * bringt den auch zum Senden
 * und der erste/obere empfängt 
 
-![](pics/Selection_007.png){height=70%}
+![](pics/07_Anderer_Sendet.png){height=70%}
 
 
 
 ## "Sinnvolle" Inhalte Senden
 
-![](pics/Selection_008.png){height=70%}
+![](pics/08_Sinnvolle_Inhalte.png){height=70%}
 
 ## Mit Nachbarn funken
 
@@ -92,14 +92,14 @@ Wir senden und empfangen zuerst mal Zahlen
 * Können die direkt mit den Funkgeräten von Euren Freunden funken?
 * Oder muss man da was einstellen, damit das funktioniert?
 * __JA__ : Der Sende und Empfangs-Kanal !
-* Beim Calliope heisst das __"Gruppe"__
-* und befindet sich im __Funk -> Mehr__ - Menu  
+* Beim Calliope heisst das __"Funkgruppe"__
+* und befindet sich ganz oben im __Funk__ - Menu  
 
 
 
 ## Setze Gruppe 
 
-![](pics/Selection_009.png){height=70%}
+![](pics/09_Setze_Gruppe.png){height=70%}
 
 
 
@@ -110,16 +110,16 @@ Wir senden und empfangen zuerst mal Zahlen
 * automatisch auf einen zufälligen Wert zwischen 0 - 255
 * d.h. ein HEX-File enthält einen "ausgewürfelten" Kanal
 * ein anderes HEX-File enthält einen anderen "ausgewürfelten" Kanal
-* darum: Enwteder gleiches HEX-File verwenden oder Kanal setzen
-* => Setze Gruppe XXX beim Start
+* darum: Entweder gleiches HEX-File verwenden oder Kanal setzen
+* => Setze Funkgruppe XXX beim Start
 
 
 
 ## Setze Gruppe
 
-Nun bauen wir also das entsprechende __Setze Gruppe__ - Befehl __beim Start__ 
+Nun bauen wir also das entsprechende __setze Funkgruppe__ - Befehl __beim Start__ 
 
-![](pics/Selection_010.png){height=70%}
+![](pics/10_BeimStart.png){height=70%}
 
 ## Zeichenfolgen austauschen
 
@@ -127,12 +127,12 @@ Ebenso kann man - anstatt einzelne Zahlen - ganze Texte von einem Calliope zum a
 
 Die beide dafür verantwortlichen Befehle sind 
 
-* __sende Zeichenfolge__
-* __wenn Datenpaket empfangen receivedString__
+* __sende Text xxx über Funk__
+* __wenn Text empfangen receivedString__
 
 
 
-![](pics/Selection_011.png){height=70%}
+![](pics/11_Strings_Senden.png){height=70%}
 
 
 
@@ -140,13 +140,13 @@ Die beide dafür verantwortlichen Befehle sind
 
 So kann man sich Text-Nachrichten hin und her senden
 
-![](pics/Selection_012.png){height=70%}
+![](pics/12_TexteFunken.png){height=70%}
 
 ## Variablen und Werte schicken
 
 Und dann gibt es noch die Möglichkeit, ganze Zeichenketten __UND__ gleichzeitig Zahlenwerte zu verschicken und zu empfangen:
 
-![](pics/Selection_013.png){height=70%}
+![](pics/13_Wertepaare.png){height=70%}
 
 
 
@@ -175,7 +175,7 @@ Die Variablen, die das Auto versteht, sind __speed__ und __richtung__
 
 
 
-![](pics/Selection_014.png){height=70%} 
+![](pics/14_Fernbedienung_01.png){height=70%} 
 
 
 
@@ -192,7 +192,7 @@ Nun wollen wir eine "richtige" Fernsteuerung für das Auto machen:
 
 
 
-Achtung : Es gibt kein __Wenn Knopf losgelassen__ Ihr müsst Euch anders behelfen.
+Achtung : Es gibt kein Ereignis :  __Wenn Knopf losgelassen__ Ihr müsst Euch anders behelfen.
 
 * Dauerhaft 0 senden und __Wenn Knopf gedrückt__ dann etwas anderes senden, oder
 * Dauerhaft die Tasten abfragen in der Dauerhaft-Schleife und dort die Entscheidungen treffen  
@@ -201,7 +201,7 @@ Achtung : Es gibt kein __Wenn Knopf losgelassen__ Ihr müsst Euch anders behelfe
 
 ## Fernsteuerung für das Auto II
 
-![](pics/Selection_015.png){height=60%}
+![](pics/15_Abfrage_Ereignis.png){height=60%}
 
 
 
@@ -220,5 +220,47 @@ Nochmal die Aufgabe:
 
 Mögliche Lösung
 
- ![](pics/Selection_016.png){height=80%}
+ ![](pics/16_Fernbedienung.png){height=80%}
+
+
+
+## JavaScript-Code
+
+<details>
+ <summary>Java-Script-Code</summary>
+
+```js
+let richtung = 0
+let geschwindigkeit = 0
+radio.setGroup(1)
+radio.setTransmitPower(7)
+basic.forever(function () {
+    if (input.buttonIsPressed(Button.AB)) {
+        geschwindigkeit = 100
+        richtung = 0
+        basic.showArrow(ArrowNames.North)
+    } else if (input.buttonIsPressed(Button.A)) {
+        geschwindigkeit = 70
+        richtung = -40
+        basic.showArrow(ArrowNames.NorthWest)
+    } else if (input.buttonIsPressed(Button.B)) {
+        geschwindigkeit = 70
+        richtung = 40
+        basic.showArrow(ArrowNames.NorthEast)
+    } else {
+        geschwindigkeit = 0
+        richtung = 0
+        basic.showIcon(IconNames.Target)
+    }
+    radio.sendValue("speed", geschwindigkeit)
+    radio.sendValue("richtung", richtung)
+})
+
+```
+
+</details>
+
+## Download Hex-Code
+
+[Hex-code](code/mini-Sender_Kanal_1_Knopf.hex)
 

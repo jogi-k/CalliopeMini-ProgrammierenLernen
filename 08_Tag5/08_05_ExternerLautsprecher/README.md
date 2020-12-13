@@ -2,7 +2,7 @@
 
 ## Zusätzliche Möglichkeiten
 
-Nachdem wir für den Motor die 5-polige Erweiterungs-Leiste  aufgelötet haben, möchte ich noch zwei zusätzliche Möglichkeiten dieser Leiste aufzeigen.
+Nachdem wir für den Motor die 6-polige Erweiterungs-Leiste  aufgelötet haben, möchte ich noch zwei zusätzliche Möglichkeiten dieser Leiste aufzeigen.
 Man kann daran anschliessen:
 
 * Zusätzliche Batterie für die Motoren
