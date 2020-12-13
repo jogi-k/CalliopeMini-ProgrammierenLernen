@@ -25,7 +25,7 @@ Diese zusätzliche Batterie
 
 ## Anschluss 
 
-Die zusätzliche Batterie wird an den beiden rechten Pins angeschlossen, ganz aussen Plus, daneben Minus.
+Die zusätzliche Batterie wird an den beiden rechten Pins angeschlossen, ganz aussen Minus, daneben Plus
 
 Auf dem offiziellen Bild des Calliope sieht man das ganz gut:
 

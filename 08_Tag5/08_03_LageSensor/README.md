@@ -107,7 +107,7 @@ input.onGesture(Gesture.ScreenUp, () => {
 ```
 </details>
 
-__Download Hex-Code__
+## __Download Hex-Code__
 
 [Hex-code](code/mini-DC_Motor_LageSensoren.hex)
 

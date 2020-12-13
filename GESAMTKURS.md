@@ -21,6 +21,8 @@ __Herbst 2020__
 * ["Hausaufgabe": Schubladen-Alarmanlage](05_Tag3_Nachlese/index.html)
 * [Do, 03.Dez : Tag 4, Schleifen, Motoren-Ansteuerung, Lagesensor](06_Tag4/index.html)
 * ["Hausaufgabe": Schleifen ](07_Tag4_Nachlese/index.html)
+* [Do, 10.Dez : Tag 5, Motoren, Funk-Übertragung, externer Lautsprecher](08_Tag5/index.html)
+
 
 <!--
 
